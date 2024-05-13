@@ -52,6 +52,7 @@ CSS INDEX
   --cyan: rgb(252, 244, 255);
   --rose: rgb(255, 240, 248);
   --yellow: rgb(254, 250, 240);
+  --table-border: #fff;
 }
 
 :root .dark-theme {
@@ -66,6 +67,7 @@ CSS INDEX
   --light-white-2: #f8fbfb;
   --prink: #fff4f4;
   --catkrill: #eef5fa;
+  --table-border: #212425;
 }
 
 body {
@@ -128,9 +130,9 @@ textarea:focus {
   text-transform: uppercase;
 }
 
-.capitalize {
+/* .capitalize {
   text-transform: capitalize;
-}
+} */
 
 h1,
 h2,
@@ -143,7 +145,7 @@ h6 {
   margin-top: 0px;
   line-height: 1.5;
   font-weight: 700;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-bottom: 15px;
 }
 
@@ -1769,6 +1771,12 @@ textarea:focus::placeholder {
   z-index: 5;
 }
 
+.wd-45 {
+  width: 45%;
+  justify-content: space-around;
+
+}
+
 .w-60 {
   width: 60%;
 }
@@ -1799,26 +1807,22 @@ textarea:focus::placeholder {
 
 table {
   width: 90%;
-  border-collapse: collapse;
+  border-collapse: separate;
   margin: 0 auto;
   margin-bottom: 20px;
-  border-radius:  20px;
 }
 
 thead {
   display: table-header-group;
   vertical-align: middle;
   unicode-bidi: isolate;
-  /* border-radius:  20px; */
-  /* border: 10px solid #ffffff; */
+  text-align: left;
 }
 
 tbody {
   display: table-row-group;
   vertical-align: left;
   unicode-bidi: isolate;
-  /* border-radius:  20px; */
-  /* border-color: #ffffff;: */
 }
 
 tr {
@@ -1826,25 +1830,26 @@ tr {
   vertical-align: inherit;
   unicode-bidi: isolate;
   border-radius:  20px;
-  /* border: 10px solid #ffffff; */
 }
 
 th {
-  padding: 12px;
-  margin : 5px;
-  text-align: left;
-  /* border: 10px solid #ffffff; */
+  text-align: center;
+  border: 4px solid var(--table-border);
   border-radius:  20px;
-  color: #000000;
+  color: var(--body-text);
+}
+
+th h5 {
+ margin: 0px;
 }
 
 td {
-  padding: 12px;
+  padding: 10px;
   text-align: left;
-  /* border: 10px solid #ffffff; */
+  color: var(--body-text);
+  border: 4px solid var(--table-border);
   border-radius: 20px;
-  color:#0f172a;
-}
+  }
 
 .pkgd-table {
   background-color: #fff4f4;
@@ -1864,7 +1869,7 @@ td {
   display: inline-block;
   font-size: 18px;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: var(--common-white);
   background-color: var(--theme-primary);
   line-height: 27px;
@@ -1892,7 +1897,7 @@ td {
   display: inline-block;
   font-size: 18px;
   font-weight: 400;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: var(--common-white);
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
   line-height: 27px;
@@ -2011,7 +2016,7 @@ td {
   font-size: 16px;
   font-weight: 500;
   display: inline-block;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: #1a1a1a;
   height: 50px;
   width: 133px;
@@ -2387,7 +2392,7 @@ td {
 .mobile-menu-wrap .mobile-menu .mean-bar .mean-nav ul li a {
   border: none;
   font-size: 13px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   font-weight: 500;
   color: var(--body-text);
   padding: 5px 70px;
@@ -2443,7 +2448,7 @@ td {
 .bastami-main-menu ul li a {
   display: block;
   font-size: 13px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   font-weight: 500;
   line-height: 1;
 }
@@ -2791,7 +2796,7 @@ td {
 }
 .bostami-parsonal-info-name {
   font-size: 60px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   font-weight: 500;
   color: var(--common-black);
   font-family: "Roboto Slab", serif;
@@ -2817,7 +2822,7 @@ td {
   font-size: 26px;
   display: inline-block;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: var(--common-black);
   font-family: "Poppins", sans-serif;
   background-color: var(--light-white);
@@ -2955,7 +2960,7 @@ td {
   display: block;
   font-size: 12px;
   line-height: 18px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   font-weight: 400;
   margin-bottom: 3px;
 }
@@ -2964,7 +2969,7 @@ td {
   line-height: 24px;
   font-weight: 400;
   color: var(--common-black);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-bottom: 0;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -3055,6 +3060,14 @@ td {
 06. client
 ******************************************************* 
 *************************************************************** */
+
+.swiper-container {
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+}
+
+
 .bostami-client {
   padding-top: 40px;
   padding-bottom: 70px;
@@ -3331,7 +3344,7 @@ td {
 .fillter-btn-wrap .fillter-btn {
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize;: */
   display: inline-block;
   padding: 0 18px;
   cursor: pointer;
@@ -3362,12 +3375,12 @@ td {
   display: block;
   font-size: 12px;
   font-weight: 400;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 .fillter-item .item-title {
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-bottom: 0;
 }
 .fillter-item .item-title:hover {
@@ -3659,7 +3672,7 @@ td {
   display: inline-block;
   font-size: 14px;
   font-weight: 400;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-right: 5px;
 }
 .blog-slider-single .blog-meta .blog-cetagory {
@@ -3680,7 +3693,7 @@ td {
 .blog-slider-single .blog-title {
   font-size: 18px;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 .blog-slider-single .blog-title:hover {
   color: var(--theme-primary);
@@ -3922,7 +3935,7 @@ td {
 .h1-modal-box .modal-dialog .modal-content .modal-body .h1-modal-comment-box button {
   font-size: 14px;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   border: none;
   outline: none;
   padding: 8px 20px;
@@ -3978,7 +3991,7 @@ td {
   font-size: 25px;
   font-weight: 400;
   color: var(--body-text);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-bottom: 13px;
 }
 .contact-area .contact-title-b {
@@ -3992,7 +4005,7 @@ td {
   font-size: 16px;
   display: inline-block;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   line-height: 1;
 }
 .contact-form .input-box {
@@ -4012,45 +4025,45 @@ td {
 }
 
 .bostami-contact-item {
-  display: flex;
+  /* display: flex; */
   gap: 20px;
-  padding: 30px;
-  border-radius: 10px;
+  /* padding: 30px; */
+  /* border-radius: 10px; */
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .bostami-contact-item {
-    padding: 20px;
+    /* padding: 20px; */
   }
 }
 @media (max-width: 767px) {
   .bostami-contact-item {
-    padding: 20px;
-    flex-wrap: wrap;
+    /* padding: 20px; */
+    /* flex-wrap: wrap; */
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .bostami-contact-item {
-    padding: 30px;
-    flex-wrap: nowrap;
+    /* padding: 30px; */
+    /* flex-wrap: nowrap; */
   }
 }
 .bostami-contact-item .icon {
-  flex: 0 0 auto;
-  width: 35px;
+  /* flex: 0 0 auto; */
+  /* width: 35px; */
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .bostami-contact-item .icon {
-    width: 40px;
+    /* width: 40px; */
   }
 }
 @media (max-width: 767px) {
   .bostami-contact-item .icon {
-    width: 40px;
+    /* width: 40px; */
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .bostami-contact-item .icon {
-    width: 80px;
+    /* width: 80px; */
   }
 }
 .bostami-contact-item .text .title {
@@ -4211,7 +4224,7 @@ td {
 .breadcrumb-title {
   font-size: 30px;
   font-weight: 400;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: #000;
   line-height: 1.33;
   font-family: "Roboto Slab", serif;
@@ -4266,7 +4279,7 @@ td {
   display: inline-block;
   font-size: 14px;
   line-height: 21px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: #44566c;
 }
 
@@ -4355,7 +4368,7 @@ td {
   font-weight: 400;
   line-height: 24px;
   color: #000;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-bottom: 0;
 }
 .blog-details-tag .tag-item a {
@@ -4363,7 +4376,7 @@ td {
   font-size: 14px;
   font-weight: 400;
   line-height: 21px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: #696969;
   background: #f0f5f7;
   border-radius: 4px;
@@ -4410,13 +4423,13 @@ td {
   font-weight: 500;
   line-height: 24px;
   color: #202124;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 .blog-details-comment-item .flex .content .bio {
   display: block;
   font-size: 14px;
   font-weight: 400;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   line-height: 21px;
   color: #696969;
   margin-bottom: 18px;
@@ -4453,7 +4466,7 @@ td {
   color: #ffc78b;
 }
 .blog-details-comment-box form .input-title {
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   font-weight: 400;
   font-size: 15px;
   line-height: 22px;
@@ -4479,7 +4492,7 @@ td {
   font-size: 14px;
   font-weight: 400;
   color: #77838f;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 .blog-details-comment-box form textarea {
   height: 195px;
@@ -4490,7 +4503,7 @@ td {
   font-size: 18px;
   line-height: 26px;
   text-align: center;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: #1a1a1a;
   background: #f8fbfb;
   border: 2px solid #44566c;
@@ -4528,7 +4541,7 @@ td {
   font-weight: 500;
   line-height: 27px;
   color: #202124;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   margin-bottom: 10px;
 }
 
@@ -4564,7 +4577,7 @@ td {
   font-weight: 400;
   line-height: 22px;
   color: #696969;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .sidebar-category li a {
@@ -4572,7 +4585,7 @@ td {
   font-weight: 400;
   line-height: 35px;
   color: #696969;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   position: relative;
   padding-left: 15px;
   transition: 0.3s;
@@ -4621,14 +4634,14 @@ td {
   display: block;
   font-weight: 400;
   font-size: 14px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   color: #696969;
   line-height: 21px;
 }
 .recent-post-item .content .title {
   font-size: 15px;
   font-weight: 400;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   line-height: 22px;
   color: #202124;
   margin-bottom: 3px;
@@ -4732,6 +4745,7 @@ td {
   color: #fff;
 }
 .dark-theme .page-wrapper .bostami-parsonal-info-bio,
+.dark-theme .th .bostami-contact-item .text,
 .dark-theme .page-wrapper .bostami-contact-item .text span {
   color: #a6a6a6;
 }
