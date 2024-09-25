@@ -2925,6 +2925,20 @@ td {
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.08);
   transition: 0.3s;
 }
+
+.bostami-parsonal-info-contact-item .icon0 {
+  flex: 0 0 auto;
+  display: inline-block;
+  width: 44px;
+  height: 44px;
+  background-color: var(--common-white);
+  border-radius: 8px;
+  text-align: center;
+  line-height: 44px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.08);
+  transition: 0.3s;
+}
+
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .bostami-parsonal-info-contact-item .icon {
     width: 35px;

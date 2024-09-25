@@ -113,7 +113,7 @@
   }
   // client slider end
 
-  // portfolio fillter start
+  // portfolio filter start
   function enableMasonry2() {
     // ----------------------------- isotop gallery
 
