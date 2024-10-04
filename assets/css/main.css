@@ -2048,6 +2048,17 @@ td {
 03. page
 ******************************************************* 
 *************************************************************** */
+.ingenuity-badge {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width: 150px;  /* Adjust the size */
+  height: 150px;
+  object-fit: cover;
+  border-radius: 5px;  /* Optional: add rounded corners */
+}
+
+
 .page-wrapper {
   height: 100vh;
   width: 100vw;

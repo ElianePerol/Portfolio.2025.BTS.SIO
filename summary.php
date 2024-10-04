@@ -2,7 +2,6 @@
 include_once "common/header.php";
 ?>
 
-<!-- main-content-div-start -->
 <div class="bostami-page-area z-index-3">
     <div class="container">
         <div class="bostami-page-wrap pt-60 pl-80 pr-80 pb-60">
@@ -250,7 +249,6 @@ include_once "common/header.php";
         </div>
     </div>
 </div>
-<!-- main-content-div-end -->
         
 <?php 
 include_once "common/footer.php";

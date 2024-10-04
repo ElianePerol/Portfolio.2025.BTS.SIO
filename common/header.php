@@ -51,6 +51,8 @@
                                             <li id="summary">
                                                 <a href="summary.php"><span><i class="fa-light fa-address-book"></i></span> Synthèse</a>
                                             </li>
+                                            <li id="tech-watch">
+                                                <a href="tech-watch.php"><span><i class="fa-light fa-chalkboard-user"></i></span> Veille</a>
                                         </ul>
                                     </nav>
                                 </div>

@@ -10,7 +10,8 @@ const idToURL = {
     "projects" : "/projects.php",
     "missions" : "/missions.php",
     "skills" : "/skills.php",
-    "summary" : "/summary.php"
+    "summary" : "/summary.php",
+    "tech-watch" : "/tech-watch.php"
 };
 
 console.log(idToURL.hasOwnProperty("index"));

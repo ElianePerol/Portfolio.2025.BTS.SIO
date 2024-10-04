@@ -156,7 +156,7 @@ include_once "common/header.php";
                                                 <p>Les étudiants qui se dirigent vers les métiers liés à la conception et à la maintenance de logiciels applicatifs seront 
                                                     responsables de l'élaboration d'un cahier des charges, de la formulation des besoins, du développement et de l'intégration
                                                     de l'application.</p><br>
-                                                    <b>Emplois concernés :</b>
+                                                <b>Emplois concernés :</b>
                                                 <ul>
                                                     <li>Analyste d'applications</li>
                                                     <li>Analyste d'études</li>

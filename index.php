@@ -66,7 +66,8 @@ include_once "common/header.php";
                     <!-- img -->
                     <div class="col-lg-4 col-md-8">
                         <div class="bostami-parsonal-info-img">
-                            <img src="assets/img/presentation/profile-pic.png" alt="Photo de profil">
+                            
+                            <img src="assets/img/presentation/profile-pic3.jpg" alt="Photo de profil">
                         </div>
                     </div>
 
@@ -163,42 +164,42 @@ include_once "common/header.php";
                         </div>
                     </div>
 
-                    <!-- single item -->
-                    <div class="col-xl-4 col-lg-6 col-md-6">
+                    <!-- bts-sio -->
+                    <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="bostami-what-do-item bg-prink">
                             <div class="icon">
                                 <i class="fa-solid fa-school"></i>
                             </div>
                             <div class="text">
-                                <h4 class="title"><a href="bts-sio.php">BTS SIO</a></h4>
+                                <h3 class="title"><a href="bts-sio.php">BTS SIO</a></h3>
                                 <a href="bts-sio.php">ESPL Angers</a>
                             </div>
                         </div>
                     </div>
-                    <!-- single item -->
-                    <div class="col-xl-4 col-lg-6 col-md-6">
+                    <!-- xlabs -->
+                    <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="bostami-what-do-item bg-catkrill">
                             <div class="icon">
                                 <i class="fa-solid fa-vial"></i>
                             </div>
                             <div class="text">
-                                <h4 class="title"><a href="xlabs.php">Entreprise</a></h4>
+                                <h3 class="title"><a href="xlabs.php">Entreprise</a></h3>
                                 <a href="xlabs.php">XLABS Laboratoires</a>
                             </div>
                         </div>
                     </div>
-                    <!-- single item -->
-                    <div class="col-xl-4 col-lg-6 col-md-6">
+                    <!-- tech-watch -->
+                    <!-- <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="bostami-what-do-item  bg-cyan">
                             <div class="icon">
                                 <i class="fa-solid fa-chalkboard-user"></i>
                             </div>
                             <div class="text">
-                                <h4 class="title"><a href="tech-watch.php">Veille technologique</a></h4>
+                                <h3 class="title"><a href="tech-watch.php">Veille technologique</a></h3>
                                 <a href="tech-watch.php">Liste des sujets de veille.</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
 
                 </div>
