@@ -35,7 +35,7 @@ include_once "common/header.php";
 
                             <!-- name -->
                             <h4 class="bostami-parsonal-info-title">GIE MyXlab - Laboratoires de biologie médicale</h4>
-                            <p class="bostami-parsonal-info-bio-text">Xlabs a ouvert son premier laboratoire à Cholet en 19??. En 2023 elle comptait 13 sites répartis 
+                            <p class="bostami-parsonal-info-bio-text">Xlabs a ouvert son premier laboratoire à Cholet en 1974. En 2023 elle comptait 13 sites répartis 
                                 sur trois départements : Maine et Loire (49), Vendée (85) et Deux-Sèvres (79).
                             </p>
                             <p class="bostami-parsonal-info-bio-text">Le GIE MyXlab a été créé en 2023 dans le cadre du développement de l'entreprise.
@@ -93,8 +93,8 @@ include_once "common/header.php";
                                             <i class="fa-solid fa-people-group"></i>
                                         </div>
                                         <div class="text">
-                                            <span>Effectifs</span>
-                                            <p>150</p>
+                                            <span>Effectifs (en 2024)</span>
+                                            <p>190</p>
                                         </div>
                                     </div>
                                 </div>
@@ -115,8 +115,8 @@ include_once "common/header.php";
                                             <i class="fa-solid fa-vials"></i>
                                         </div>
                                         <div class="text">
-                                            <span>Nombre d'analyses proposées</span>
-                                            <p>85</p>
+                                            <span>Nombre d'analyses proposées (en 2024)</span>
+                                            <p>152</p>
                                         </div>
                                     </div>
                                 </div>
@@ -126,8 +126,19 @@ include_once "common/header.php";
                                             <i class="fa-solid fa-files"></i>
                                         </div>
                                         <div class="text">
-                                            <span>Nombre de dossier par mois</span>
-                                            <p>4 684</p>
+                                            <span>Nombre de dossier par mois (en 2023)</span>
+                                            <p>28 000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4">
+                                    <div class="bostami-parsonal-info-contact-item phone">
+                                        <div class="icon0">
+                                            <i class="fa-regular fa-users-medical"></i>
+                                        </div>
+                                        <div class="text">
+                                            <span>Nombre de patients (en 2022)</span>
+                                            <p>699 318</p>
                                         </div>
                                     </div>
                                 </div>
@@ -138,18 +149,7 @@ include_once "common/header.php";
                                         </div>
                                         <div class="text">
                                             <span>Chiffre d'affaire (en 2022)</span>
-                                            <p>24,479,000 €</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-4">
-                                    <div class="bostami-parsonal-info-contact-item phone">
-                                        <div class="icon0">
-                                            <i class="fa-regular fa-users-medical"></i>
-                                        </div>
-                                        <div class="text">
-                                            <span>Nombre de patients</span>
-                                            <p>10,658,159</p>
+                                            <p>24 479 000 €</p>
                                         </div>
                                     </div>
                                 </div>
