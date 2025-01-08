@@ -66,11 +66,7 @@ include_once "common/header.php";
                                     ">
                                         <img src="assets/img/tech-watch/source1.png" alt="">
                                     </a>
-<<<<<<< HEAD
-                                    <span class="item-subtitle">Article Medium.com, 23/04/2023</span>
-=======
                                     <span class="item-subtitle">Medium, 23/04/2023</span>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-1">Software development for space programs and satellites</a>
                                     </h6>
@@ -82,19 +78,11 @@ include_once "common/header.php";
                             <div class=" isotop-item quantum-it">
                                 <div class="fillter-item bg-yellow">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-2">
-<<<<<<< HEAD
-                                        <img src="assets/img/work/work-img-2.png" alt="">
-                                    </a>
-                                    <span class="item-subtitle">Type de source, 01/01/1970</span>
-                                    <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#source-2">Source 2</a>
-=======
                                         <img src="assets/img/tech-watch/source2.png" alt="">
                                     </a>
                                     <span class="item-subtitle">IBM, 05/08/2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-2">What is quantum computing?</a>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     </h6>
                                 </div>
                             </div>
@@ -104,19 +92,11 @@ include_once "common/header.php";
                             <div class=" isotop-item dev-languages">
                                 <div class="fillter-item bg-prink ">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-3">
-<<<<<<< HEAD
-                                        <img src="assets/img/work/work-img-3.png" alt="">
-                                    </a>
-                                    <span class="item-subtitle">Type de source, 01/01/1970</span>
-                                    <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#source-3">Source 3</a>
-=======
                                         <img src="assets/img/tech-watch/source3.png" alt="">
                                     </a>
                                     <span class="item-subtitle">Analytics Insight, 04/10/2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-3">Will There Be a New Dominant Programming Language by 2030?</a>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     </h6>
                                 </div>
                             </div>
@@ -126,19 +106,11 @@ include_once "common/header.php";
                             <div class=" isotop-item quantum-it">
                                 <div class="fillter-item bg-yellow">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-4">
-<<<<<<< HEAD
-                                        <img src="assets/img/work/work-img-4.png" alt="">
-                                    </a>
-                                    <span class="item-subtitle">Type de source, 01/01/1970</span>
-                                    <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#source-4">Source 4</a>
-=======
                                         <img src="assets/img/tech-watch/source4.png" alt="">
                                     </a>
                                     <span class="item-subtitle">IBM, 28/02/2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-4">What is a qubit?</a>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     </h6>
                                 </div>
                             </div>
@@ -150,11 +122,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-5">
                                         <img src="assets/img/tech-watch/source5.png" alt="">
                                     </a>
-<<<<<<< HEAD
-                                    <span class="item-subtitle">Article AnalyticsInsight.net, 23/08/2023</span>
-=======
                                     <span class="item-subtitle">Analytics Insight, 23/08/2023</span>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-5">10 Programming Languages for ISRO’s 2023 Space Projects</a>
                                     </h6>
@@ -166,19 +134,11 @@ include_once "common/header.php";
                             <div class="isotop-item dev-languages">
                                 <div class="fillter-item bg-prink">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-6">
-<<<<<<< HEAD
-                                        <img src="assets/img/work/work-img-6.png" alt="">
-                                    </a>
-                                    <span class="item-subtitle">Type de source, 01/01/1970</span>
-                                    <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#source-6">Source 6</a>
-=======
                                         <img src="assets/img/tech-watch/source6.png" alt="">
                                     </a>
                                     <span class="item-subtitle">New York Institute of Technology, 25/10/2023</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-6">The Role of Programming Languages in Data Science</a>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     </h6>
                                 </div>
                             </div>
@@ -190,11 +150,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-7">
                                         <img src="assets/img/tech-watch/source7.png" alt="">
                                     </a>
-<<<<<<< HEAD
-                                    <span class="item-subtitle">Article web, 03/08/2021</span>
-=======
                                     <span class="item-subtitle">Blue Marble Space Institute of Science, 03/08/2021</span>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-7">The importance of software in space missions</a>
                                     </h6>
@@ -203,16 +159,6 @@ include_once "common/header.php";
                             <!-- source-7-end -->
 
                             <!-- source-8-start -->
-<<<<<<< HEAD
-                            <div class="isotop-item quantum-it">
-                                <div class="fillter-item bg-yellow">
-                                    <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-8">
-                                        <img src="assets/img/work/work-img-5.png" alt="">
-                                    </a>
-                                    <span class="item-subtitle">Type de source, 01/01/1970</span>
-                                    <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#source-8">Source 8</a>
-=======
                             <div class=" isotop-item quantum-it">
                                 <div class="fillter-item bg-yellow">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-8">
@@ -221,7 +167,6 @@ include_once "common/header.php";
                                     <span class="item-subtitle">Newsroom IBM, 16/05/2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-8">IBM étend Qiskit</a>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     </h6>
                                 </div>
                             </div>
@@ -231,19 +176,11 @@ include_once "common/header.php";
                             <div class="isotop-item dev-languages">
                                 <div class="fillter-item bg-prink">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-9">
-<<<<<<< HEAD
-                                        <img src="assets/img/work/work-img-6.png" alt="">
-                                    </a>
-                                    <span class="item-subtitle">Type de source, 01/01/1970</span>
-                                    <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#source-9">Source 9</a>
-=======
                                         <img src="assets/img/tech-watch/source9.jpg" alt="">
                                     </a>
                                     <span class="item-subtitle">The New Stack, 26/11/2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#source-9">Why PyTorch Gets All the Love</a>
->>>>>>> 4d71e65 (veille tech page finalisée)
                                     </h6>
                                 </div>
                             </div>
@@ -260,8 +197,6 @@ include_once "common/header.php";
     </div>
 </div>
 
-<<<<<<< HEAD
-=======
 
 <!-- source-8-modal-start -->
 <div class="modal portfolio-modal-box fade" id="source-8" tabindex="-1" role="dialog">
@@ -426,7 +361,6 @@ include_once "common/header.php";
 </div>
 <!-- source-9-modal-end -->
 
->>>>>>> 4d71e65 (veille tech page finalisée)
 <?php 
 include_once "tech-watch-modals.php";
 ?>
