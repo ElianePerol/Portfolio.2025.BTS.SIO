@@ -72,7 +72,7 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-file-lines"></i>
-                                Source : <span>Medium.com</span>
+                                Source : <span>Medium</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
@@ -108,12 +108,12 @@
                     <p>Les phases de la programmation logicielle pour les programmes spaciaux sont : la collecte des exigences, la conception, l'implémentation, 
                         les tests (unitaires, d'intégration, environnementaux) et la maintenance.</p>
                     <p><ul>Les défis principaux sont : 
-                            <li>- La tolérance aux pannes : les logiciels doivent pouvoir fonctionner malgré de probables pannes matérielles dû aux conditions 
+                            <li><b>La tolérance aux pannes :</b> les logiciels doivent pouvoir fonctionner malgré de probables pannes matérielles dû aux conditions 
                             environnementales. Les techniques utilisées incluent la redondance (plusieurs copies du logiciel ou matériel sont utilisées), 
                             la détection et la reprise automatique en cas de pannes ou encore le design "fail-safe" (le programme entre dans un état sécurisé en cas de panne)</li>
-                            <li>- La compatibilité avec un grand nombre de configurations matérielles et logicielles : des satellites et des engins spatiaux 
+                            <li><b>La compatibilité avec un grand nombre de configurations matérielles et logicielles :</b> des satellites et des engins spatiaux 
                             différents utilisent du matériel et des protocoles de communication différents, le logiciel doit fonctionner malgré ces variations.</li>
-                            <li>- Suive le rythme d'évolution des nouvelles technologies et techniques : l'utilisation de l'IA ou du machine learning est de plus en 
+                            <li><b>Suive le rythme d'évolution des nouvelles technologies et techniques :</b> l'utilisation de l'IA ou du machine learning est de plus en 
                             plus commune car elle permet aux satellites et engins spatiaux d'accomplir des tâches plus complexes et de prendre des décisions éclairées.</li>
                         </ul>
                     </p>
@@ -138,7 +138,7 @@
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Source 2</h6>
+                <h6 class="blog-title">What is quantum computing?</h6>
                 
                 <!-- header-start -->
                 <div class="portfolio-modal-table">
@@ -146,25 +146,26 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-file-lines"></i>
-                                Source : <span>Source 2</span>
+                                Source : <span>IBM</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-arrow-up-right-from-square"></i>
-                                Lien : <a href="https://www.google.com" target="_blank"><span>URL de la source</span></a>
+                                Lien : <a href="https://www.ibm.com/topics/quantum-computing" 
+                                target="_blank"><span>Lire l'article</span></a>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Date : <span>01/01/1970</span>
+                                Date : <span>05/08/2024</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-newspaper"></i>
-                                Type : <span>Type de source</span>
+                                Type : <span>Article web</span>
                             </h3>
                         </div>
                     </div>
@@ -174,19 +175,28 @@
                 <!--résumé-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Résumé</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, 
-                        dignissim sit amet, adipiscing nec, ultricies sed, dolor.
-                    </p>
-                    <p>Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
-                        Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+                    <p>L'informatique quantique est une approche révolutionnaire du calcul qui exploite les principes de la mécanique quantique. 
+                        Contrairement aux ordinateurs classiques, qui utilisent les bits comme plus petite unité de données (0 et 1), les ordinateurs 
+                        quantiques utilisent des bits quantiques ou qubits.</p>
+                    <p>Les qubits peuvent exister simultanément dans plusieurs états, grâce au principe de superposition, permettant aux ordinateurs 
+                        quantiques de traiter une grande quantité de données à la fois.</p>
+                    <p>L'intrication, un autre principe clé, permet aux qubits intriqués d'être corrélés les uns aux autres, même lorsqu'ils sont 
+                        séparés par de grandes distances. Cette propriété peut améliorer considérablement la vitesse et l’efficacité du calcul.
+                        Contrairement aux ordinateurs classiques qui doivent calculer chaque étape d'un calcul complexe, les circuits quantiques 
+                        constitués de qubits logiques peuvent traiter d'énormes ensembles de données simultanément avec différentes opérations.</p> 
+                    <p>Les ordinateurs traditionnels sont déterministes : ils nécessitent des calculs laborieux pour déterminer un résultat singulier 
+                        spécifique de toute entrée. Les ordinateurs quantiques sont probabilistes : ils trouvent la solution la plus probable à un problème.</p>
+                    <p>IBM a été à l'avant-garde de la recherche sur l'informatique quantique, en développant des plates-formes matérielles et logicielles 
+                        pour rendre l'informatique quantique accessible. Leur expérience quantique permet aux utilisateurs de réaliser des expériences sur 
+                        du matériel quantique réel. Cependant, des défis tels que les taux d’erreur et les temps de cohérence des qubits restent des domaines 
+                        critiques pour la recherche et le développement en cours.</p>
+                    <p>Même si les ordinateurs quantiques excellent dans des tâches spécifiques (factorisation première, gestion de grands ensembles de données), 
+                        ils ne remplaceront pas les ordinateurs classiques pour la plupart des applications. Des systèmes hybrides combinant l’informatique 
+                        classique et quantique émergent, avec le potentiel de transformer les industries existantes et d’en créer de nouvelles à mesure que 
+                        la technologie progresse.
                     </p>
                 </div>
                 <!--résumé-end -->
-
-                <!-- mission-image -->
-                <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
             </div>
 
         </div>
@@ -206,7 +216,7 @@
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Source 3</h6>
+                <h6 class="blog-title">Will There Be a New Dominant Programming Language by 2030?</h6>
                 
                 <!-- header-start -->
                 <div class="portfolio-modal-table">
@@ -214,25 +224,26 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-file-lines"></i>
-                                Source : <span>Source 3</span>
+                                Source : <span>Analytics Insight</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-arrow-up-right-from-square"></i>
-                                Lien : <a href="https://www.google.com" target="_blank"><span>URL de la source</span></a>
+                                Lien : <a href="https://www.analyticsinsight.net/programming/will-there-be-a-new-dominant-programming-language-by-2030" target="_blank">
+                                    <span>Lire l'article</span></a>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Date : <span>01/01/1970</span>
+                                Date : <span>04/10/2024</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-newspaper"></i>
-                                Type : <span>Type de source</span>
+                                Type : <span>Article web</span>
                             </h3>
                         </div>
                     </div>
@@ -242,19 +253,26 @@
                 <!--résumé-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Résumé</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, 
-                        dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+                    <p><ul>Tendances et limites des langages actuels :
+                        <li><b>JavaScript :</b> Essentiel pour le web, mais problèmes de 
+                        scalabilité et maintenabilité dans les applications complexes.</li>
+                        <li><b>Python :</b> Populaire mais plus lent que C++/Rust, et moins 
+                        adapté aux applications en temps réel.</li>
+                        <li><b>Java :</b> Clé pour Android, mais trop verbeux et avec une 
+                        architecture dépassée comparée à Kotlin.</li>
+                    </ul>
                     </p>
-                    <p>Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
-                        Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+                    <p>Languages concurrents :<br>
+                    <b>Rust, Kotlin, Swift, Go, TypeScript</b> gagnent du terrain grâce à leurs 
+                    spécificités dans des domaines comme la sécurité mémoire, l'optimisation 
+                    des performances et la scalabilité.</p>
+                    <p>Nouvelles technologies :<br>
+                    L’IA, le machine learning et le cloud computing 
+                    influenceront l'évolution des langages. Des langages comme Julia, TensorFlow, 
+                    PyTorch se distinguent pour ces technologies.                   
                     </p>
                 </div>
                 <!--résumé-end -->
-
-                <!-- mission-image -->
-                <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
             </div>
 
         </div>
@@ -274,7 +292,7 @@
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Source 4</h6>
+                <h6 class="blog-title">What is a qubit?</h6>
                 
                 <!-- header-start -->
                 <div class="portfolio-modal-table">
@@ -282,25 +300,26 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-file-lines"></i>
-                                Source : <span>Source 4</span>
+                                Source : <span>IBM</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-arrow-up-right-from-square"></i>
-                                Lien : <a href="https://www.google.com" target="_blank"><span>URL de la source</span></a>
+                                Lien : <a href="https://www.ibm.com/topics/qubit" target="_blank">
+                                    <span>Lire l'article</span></a>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Date : <span>01/01/1970</span>
+                                Date : <span>28/02/2024</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-newspaper"></i>
-                                Type : <span>Type de source</span>
+                                Type : <span>Article web</span>
                             </h3>
                         </div>
                     </div>
@@ -310,19 +329,24 @@
                 <!--résumé-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Résumé</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, 
-                        dignissim sit amet, adipiscing nec, ultricies sed, dolor.
-                    </p>
-                    <p>Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
-                        Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+                    <p>Les qubits sont les unités fondamentales de l'information quantique, analogues aux bits de l'informatique classique.</p> 
+                    <p>Contrairement aux bits classiques, qui représentent 0 ou 1, les qubits peuvent exister dans un état de superposition, 
+                        ce qui signifie qu'ils peuvent représenter à la fois 0 et 1 simultanément. Cette propriété permet aux ordinateurs quantiques 
+                        d’effectuer plusieurs calculs à la fois, améliorant ainsi considérablement la puissance de traitement.</p> 
+                    <p>Une autre caractéristique cruciale des qubits est l’intrication, où des paires de qubits s’interconnectent, permettant 
+                        à l’état d’un qubit d’influencer instantanément l’état d’un autre, quelle que soit la distance. Ce phénomène est essentiel 
+                        pour obtenir des calculs plus rapides et des capacités de résolution de problèmes plus complexes.</p> 
+                    <p>Les qubits peuvent être réalisés à l'aide de divers systèmes physiques, tels que des circuits supraconducteurs, des ions 
+                        piégés ou des photons. Chaque méthode présente ses avantages et ses défis en termes de temps de cohérence, de taux d'erreur 
+                        et d'évolutivité. IBM se concentre sur les qubits supraconducteurs, qui se sont révélés prometteurs pour atteindre des 
+                        performances élevées.</p> 
+                    <p>Alors que les chercheurs continuent d’affiner la technologie des qubits, l’objectif est de créer des systèmes quantiques 
+                        plus fiables et évolutifs. Les progrès dans la conception des qubits et la correction des erreurs sont essentiels pour 
+                        libérer tout le potentiel de l’informatique quantique, ouvrant la voie à des percées dans divers domaines, notamment la 
+                        cryptographie, la découverte de médicaments et la modélisation de systèmes complexes.
                     </p>
                 </div>
                 <!--résumé-end -->
-
-                <!-- mission-image -->
-                <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
             </div>
 
         </div>
@@ -350,7 +374,7 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-file-lines"></i>
-                                Source : <span>AnalyticsInsight.net</span>
+                                Source : <span>Analytics Insight</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
@@ -381,21 +405,21 @@
                     <h5>Résumé</h5>
                     <p><ul>Pour ses projets spatiaux, l' ISRO (Organisation Indienne pour la Recherche Spatiale) 
                         choisi rigoureusement ses langages de programmations :
-                            <li><b>1. C++ :</b>  pour le design des systemes de contrôle de satellites, la simulation 
+                            <li><b>C++ :</b>  pour le design des systemes de contrôle de satellites, la simulation 
                             de trajectoires complexes, grâce à son efficacité et ses capacités proche du hardware.</li>
-                            <li><b>2. Python :</b> pour l'analyse des données, le planning de mission ou les test, grâce 
+                            <li><b>Python :</b> pour l'analyse des données, le planning de mission ou les test, grâce 
                             à versatilité et sa capacité à s'intégrer à d'autres langages.</li>
-                            <li><b>3. Java :</b> pour les systèmes logiciels qui requièrent une compatibilité multi-plateforme.</li>
-                            <li><b>4. Ada :</b> pour les systèmes de contrôle ou l'avionique, grâce à sa fiabilité et sa robustesse.</li>
-                            <li><b>5. Fortran :</b> pour les analyses de trajectoires, la mécanique orbitale et les simulation, grâce 
+                            <li><b>Java :</b> pour les systèmes logiciels qui requièrent une compatibilité multi-plateforme.</li>
+                            <li><b>Ada :</b> pour les systèmes de contrôle ou l'avionique, grâce à sa fiabilité et sa robustesse.</li>
+                            <li><b>Fortran :</b> pour les analyses de trajectoires, la mécanique orbitale et les simulation, grâce 
                             à sa précision et sa capacité de calcul.</li>
-                            <li><b>6. Rust :</b> pour le contrôle du système et la protection contre les erreurs liées à la mémoire.</li>
-                            <li><b>7. MATLAB :</b> pour les modélisations et les simulations mathématiques complexes.</li>
-                            <li><b>8. Assembly Language :</b> pour une optimisation extrême des performances hardware, grâce à sa 
+                            <li><b>Rust :</b> pour le contrôle du système et la protection contre les erreurs liées à la mémoire.</li>
+                            <li><b>MATLAB :</b> pour les modélisations et les simulations mathématiques complexes.</li>
+                            <li><b>Assembly Language :</b> pour une optimisation extrême des performances hardware, grâce à sa 
                             correspondance directe avec le code machine.</li>
-                            <li><b>9. Swift :</b> pour le contrôle et la surveillance des équipements embarqués, il est adapté aux 
+                            <li><b>Swift :</b> pour le contrôle et la surveillance des équipements embarqués, il est adapté aux 
                             applications de traitement de données en temps réel.</li>
-                            <li><b>10. Lua :</b> pour la création de scripts d'automatisation de tâches, améliorant l'éfficacité 
+                            <li><b>Lua :</b> pour la création de scripts d'automatisation de tâches, améliorant l'éfficacité 
                             opérationnelle des satellite et engins spatiaux.</li>
                     </ul>
                     </p>
@@ -421,7 +445,7 @@
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Source 6</h6>
+                <h6 class="blog-title">The Role of Programming Languages in Data Science</h6>
                 
                 <!-- header-start -->
                 <div class="portfolio-modal-table">
@@ -429,25 +453,25 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-file-lines"></i>
-                                Source : <span>Source 6</span>
+                                Source : <span>New York Institute of Technology</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-arrow-up-right-from-square"></i>
-                                Lien : <a href="https://www.google.com" target="_blank"><span>URL de la source</span></a>
+                                Lien : <a href="https://online.nyit.edu/blog/the-role-of-programming-languages-in-data-science?" target="_blank"><span>Lire l'article</span></a>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Date : <span>01/01/1970</span>
+                                Date : <span>25/10/2023</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-newspaper"></i>
-                                Type : <span>Type de source</span>
+                                Type : <span>Article web</span>
                             </h3>
                         </div>
                     </div>
@@ -457,19 +481,28 @@
                 <!--résumé-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Résumé</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, 
-                        dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+                    <p>La data science repose sur l’utilisation de langages de programmation pour collecter, 
+                    modéliser, analyser et visualiser des données.</p>
+                    <p><ul>Les six principaux langages utilisés sont :
+                        <li><b>Python :</b> (utilisé par 90,6 % des data scientists en 2022) apprécié pour sa syntaxe simple et sa flexibilité.</li>
+                        <li><b>R :</b> (38 %) open-source, avec une forte communauté et des capacités d’intégration avec d’autres langages.</li>
+                        <li><b>SQL :</b> (53 %) essentiel pour gérer des bases de données relationnelles.</li>
+                        <li><b>Java :</b> polyvalent, adapté aux grandes quantités de données et à l’IA.</li>
+                        <li><b>Scala :</b> utilisé pour traiter de grandes quantités de données grâce à sa capacité à exécuter des processus parallèles.</li>
+                        <li><b>Julia :</b> rapide et compatible avec les bibliothèques C et Python, idéal pour la modélisation des données, notamment dans la finance.</li>
+                    </ul>
                     </p>
-                    <p>Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
-                        Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+                    <p>Lors du choix d’un langage, les data scientists prennent en compte des critères comme les normes de l’industrie, 
+                    les exigences du projet, la facilité d’utilisation et le support communautaire. L’utilisation d’approches hybrides 
+                    (ex. : R + Python) permet d’optimiser les flux de travail complexes.</p>
+
+                    <p>Les professionnels utilisent aussi des logiciels comme Jupyter Notebook, Microsoft Power BI, Apache Spark, et RapidMiner,
+                     ainsi que des bibliothèques populaires comme Scikit-learn, TensorFlow, et PyTorch pour faciliter les tâches 
+                     d’apprentissage automatique, de traitement du langage naturel et de reconnaissance d'images.
                     </p>
                 </div>
                 <!--résumé-end -->
 
-                <!-- mission-image -->
-                <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
             </div>
 
         </div>
@@ -565,7 +598,7 @@
 <!-- source-7-modal-end -->
 
 <!-- source-8-modal-start -->
-<div class="modal portfolio-modal-box fade" id="source-8" tabindex="-1" role="dialog">
+<!-- <div class="modal portfolio-modal-box fade" id="source-8" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -576,64 +609,70 @@
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Source 8</h6>
-                
+                <h6 class="blog-title">What is a qubit?</h6>
+                 -->
                 <!-- header-start -->
-                <div class="portfolio-modal-table">
+                <!-- <div class="portfolio-modal-table">
                     <div class="row">
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-file-lines"></i>
-                                Source : <span>Source 8</span>
+                                Source : <span>IBM.com</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-arrow-up-right-from-square"></i>
-                                Lien : <a href="https://www.google.com" target="_blank"><span>URL de la source</span></a>
+                                Lien : <a href="https://www.ibm.com/topics/qubit" target="_blank">
+                                    <span>Lire l'article</span></a>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Date : <span>01/01/1970</span>
+                                Date : <span>28/02/2024</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-newspaper"></i>
-                                Type : <span>Type de source</span>
+                                Type : <span>Article web</span>
                             </h3>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- header-end -->
 
                 <!--résumé-start -->
-                <div class="h1-modal-paragraph">
+                <!-- <div class="h1-modal-paragraph">
                     <h5>Résumé</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, 
-                        dignissim sit amet, adipiscing nec, ultricies sed, dolor.
-                    </p>
-                    <p>Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
-                        Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+                    <p>Les qubits sont les unités fondamentales de l'information quantique, analogues aux bits de l'informatique classique.</p> 
+                    <p>Contrairement aux bits classiques, qui représentent 0 ou 1, les qubits peuvent exister dans un état de superposition, 
+                        ce qui signifie qu'ils peuvent représenter à la fois 0 et 1 simultanément. Cette propriété permet aux ordinateurs quantiques 
+                        d’effectuer plusieurs calculs à la fois, améliorant ainsi considérablement la puissance de traitement.</p> 
+                    <p>Une autre caractéristique cruciale des qubits est l’intrication, où des paires de qubits s’interconnectent, permettant 
+                        à l’état d’un qubit d’influencer instantanément l’état d’un autre, quelle que soit la distance. Ce phénomène est essentiel 
+                        pour obtenir des calculs plus rapides et des capacités de résolution de problèmes plus complexes.</p> 
+                    <p>Les qubits peuvent être réalisés à l'aide de divers systèmes physiques, tels que des circuits supraconducteurs, des ions 
+                        piégés ou des photons. Chaque méthode présente ses avantages et ses défis en termes de temps de cohérence, de taux d'erreur 
+                        et d'évolutivité. IBM se concentre sur les qubits supraconducteurs, qui se sont révélés prometteurs pour atteindre des 
+                        performances élevées.</p> 
+                    <p>Alors que les chercheurs continuent d’affiner la technologie des qubits, l’objectif est de créer des systèmes quantiques 
+                        plus fiables et évolutifs. Les progrès dans la conception des qubits et la correction des erreurs sont essentiels pour 
+                        libérer tout le potentiel de l’informatique quantique, ouvrant la voie à des percées dans divers domaines, notamment la 
+                        cryptographie, la découverte de médicaments et la modélisation de systèmes complexes.
                     </p>
                 </div>
-                <!--résumé-end -->
-
-                <!-- mission-image -->
-                <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                résumé-end
             </div>
 
         </div>
     </div>
-</div>
+</div> -->
 <!-- source-8-modal-end -->
 
 <!-- source-9-modal-start -->
-<div class="modal portfolio-modal-box fade" id="source-9" tabindex="-1" role="dialog">
+<!-- <div class="modal portfolio-modal-box fade" id="source-9" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -644,58 +683,80 @@
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Source 9</h6>
+                <h6 class="blog-title">Why PyTorch Gets All the Love</h6> -->
                 
                 <!-- header-start -->
-                <div class="portfolio-modal-table">
+                <!-- <div class="portfolio-modal-table">
                     <div class="row">
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-file-lines"></i>
-                                Source : <span>Source 9</span>
+                                Source : <span>The New Stack</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-arrow-up-right-from-square"></i>
-                                Lien : <a href="https://www.google.com" target="_blank"><span>URL de la source</span></a>
+                                Lien : <a href="https://thenewstack.io/why-pytorch-gets-all-the-love/" target="_blank"><span>Lire l'article</span></a>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Date : <span>01/01/1970</span>
+                                Date : <span>26/11/2024</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-newspaper"></i>
-                                Type : <span>Type de source</span>
+                                Type : <span>Article web</span>
                             </h3>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- header-end -->
 
                 <!--résumé-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Résumé</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, 
-                        dignissim sit amet, adipiscing nec, ultricies sed, dolor.
-                    </p>
-                    <p>Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
-                        Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+                    <p><ul>PyTorch est une bibliothèque open-source Python de machine learning, de plus en plus populaire et 
+                    soutenue par une large communauté de développeurs et de chercheurs.
+                        <li><b>- Facilité d'utilisation :</b> Comparé à TensorFlow, PyTorch offre une approche plus intuitive et directe 
+                        grâce à une interface conviviale. Il adopte un mode impératif (ou dynamique), permettant de modifier 
+                        les modèles en temps réel durant l'exécution. En revanche, TensorFlow utilise un modèle plus statique, 
+                        ce qui peut rendre les ajustements plus complexes et moins flexibles pour les utilisateurs.</li>
+                        <li><b>- Adoption par la communauté académique :</b> PyTorch est largement adopté par les chercheurs en intelligence 
+                        artificielle et en apprentissage profond, notamment en raison de sa flexibilité. Il permet une expérimentation 
+                        rapide et le prototypage de nouveaux modèles. Facilement intégrable avec d'autres outils de recherche, 
+                        PyTorch permet aux chercheurs de tester de nouvelles idées et d'obtenir des résultats plus rapidement.</li>
+                        <li><b>- Compatibilité avec les GPUs :</b> PyTorch est nativement compatible avec les GPU, ce qui est essentiel pour 
+                        l'entraînement de modèles complexes et la gestion de grandes quantités de données. L'optimisation sur les 
+                        GPU permet de réduire considérablement le temps nécessaire à l'entraînement des modèles, ce qui est un atout 
+                        majeur dans le développement de modèles d'intelligence artificielle.</li>
+                        <li><b>- Communauté et support :</b> La communauté de PyTorch est très active et propose une vaste gamme de ressources, 
+                        forums de discussion et exemples de code. Cela permet aux utilisateurs de bénéficier de précieux conseils et 
+                        d'un support efficace. De plus, PyTorch a attiré l'attention de grandes entreprises technologiques ainsi que 
+                        de nombreuses startups, ce qui favorise son développement continu.</li>
+                        <li><b>- Comparaison avec TensorFlow :</b> TensorFlow est un autre framework populaire pour l'apprentissage automatique. 
+                        PyTorch se distingue par son calcul dynamique, plus souple et accessible, tandis que TensorFlow utilise un modèle 
+                        statique, qui peut rendre son utilisation plus complexe pour les nouveaux utilisateurs. Cependant, TensorFlow 
+                        bénéficie d'un écosystème plus large et d'une forte adoption en production. Néanmoins, PyTorch reste privilégié 
+                        dans le domaine de la recherche en raison de sa flexibilité et de sa simplicité.</li>
+                        <li><b>- Évolution continue :</b> PyTorch continue d'évoluer pour intégrer de nouvelles fonctionnalités et répondre aux besoins 
+                        des chercheurs et des ingénieurs. L'ajout de nouveaux outils pour la production et le support des systèmes distribués 
+                        renforcent son attrait et sa pertinence dans le domaine du machine learning.</li>
+                    </ul>
                     </p>
                 </div>
                 <!--résumé-end -->
 
                 <!-- mission-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
                 </div>
             </div>
 
         </div>
     </div>
-</div>
+</div> -->
 <!-- source-9-modal-end -->

@@ -82,128 +82,89 @@ include_once "common/header.php";
                                 mon esprit d'analyse et ma rigueur le socle de ma nouvelle carrière.</p>
                             <p class="bostami-parsonal-info-bio-text">Ce portfolio est réalisé dans le cadre de ma formation au BTS SIO option SLAM à l'ESPL d'Angers.</p>
 
-                            <!-- certifications-start -->
-                            <div class="bostami-parsonal-info-contact">
-                                <h4 class="title">Certifications</h4>
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="bostami-parsonal-info-contact-item phone">
-                                            <div class="icon"><a href="assets/docs/anssi-mooc-eliane-perol.pdf" target="_blank">
-                                                <i class="fa-light fa-certificate"></i></a>
+                            
+                            <div class="row">
+                                <!-- context-start -->
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="bostami-parsonal-info-contact">
+                                        <h4 class="title">Contexte</h4>
+                                        <div class="column">
+                                            <!-- bts-sio -->
+                                            <div class="col-lg-6 col-md-6">
+                                                <div class="bostami-parsonal-info-contact-item email">
+                                                    <div class="icon"><a href="bts-sio.php">
+                                                        <i class="fa-solid fa-school"></i></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p><a href="bts-sio.php">BTS SIO</a></p>
+                                                        <span class="mt-2"><a href="bts-sio.php">ESPL Angers</a></span>
+                                                    </div>
+                                                </div>
                                             </div>
-                                            <div class="text">
-                                                <p>ANSSI : MOOC</p>
-                                                <span><a href="assets/docs/anssi-mooc-eliane-perol.pdf" target="_blank">
-                                                        <i class="fa-light fa-file-certificate"></i>
-                                                    Attestation
-                                                </a></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="bostami-parsonal-info-contact-item email">
-                                            <div class="icon"><a href="assets/docs/cnil-rgpd-eliane-perol.pdf" target="blank">
-                                                <i class="fa-light fa-certificate"></i>
-                                            </div>
-                                            <div class="text">
-                                                <p>CNIL : RGPD</p>
-                                                <span><a href="assets/docs/cnil-rgpd-eliane-perol.pdf" target="_blank">
-                                                        <i class="fa-light fa-file-certificate"></i>
-                                                    Attestation
-                                                </a></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="bostami-parsonal-info-contact-item location">
-                                            <div class="icon"><a href="assets/docs/certif3.pdf" target="_blank">
-                                                <i class="fa-light fa-certificate"></i></a>
-                                            </div>
-                                            <div class="text">
-                                                <p>DRSD Secret Defense</p>
-                                                <span><a href="assets/docs/certif3.pdf" target="_blank">
-                                                        <i class="fa-light fa-file-certificate"></i>
-                                                    Attestation
-                                                </a></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6">
-                                        <div class="bostami-parsonal-info-contact-item calendar">
-                                            <div class="icon"><a href="assets/docs/certif4.pdf" target="_blank">
-                                                <i class="fa-light fa-certificate"></i></a>
-                                            </div>
-                                            <div class="text">
-                                                <p>PIX</p>
-                                                <span><a href="assets/docs/certif4.pdf" target="_blank">
-                                                        <i class="fa-light fa-file-certificate"></i>
-                                                    Attestation
-                                                </a></span>
+    
+                                            <!-- xlabs -->
+                                            <div class="col-lg-6 col-md-6">
+                                                <div class="bostami-parsonal-info-contact-item location">
+                                                    <div class="icon"><a href="xlabs.php">
+                                                        <i class="fa-solid fa-vial"></i></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p><a href="xlabs.php">Entreprise</a></p>
+                                                        <span class="mt-2"><a href="xlabs.php">XLABS Laboratoires</a></span>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+                                <!-- context-end -->
+
+                                <!-- certifications-start -->
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="bostami-parsonal-info-contact">
+                                        <h4 class="title">Certifications</h4>
+                                        <div class="column">
+                                            <div class="col-lg-6 col-md-6">
+                                                <div class="bostami-parsonal-info-contact-item phone">
+                                                    <div class="icon"><a href="assets/docs/anssi-mooc-eliane-perol.pdf" target="_blank">
+                                                        <i class="fa-light fa-certificate"></i></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>ANSSI : MOOC</p>
+                                                        <span><a href="assets/docs/anssi-mooc-eliane-perol.pdf" target="_blank">
+                                                                <i class="fa-light fa-file-certificate"></i>
+                                                            Attestation
+                                                        </a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6">
+                                                <div class="bostami-parsonal-info-contact-item calendar">
+                                                    <div class="icon"><a href="assets/docs/cnil-rgpd-eliane-perol.pdf" target="_blank">
+                                                        <i class="fa-light fa-certificate"></i></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>CNIL : RGPD</p>
+                                                        <span><a href="assets/docs/cnil-rgpd-eliane-perol.pdf" target="_blank">
+                                                                <i class="fa-light fa-file-certificate"></i>
+                                                            Attestation
+                                                        </a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- certifications-end -->
 
                             </div>
-                            <!-- certifications-end -->
 
                         </div>
                     </div>
 
                 </div>
-            </div>
-
-            <!-- context-->
-            <div class="what-i-do-2 mb-50">
-                <div class="row">
-
-                    <!-- section title -->
-                    <div class="col-12">
-                        <div class="bostami-section-title-wrap mb-25">
-                            <h3 class="section-title">Contexte</h3>
-                        </div>
-                    </div>
-
-                    <!-- bts-sio -->
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="bostami-what-do-item bg-prink">
-                            <div class="icon">
-                                <i class="fa-solid fa-school"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="bts-sio.php">BTS SIO</a></h3>
-                                <a href="bts-sio.php">ESPL Angers</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- xlabs -->
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="bostami-what-do-item bg-catkrill">
-                            <div class="icon">
-                                <i class="fa-solid fa-vial"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="xlabs.php">Entreprise</a></h3>
-                                <a href="xlabs.php">XLABS Laboratoires</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- tech-watch -->
-                    <!-- <div class="col-xl-6 col-lg-6 col-md-6">
-                        <div class="bostami-what-do-item  bg-cyan">
-                            <div class="icon">
-                                <i class="fa-solid fa-chalkboard-user"></i>
-                            </div>
-                            <div class="text">
-                                <h3 class="title"><a href="tech-watch.php">Veille technologique</a></h3>
-                                <a href="tech-watch.php">Liste des sujets de veille.</a>
-                            </div>
-                        </div>
-                    </div> -->
-                    
-
-                </div>
-
             </div>
                                
         </div>
