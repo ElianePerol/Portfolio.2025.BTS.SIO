@@ -41,14 +41,15 @@ include_once "common/header.php";
                             <div class="grid-sizer"></div>
 
                             <!-- project-1-start -->
-                            <div class="isotop-item assets online">
+                            <div class="isotop-item assets project-mode availability">
                                 <div class="fillter-item bg-prink">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-1">
-                                        <img src="assets/img/work/work-img-1.png" alt="">
+                                        <img src="assets/img/projects/test.png" alt="">
                                     </a>
-                                    <span class="item-subtitle">MyDigitalSchool, 01/01/1970</span>
+                                    <span class="item-subtitle">GIE MyXlab, Août 2023 - Septembre 2024</span>
                                     <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#projet-1">Projet 1</a>
+                                        <a href="" data-bs-toggle="modal" data-bs-target="#projet-1">
+                                            MYXLAB : Déploiement et Ouverture de Laboratoires</a>
                                     </h6>
                                 </div>
                             </div>
@@ -60,9 +61,10 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-2">
                                         <img src="assets/img/work/work-img-2.png" alt="">
                                     </a>
-                                    <span class="item-subtitle">XLABS, 01/01/1970</span>
+                                    <span class="item-subtitle">GIE MyXlab, Août 2023 - Octobre 2023</span>
                                     <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#projet-2">Projet 2</a>
+                                        <a href="" data-bs-toggle="modal" data-bs-target="#projet-2">
+                                            Rédaction de la Politique de Sécurité des Systèmes d'Information (PSSI)</a>
                                     </h6>
                                 </div>
                             </div>

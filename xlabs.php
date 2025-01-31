@@ -35,16 +35,18 @@ include_once "common/header.php";
 
                             <!-- name -->
                             <h4 class="bostami-parsonal-info-title">GIE MyXlab - Laboratoires de biologie médicale</h4>
-                            <p class="bostami-parsonal-info-bio-text">Xlabs a ouvert son premier laboratoire à Cholet en 1974. En 2023 elle comptait 13 sites répartis 
-                                sur trois départements : Maine et Loire (49), Vendée (85) et Deux-Sèvres (79).
+                            <p class="bostami-parsonal-info-bio-text">Xlabs a ouvert son premier laboratoire à Cholet en 1974. En 2023, l'entreprise 
+                                comptait 13 sites répartis sur trois départements : le Maine-et-Loire (49), la Vendée (85) et les Deux-Sèvres (79).
                             </p>
-                            <p class="bostami-parsonal-info-bio-text">Le GIE MyXlab a été créé en 2023 dans le cadre du développement de l'entreprise.
-                                En effet, l'ARS restreint l'implantation des laboratoires, s'ils sont sous une même entité juridique, à trois départements. 
-                                Aujourd'hui Xlabs fait donc parti du GIE MyXlab, tout comme MyXlab 44, MyXlab 86 et MyXlab 72
+                            <p class="bostami-parsonal-info-bio-text">Face à la réglementation imposée par l'ARS, qui limite l'implantation des laboratoires 
+                                sous une même entité juridique à trois départements, le GIE MyXlab a été créé en 2023 pour accompagner le développement de 
+                                l'entreprise. Cette structure permet à Xlabs de s'associer avec d'autres entités telles que MyXlab 44, MyXlab 86 et MyXlab 72.
                             </p>
-                            <p class="bostami-parsonal-info-bio-text">En Loire-Atlantique (44), quatre laboratoires ont été ouverts. Dans la Vienne (86), deux laboratoires et en Sarthe (72), deux laboratoires.
+                            <p class="bostami-parsonal-info-bio-text">Désormais, quatre laboratoires sont implantés en Loire-Atlantique (44), deux en Sarthe (72) 
+                                et deux dans la Vienne (86).
                             </p>
-                            <p>Le GIE permet de mutualiser plusieurs services, notamment la Qualité, les Ressources Humaines, la Facturation et bien entendu l'Informatique.</p>
+                            <p>Le GIE MyXlab permet de mutualiser plusieurs services stratégiques, notamment la gestion de la Qualité, les Ressources Humaines, 
+                                la Facturation, ainsi que l'Informatique.</p>
                         </div> 
                     </div>
                     <!-- GIE-MyXlab-end -->
@@ -183,6 +185,7 @@ include_once "common/header.php";
                                 <h4 class="title">Support utilisateurs</h4>
                                 <p>Principalement en réponse aux tickets GLPI, gérés par ordre de priorité et attribués en fonction des domaines de compétence
                                     de mes collègues et moi même.
+                                    <br><br>
                                 </p>
                                 <br>
                             </div>
@@ -196,8 +199,8 @@ include_once "common/header.php";
                             </div>
                             <div class="text">
                                 <h4 class="title">Mise en place matériel</h4>
-                                <p>Au fur et à mesure des besoins, configuration et installation de postes de travail (PC, scanner, imprimante). Paramétrage des 
-                                    logiciels professionnels (Kalisil, SapaNet).
+                                <p>Configuration et installation des postes de travail (PC, scanners, imprimantes) en fonction des besoins. Paramétrage des logiciels 
+                                    professionnels tels que Kalisil et SapaNet.
                                 </p>
                             </div>
                         </div>
@@ -210,8 +213,9 @@ include_once "common/header.php";
                             </div>
                             <div class="text">
                                 <h4 class="title">Site web</h4>
-                                <p>Mise à jour des deux sites internets (Xlabs et MyXlab) en fonction des besoins : mise à jour documentaire, changements d'horaires,
-                                    ouverture de nouveaux sites.
+                                <p>Mise à jour des sites Xlabs et MyXlab selon les besoins : actualisation des documents, modification des horaires et annonce des 
+                                    ouvertures de nouveaux sites.
+                                    <br><br>
                                 </p>
                             </div>
                         </div>
@@ -224,10 +228,9 @@ include_once "common/header.php";
                             </div>
                             <div class="text">
                                 <h4 class="title">Projets</h4>
-                                <p>Création et maintenance de fichiers Excel de suivi de projet, prise de rendez-vous et participation aux réunions avec 
-                                    les différents prestataires (Orange Business, Ricoh, MIV)
+                                <p>Création et maintenance de fichiers Excel pour le suivi des projets, prise de rendez-vous et participation aux réunions avec 
+                                    divers prestataires tels qu'Orange Business, Ricoh ou encore MIV.
                                 </p>
-                                <br>
                             </div>
                         </div>
                     </div>
@@ -239,8 +242,9 @@ include_once "common/header.php";
                             </div>
                             <div class="text">
                                 <h4 class="title">Information</h4>
-                                <p>Diffusion d'informations et sensibilisation des salariés sur différents sujets (par exemple la sécurité informatique), notamment via 
-                                    les "Café Qualité" et SapaNet, le logiciel Qualité.
+                                <p>DDiffusion d'informations et sensibilisation des salariés sur divers sujets, notamment la sécurité informatique, via les 
+                                    "Café Qualité" et le logiciel qualité SapaNet.
+                                    <br><br>
                                 </p>
                             </div>
                         </div>
@@ -253,8 +257,9 @@ include_once "common/header.php";
                             </div>
                             <div class="text">
                                 <h4 class="title">Rédaction</h4>
-                                <p>Mise en place d'une PSSI (Politique de sécurité du système d'information) dans le cadre de l'audit COFRAC. Rédaction de procédures 
-                                    afin d'assurer la passation de connaissances.
+                                <p>Élaboration de la PSSI (Politique de sécurité du système d'information) dans le cadre de l'audit COFRAC. Rédaction de 
+                                    procédures informatiques pour garantir la transmission des connaissances.
+                                    <br>
                                 </p>
                             </div>
                         </div>

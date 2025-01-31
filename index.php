@@ -67,7 +67,7 @@ include_once "common/header.php";
                     <div class="col-lg-4 col-md-8">
                         <div class="bostami-parsonal-info-img">
                             
-                            <img src="assets/img/presentation/profile-pic3.jpg" alt="Photo de profil">
+                            <img src="assets/img/presentation/profile-pic.jpg" alt="Photo de profil">
                         </div>
                     </div>
 

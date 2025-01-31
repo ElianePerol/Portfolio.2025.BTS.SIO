@@ -49,6 +49,10 @@ CSS INDEX
   --light-white-2: #F8FBFB;
   --prink: #FFF4F4;
   --catkrill: #EEF5FA;
+  --teal: #008080;
+  --light-violet: #DDA0DD;
+  --electric-blue: #7DF9FF;
+
 }
 
 :root .dark-theme {
@@ -63,6 +67,9 @@ CSS INDEX
   --light-white-2: #F8FBFB;
   --prink: #FFF4F4;
   --catkrill: #EEF5FA;
+  --teal: #008080;
+  --light-violet: #DDA0DD;
+  --electric-blue: #7DF9FF;
 }
 
 body {
@@ -1705,6 +1712,18 @@ input:focus::placeholder, textarea:focus::placeholder {
 }
 
 /* <<<<<<<    Declaration   >>>>>>>>> */
+.bg-teal {
+  background-color: var(--teal); /* Une teinte classique de teal */
+}
+
+.bg-light-violet {
+  background-color: var(--light-violet); /* Violet pâle */
+}
+
+.bg-electric-blue {
+  background-color:var(--electric-blue); /* Bleu électrique */
+}
+
 .bg-catkrill {
   background-color: var(--catkrill);
 }

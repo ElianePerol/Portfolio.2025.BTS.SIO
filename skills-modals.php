@@ -1,4 +1,4 @@
-<!-- sskill-1-assets-modal-start -->
+<!-- skill-1-assets-modal-start -->
 <div class="modal h1-modal-box fade" id="assets" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
