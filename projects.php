@@ -226,7 +226,7 @@ include_once "common/footer.php";
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li>• Joomla (ancienne version) pour le site Xlabs.</li>
+                                <li>• Joomla (v3.10.11 au lieu de v5.2.3, dernière version disponible) pour le site Xlabs.</li>
                                 <li>• WordPress avec Colibri pour le site MyXlab.</li>
                                 <li>• Add-ons gratuits pour la conformité RGPD.</li>
                                 <li>• FileZilla pour la gestion des fichiers.</li>

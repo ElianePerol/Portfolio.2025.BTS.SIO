@@ -18,7 +18,7 @@ include_once "common/header.php";
 
                     <!-- name -->
                     <h1 class="bostami-parsonal-info-name">
-                        <a href="#">Eliane Perol</a>
+                        <a href="#">Eliane Perol WOOP WOOP</a>
                     </h1>
                     <span class="bostami-parsonal-info-bio mb-15">Portfolio</span>
 
