@@ -50,6 +50,7 @@ include_once "common/header.php";
             <div class="bostami-resume-2">
                 <h5 class="bostami-parsonal-info-title">Traitement des données personnelles</h5>
                 <p>Le site ne collecte aucune donnée personnelle et n'utilise pas de cookies. Conformément à la loi "Informatique et Libertés", aucune donnée personnelle n'est enregistrée à l'insu de l'utilisateur. Le site n'est pas déclaré à la CNIL.</p>
+                <br><br><br>
             </div>
 
         </div>
