@@ -116,28 +116,31 @@ include_once "common/header.php";
                             <!-- portfolio-end -->
 
                             <!-- welcome-training-start -->
-                            <div class="isotop-item support availability pro-growth">
+                            <div class="isotop-item online project-mode availability pro-growth">
                                 <div class="fillter-item bg-catkrill">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-6">
-                                        <img src="assets/img/work/work-img-6.png" alt="">
+                                        <img src="assets/img/projects/welcome-training.png" alt="">
                                     </a>
-                                    <span class="item-subtitle">MyXlab 44, 01/01/1970</span>
+                                    <span class="item-subtitle">MyDigitalSchool Angers, Septembre 2024 - Décembre 2024</span>
                                     <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#projet-6">Projet 6</a>
+                                        <a href="" data-bs-toggle="modal" data-bs-target="#projet-6">
+                                            Welcome Training : Application PHP de gestion des classes et des présences</a>
                                     </h6>
                                 </div>
                             </div>
                             <!-- welcome-training-end -->
 
                             <!-- click n eat-start -->
-                            <div class="isotop-item project-mode availability">
+                            <div class="isotop-item online project-mode availability pro-growth">
                                 <div class="fillter-item bg-prink">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-7">
-                                        <img src="assets/img/work/work-img-5.png" alt="">
+                                        <img src="assets/img/projects/clickneat.png" alt="">
                                     </a>
-                                    <span class="item-subtitle">XLABS, 01/01/1970</span>
+                                    <span class="item-subtitle">MyDigitalSchool Angers, Février 2025 - Mars 2025</span>
                                     <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#projet-5">Projet 5</a>
+                                        <a href="" data-bs-toggle="modal" data-bs-target="#projet-7">
+                                            Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée
+                                        </a>
                                     </h6>
                                 </div>
                             </div>
@@ -775,12 +778,12 @@ include_once "common/footer.php";
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Portofolio</a>
+                                <a href="https://portfolio.elianeperol.com" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Portofolio</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
+                                <a href="https://github.com/ElianePerol/Portfolio.2025.BTS.SIO"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -811,7 +814,7 @@ include_once "common/footer.php";
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Projet 6</h6>
+                <h6 class="blog-title">Welcome Training : Application PHP de gestion des classes et des présences</h6>
                 
                 <!-- projet-context-start -->
                 <div class="portfolio-modal-table">
@@ -819,19 +822,13 @@ include_once "common/footer.php";
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Dates : <span>Août 2023 - Septembre 2024</span>
+                                Dates : <span>Septembre 2024 - Décembre 2024</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-location-dot"></i>
-                                Lieu : <span>GIE MyXlab, Cholet</span>
-                            </h3>
-                        </div>
-                        <div class="col-md-6">
-                            <h3 class="portfolio-modal-table-text">
-                                <i class="fa-light fa-building-user"></i>
-                                Service Informatique
+                                Lieu : <span>MyDigitalSchool Angers</span>
                             </h3>
                         </div>
                     </div>
@@ -841,56 +838,81 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>Dans le cadre de mon alternance au GIE MYXLAB, j'ai contribué activement au projet d’ouverture de 8 
-                            nouveaux laboratoires dans 7 villes, en prenant en charge la gestion des besoins informatiques et la coordination des interventions.</p>
-                        <p>Xlabs, présent dans le 49, le 79 et le 85, a créé le GIE MYXLAB pour centraliser les services transverses. Ce GIE a permis 
-                            l’ouverture de laboratoires à Saint-Nazaire (2 sites), Nantes, Indre, Le Mans, Sablé, Châtellerault et Poitiers.
-                        </p>
-                        <p><strong>Contrainte principale : </strong>respecter les délais d’ouverture en fonction des audits COFRAC et de la fin des travaux.</p>
+                        <p>Dans le cadre du BTS SIO SLAM, ce projet avait pour objectif de développer une application web permettant la gestion des 
+                            utilisateurs, classes, des matières et des présences.</p>
+                        <p>Les élèves ne peuvent valider leur présence que si l'enseignant l'a autorisée.</p>
+                        <p><strong>Contrainte principale : </strong>utilisation d'une base de données MySQL pour la gestion des différentes entités,
+                            programmation orientée objet.</p>
                     
                     <h5>Avec qui :</h5>
                         <p>
                         <ul>
-                            <li>• Philippe Soulard (RSI, tuteur et pilote du projet)</li>
-                            <li>• Tifen Massé (Administrateur réseau, configurations réseau)</li>
-                            <li>• Kévin Gandon (Technicien informatique, installations matérielles)</li>
-
+                            <li>• Kévin Niel (Intervenant "Solutions logicielles et Applications Métiers")</li>
                         </ul>
                         </p>                    
                     
-                    <h5>Environnement technologique</h5>
+                        <h5>Environnement technologique</h5>
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li>• Microsoft Excel</li>
-                                <li>• Microsoft 365 : calendrier partagé Outlook et Teams.</li>
+                                <li>• PHP, MySQL, HTML, CSS (Bootstrap)</li>
+                                <li>• VSCode pour le développement</li>
+                                <li>• PHPMyAdmin pour la gestion de la base de données</li>
                             </ul>
                         </p>
                         <p>
-                            <h6>Création d’un tableau Excel structuré permettant :</h6>
+                            <h6>Sources d'apprentissage :</h6>
                             <ul>
-                                <li>• La planification des tâches.</li>
-                                <li>• Le suivi des deadlines.</li>
-                                <li>• La coordination avec les intervenants externes et internes.</li>
+                                <li>• Sites W3Schools, StackOverflow pour résoudre des problèmes techniques</li>
+                                <li>• Documentation officielle des technologies utilisées (PHP, MySQL, Bootstrap)</li>
                         </p>
                     
                     <h5>Tâches</h5>
                         <p>
-                            <h6>Création d’un fichier Excel pour le suivi des étapes clés de l’ouverture des laboratoires :</h6>
+                            <h6>Rédaction du cahier des charges</h6>
+                        </p>
+                        <p>
+                            <h6>Modélisation de la base de données MySQL selon la méthode Merise :</h6>
                             <ul>
-                                <li>• Sélection des contrats Orange pour internet et téléphonie IP.</li>
-                                <li>• Planification et supervision des raccordements à la fibre optique.</li>
-                                <li>• Installation des routeurs et mise en place des réseaux locaux.</li>
-                                <li>• Organisation de l’achat, réception et installation du matériel (PC, imprimantes, équipements réseau).</li>
-                                <li>• Mise en place et tests de la téléphonie IP.</li>
-                                <li>• Suivi de l’avancement des travaux pour coordonner les interventions selon les prérequis techniques.</li>
+                                <li>• Rédaction d'un dictionnaire de données</li>
+                                <li>• <b>(Modèle Conceptuel de Données)</b> : Identification des entités (utilisateurs, classes, matières, présences) et relations</li>
+                                <li>• <b>MLD (Modèle Logique de Données)</b> : Transformation en tables relationnelles avec clés primaires et étrangères</li>
+                                <li>• <b>MPD (Modèle Physique de Données)</b> : Création des tables et contraintes en SQL</li>
                             </ul>
                         </p>
                         <p>
-                            <h6>Coordination des rendez-vous :</h6>
+                            <h6>Implémentation de l'authentification et gestion des rôles :</h6>
                             <ul>
-                                <li>• Planification des interventions en fonction des contraintes des prestataires et de l’avancement des travaux.</li>
-                                <li>• Suivi pour garantir la fonctionnalité des équipements critiques avant les audits COFRAC et les ouvertures.</li>
+                                <li>• Mise en place d'un système de connexion et d'authentification sécurisée, 
+                                    avec une gestion des sessions utilisateurs et un cryptage des mots de passe</li>
+                                <li>• Ajout de la gestion des rôles pour restreindre les accès aux fonctionnalités 
+                                    spécifiques (administration, gestion des classes, consultation d'emploi du temps, etc.)</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Création des fonctionnalités principales :</h6>
+                            <ul>
+                                <li>• <b>Gestion des utilisateurs</b> : création, modification, suppression et consultation des utilisateurs (administrateurs, 
+                                    enseignants, élèves)</li>
+                                <li>• <b>Gestion des classes et des matières</b> : ajout, suppression, modification des classes et des matières associées</li>
+                                <li>• <b>Emploi du temps</b> : gestion des horaires et affectation des matières aux classes</li>
+                                <li>• <b>Gestion de la présence</b> : les enseignants peuvent marquer les élèves comme présents, 
+                                    et les élèves peuvent ensuite valider leur présence via un bouton visible uniquement si l'enseignant l’a autorisé</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Interface utilisateur avec Bootstrap :</h6>
+                            <ul>
+                                <li>• <b>Création du tableau de bord administrateur</b> : permet de gérer les utilisateurs, les classes et les matières</li>
+                                <li>• <b>Création du tableau de bord enseignant</b> : permet de  gérer les présences et de consulter l'emploi du temps</li>
+                                <li>• <b>Création du tableau de bord élève</b> : permet de consulter son emploi du temps et de valider sa présence une fois autorisé</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Tests :</h6>
+                            <ul>
+                                <li>• Création manuelle des entités pour chaque table</li>
+                                <li>• érification du bon fonctionnement de chaque fonctionnalité sur les trois tableaux de bord différents</li>
                             </ul>
                         </p>
                 </div>
@@ -906,30 +928,26 @@ include_once "common/footer.php";
                     <p>
                         <h5>Difficultés rencontrées</h5>
                             <ul>
-                                <li>• Délais administratifs pour l'enregistrement des laboratoires auprès de l'ARS</li>
-                                <li>• Fenêtre d'intervention limitée avant les audits COFRAC</li>
-                                <li>• Retards dans les travaux des locaux, impactant la mise en place des équipements.</li>
-                                <li>• Coordination complexe entre les différents prestataires (Orange, Dedalus, Remisol).</li>
+                                <li>• Refactorisation du code procédural en POO</li>
+                                <li>• Gestion des sessions et sécurisation des données</li>
+                                <li>• Conditionnement du bouton de validation de présence</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Solutions apportées</h5>
                             <ul>
-                                <li>• <b>Planification proactive : </b>ajustement régulier du fichier Excel pour prioriser les tâches critiques en cas de retard.</li>
-                                <li>• <b>Coordination renforcée : </b>échanges fréquents avec les prestataires et les responsables des travaux pour synchroniser les interventions clés.</li>
-                                <li>• <b>Tests techniques : </b> vérification anticipée de la connectivité, des postes de travail, des logiciels professionnels et de la téléphonie IP.</li>
+                                <li>• Utilisation de classes pour modulariser l'application</li>
+                                <li>• Requêtes SQL conditionnelles pour la gestion des présences</li>
+                                <li>• Sessions sécurisées et cryptage des mots de passe</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Compétences couvertes</h5>
                             <ul>
-                                <li><b>• Gérer le patrimoine informatique :</b>
+                                <li><b>• Développer la présence en ligne de l’organisation :</b>
                                     <ul>
-                                        <li>Recenser et identifier les ressources numériques</li>
-                                        <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                        <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
-                                        <li>Vérifier les conditions de la continuité d’un service informatique</li>
-                                        <li></li>
+                                        <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                        <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                                     </ul>
                                 </li>
                                 <li><b>• Travailler en mode projet :</b>
@@ -941,9 +959,14 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Mettre à disposition des utilisateurs un service informatique :</b>
                                     <ul>
-                                        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                         <li>Déployer un service</li>
-                                        <li>Accompagner les utilisateurs dans la mise en place d'un service</li>
+                                    </ul>
+                                </li>
+                                <li><b>• Organiser son développement professionnel :</b>
+                                    <ul>
+                                        <li>Mettre en place son environnement d’apprentissage personnel</li>
+                                        <li>Gérer son identité professionnelle</li>
+                                        <li>Développer son projet professionnel</li>
                                     </ul>
                                 </li>
 
@@ -954,16 +977,17 @@ include_once "common/footer.php";
                         <h5>Bilan Personnel</h5>
                             <h6>Aptitudes renforcées :</h6>
                                 <ul>
-                                    <li>• Gestion de tâches interdépendantes et coordination efficace</li>
-                                    <li>• Anticipation des imprévus et gestion proactive des priorités</li>
-                                    <li>• Renforcement des compétences techniques en configuration réseau et téléphonie IP</li>
+                                    <li>• Maîtrise de la POO et des principes de sécurité en développement web</li>
+                                    <li>• Optimisation du code et structuration modulaire</li>
+                                    <li>• Gestion de données dynamiques</li>
+                                    <li>• Mise en place d'outils de veille technologique</li>
                                 </ul>
                         </p>
                         <p>
                             <h6>Axes d'amélioration :</h6>
                                 <ul>
-                                    <li>• Adopter un outil de gestion de projet avancé (Microsoft Project, Trello, Notion).</li>
-                                    <li>• Automatiser le suivi des tâches pour gagner en efficacité.</li>
+                                    <li>• Ajouter des fonctionnalités telles que la gestion des absences et des rapports détaillés sur les présences des élèves</li>
+                                    <li>• Exploration de frameworks PHP comme Laravel pour optimiser la gestion des requêtes</li>
                                 </ul>
                         </p>
                     </p>
@@ -979,22 +1003,37 @@ include_once "common/footer.php";
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Fichier Excel de suivi</a>
+                                <a href="https://welcometraining.elianeperol.com/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site Welcome Training</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagrammes de GANTT</a>
+                                <a href="https://github.com/ElianePerol/Welcome-Training-OOP" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Configuration réseau</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Rapports de test ou COFRAC</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur (guide rapide d’utilisation de l’application)</a>
                             </span>
                         </div>
                     </div>
@@ -1019,7 +1058,7 @@ include_once "common/footer.php";
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Projet 6</h6>
+                <h6 class="blog-title">Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</h6>
                 
                 <!-- projet-context-start -->
                 <div class="portfolio-modal-table">
@@ -1027,19 +1066,13 @@ include_once "common/footer.php";
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Dates : <span>Août 2023 - Septembre 2024</span>
+                                Dates : <span>Février 2025 - Mars 2025</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-location-dot"></i>
-                                Lieu : <span>GIE MyXlab, Cholet</span>
-                            </h3>
-                        </div>
-                        <div class="col-md-6">
-                            <h3 class="portfolio-modal-table-text">
-                                <i class="fa-light fa-building-user"></i>
-                                Service Informatique
+                                Lieu : <span>MyDigitalSchool Angers</span>
                             </h3>
                         </div>
                     </div>
@@ -1049,56 +1082,93 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>Dans le cadre de mon alternance au GIE MYXLAB, j'ai contribué activement au projet d’ouverture de 8 
-                            nouveaux laboratoires dans 7 villes, en prenant en charge la gestion des besoins informatiques et la coordination des interventions.</p>
-                        <p>Xlabs, présent dans le 49, le 79 et le 85, a créé le GIE MYXLAB pour centraliser les services transverses. Ce GIE a permis 
-                            l’ouverture de laboratoires à Saint-Nazaire (2 sites), Nantes, Indre, Le Mans, Sablé, Châtellerault et Poitiers.
-                        </p>
-                        <p><strong>Contrainte principale : </strong>respecter les délais d’ouverture en fonction des audits COFRAC et de la fin des travaux.</p>
+                        <p>Dans le cadre de ma formation en BTS SIO SLAM, ce projet fictif a pour objectif de développer une application 
+                            web permettant la gestion des restaurants, la réservation des repas et la prise de commande à l'avance.</p>
+                        <p>L'objectif est de créer une solution permettant aux clients de récupérer leurs repas dès leur arrivée, sans attente.</p>
+                        <p>Le projet vise à optimiser les échanges entre les différents acteurs du restaurant (administration, service, cuisine, 
+                            clients) grâce à une gestion fluide et synchronisée des menus, commandes et réservations.</p>
+                        <p><strong>Contrainte principale : </strong>Utilisation du framework Laravel pour le développement de l’application et 
+                            intégration d’un système de paiement en ligne via l'API Stripe</p>
                     
                     <h5>Avec qui :</h5>
                         <p>
                         <ul>
-                            <li>• Philippe Soulard (RSI, tuteur et pilote du projet)</li>
-                            <li>• Tifen Massé (Administrateur réseau, configurations réseau)</li>
-                            <li>• Kévin Gandon (Technicien informatique, installations matérielles)</li>
-
+                            <li>• Kévin Niel (Intervenant "Solutions logicielles et Applications Métiers")</li>
                         </ul>
                         </p>                    
                     
-                    <h5>Environnement technologique</h5>
+                        <h5>Environnement technologique</h5>
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li>• Microsoft Excel</li>
-                                <li>• Microsoft 365 : calendrier partagé Outlook et Teams.</li>
+                                <li>• VSCode pour le développement</li>
+                                <li>• Framework Laravel (PHP)</li>
+                                <li>• Template Quixlab (Bootstrap)</li>
+                                <li>• Gestion des données : SQLite pré-prod et MySQL en production</li>
+                                <li>• Framework Pest pour les tests unitaires</li>
                             </ul>
                         </p>
                         <p>
-                            <h6>Création d’un tableau Excel structuré permettant :</h6>
+                            <h6>Sources d'apprentissage :</h6>
                             <ul>
-                                <li>• La planification des tâches.</li>
-                                <li>• Le suivi des deadlines.</li>
-                                <li>• La coordination avec les intervenants externes et internes.</li>
+                                <li>• StackOverflow pour résoudre des problèmes techniques</li>
+                                <li>• Documentation officielle des technologies utilisées (Laravel, Stripe)</li>
                         </p>
                     
                     <h5>Tâches</h5>
                         <p>
-                            <h6>Création d’un fichier Excel pour le suivi des étapes clés de l’ouverture des laboratoires :</h6>
+                            <h6>Rédaction du cahier des charges</h6>
+                        </p>
+                        <p>
+                            <h6>Modélisation de la base de données selon la méthode Merise :</h6>
                             <ul>
-                                <li>• Sélection des contrats Orange pour internet et téléphonie IP.</li>
-                                <li>• Planification et supervision des raccordements à la fibre optique.</li>
-                                <li>• Installation des routeurs et mise en place des réseaux locaux.</li>
-                                <li>• Organisation de l’achat, réception et installation du matériel (PC, imprimantes, équipements réseau).</li>
-                                <li>• Mise en place et tests de la téléphonie IP.</li>
-                                <li>• Suivi de l’avancement des travaux pour coordonner les interventions selon les prérequis techniques.</li>
+                                <li>• Rédaction d'un dictionnaire de données</li>
+                                <li>• <b>(Modèle Conceptuel de Données)</b> : Identification des entités (utilisateurs, classes, matières, présences) et relations</li>
+                                <li>• <b>MLD (Modèle Logique de Données)</b> : Transformation en tables relationnelles avec clés primaires et étrangères</li>
+                                <li>• <b>MPD (Modèle Physique de Données)</b> : Création des tables et contraintes en SQL</li>
                             </ul>
                         </p>
                         <p>
-                            <h6>Coordination des rendez-vous :</h6>
+                            <h6>Implémentation de l'authentification et gestion des rôles :</h6>
                             <ul>
-                                <li>• Planification des interventions en fonction des contraintes des prestataires et de l’avancement des travaux.</li>
-                                <li>• Suivi pour garantir la fonctionnalité des équipements critiques avant les audits COFRAC et les ouvertures.</li>
+                                <li>• Mise en place d'un système de connexion et d'authentification sécurisée avec Breeze</li>
+                                <li>• Ajout de la gestion des rôles pour restreindre les accès aux fonctionnalités 
+                                    spécifiques (tableau de bord restaurant, tableau de bord client, etc.)</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Création des fonctionnalités principales :</h6>
+                            <ul>
+                                <li>• <b>Gestion des utilisateurs</b> : Authentification des utilisateurs (clients et administrateurs) avec gestion des rôles (restaurant, client)</li>
+                                <li>• <b>Gestion des restaurants</b> : Création, modification, suppression et consultation des restaurants</li>
+                                <li>• <b>Gestion des menus</b> : Classification des articles au menu par catégorie et ajout des options spécifiques</li>
+                                <li>• <b>Gestion des commandes</b> : Prise en charge des commandes avec options de suivi</li>
+                                <li>• <b>Gestion des réservations </b> : Permet aux clients de réserver des tables en ligne et de recevoir un code QR pour accéder à leur commande</li>
+                                <li>• <b>Gestion de la présence</b> : les enseignants peuvent marquer les élèves comme présents, 
+                                    et les élèves peuvent ensuite valider leur présence via un bouton visible uniquement si l'enseignant l’a autorisé</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Interface utilisateur avec templace Quixlab :</h6>
+                            <ul>
+                                <li>• <b>Création du tableau de bord administrateur</b> : permet d'ajouter de nouveaux restaurants</li>
+                                <li>• <b>Création du tableau de bord restaurant</b> : permet de créer ses menus et gérer ses commandes et réservations</li>
+                                <li>• <b>Création du tableau de bord client</b> : permet de consulter les menus, réserver, commander et payer en ligne</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Fonctionnalités avancées (MLP) :</h6>
+                            <ul>
+                                <li>Génération d’un lien d’accès à la commande de chaque carte de restaurant via un QR code</li>
+                                <li>Interface responsive pour une consultation facile sur tous les appareils</li>
+                                <li>Paiement en ligne via API Stripe, avec gestion de la sécurité et de la confidentialité des transactions</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Tests :</h6>
+                            <ul>
+                                <li>• Mise en place de tests unitaires via Pest pour valider le bon fonctionnement des différentes fonctionnalités</li>
+                                <li>• Tests d’ergonomie pour l'interface utilisateur sur différentes plateformes (mobile, tablette, desktop)</li>
                             </ul>
                         </p>
                 </div>
@@ -1114,30 +1184,26 @@ include_once "common/footer.php";
                     <p>
                         <h5>Difficultés rencontrées</h5>
                             <ul>
-                                <li>• Délais administratifs pour l'enregistrement des laboratoires auprès de l'ARS</li>
-                                <li>• Fenêtre d'intervention limitée avant les audits COFRAC</li>
-                                <li>• Retards dans les travaux des locaux, impactant la mise en place des équipements.</li>
-                                <li>• Coordination complexe entre les différents prestataires (Orange, Dedalus, Remisol).</li>
+                                <li>• Prise en main du framework Laravel</li>
+                                <li>• Synchronisation des menus et des réservations en temps réel pour chaque restaurant</li>
+                                <li>• Intégration du paiement en ligne avec Stripe et gestion des erreurs de paiement</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Solutions apportées</h5>
                             <ul>
-                                <li>• <b>Planification proactive : </b>ajustement régulier du fichier Excel pour prioriser les tâches critiques en cas de retard.</li>
-                                <li>• <b>Coordination renforcée : </b>échanges fréquents avec les prestataires et les responsables des travaux pour synchroniser les interventions clés.</li>
-                                <li>• <b>Tests techniques : </b> vérification anticipée de la connectivité, des postes de travail, des logiciels professionnels et de la téléphonie IP.</li>
+                            <li>• Consultation de la documentation officielle de Laravel pour faciliter la prise en main du framework et maîtriser ses concepts clés</li>
+                            <li>• Utilisation de Laravel Echo et WebSockets pour assurer la synchronisation en temps réel des menus et des réservations pour chaque restaurant</li>
+                            <li>• Intégration de Laravel Cashier avec l'API Stripe pour gérer les paiements en ligne et les erreurs</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Compétences couvertes</h5>
                             <ul>
-                                <li><b>• Gérer le patrimoine informatique :</b>
+                                <li><b>• Développer la présence en ligne de l’organisation :</b>
                                     <ul>
-                                        <li>Recenser et identifier les ressources numériques</li>
-                                        <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                        <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
-                                        <li>Vérifier les conditions de la continuité d’un service informatique</li>
-                                        <li></li>
+                                        <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                        <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                                     </ul>
                                 </li>
                                 <li><b>• Travailler en mode projet :</b>
@@ -1149,9 +1215,14 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Mettre à disposition des utilisateurs un service informatique :</b>
                                     <ul>
-                                        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                         <li>Déployer un service</li>
-                                        <li>Accompagner les utilisateurs dans la mise en place d'un service</li>
+                                    </ul>
+                                </li>
+                                <li><b>• Organiser son développement professionnel :</b>
+                                    <ul>
+                                        <li>Mettre en place son environnement d’apprentissage personnel</li>
+                                        <li>Gérer son identité professionnelle</li>
+                                        <li>Développer son projet professionnel</li>
                                     </ul>
                                 </li>
 
@@ -1162,16 +1233,17 @@ include_once "common/footer.php";
                         <h5>Bilan Personnel</h5>
                             <h6>Aptitudes renforcées :</h6>
                                 <ul>
-                                    <li>• Gestion de tâches interdépendantes et coordination efficace</li>
-                                    <li>• Anticipation des imprévus et gestion proactive des priorités</li>
-                                    <li>• Renforcement des compétences techniques en configuration réseau et téléphonie IP</li>
+                                    <li>• Maîtrise de Laravel et de son écosystème</li>
+                                    <li>• Optimisation du code backend avec des pratiques de développement moderne</li>
+                                    <li>• Gestion de la sécurité et de l'intégration de systèmes tiers (Stripe)</li>
+                                    <li>• ests unitaires et gestion de l’intégration continue avec Pest</li>
                                 </ul>
                         </p>
                         <p>
                             <h6>Axes d'amélioration :</h6>
                                 <ul>
-                                    <li>• Adopter un outil de gestion de projet avancé (Microsoft Project, Trello, Notion).</li>
-                                    <li>• Automatiser le suivi des tâches pour gagner en efficacité.</li>
+                                    <li>• Ajouter une fonctionnalité de gestion des stocks pour les restaurants</li>
+                                    <li>• Explorer des fonctionnalités supplémentaires comme l'intégration de la charte graphique de chaque restaurant</li>
                                 </ul>
                         </p>
                     </p>
@@ -1187,22 +1259,37 @@ include_once "common/footer.php";
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Fichier Excel de suivi</a>
+                                <a href="https://clickneat.elianeperol.com/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site Click'n Eat</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagrammes de GANTT</a>
+                                <a href="https://github.com/ElianePerol/Click.n.Eat" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Configuration réseau</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Rapports de test ou COFRAC</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur (guide rapide d’utilisation de l’application)</a>
                             </span>
                         </div>
                     </div>

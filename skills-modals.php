@@ -34,17 +34,31 @@
                 <h6>Projets associés</h6>
                 <p>
                     <ul>
-                        <li><b>Projet 1</b></li>
+                        <li><b>MYXLAB : Déploiement et Ouverture de Laboratoires</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>- Recenser et identifier les ressources numériques</li>
+                                <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>- Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                                <li>- Vérifier les conditions de la continuité d’un service informatique</li>
                             </ul>
-                        <li><b>Projet 3</b></li>
+                        <li><b>Rédaction de la Politique de Sécurité des Systèmes d'Information (PSSI)</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>- Recenser et identifier les ressources numériques</li>
+                                <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>- Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                                <li>- Gérer des sauvegardes</li>
+                                <li>- Vérifier les conditions de la continuité d’un service informatique</li>
+                            </ul>
+                        <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
+                            <ul>
+                                <li>- Recenser et identifier les ressources numériques</li>
+                                <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>- Vérifier les conditions de la continuité d’un service informatique</li>
+                            </ul>
+                        <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
+                            <ul>
+                                <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>- Vérifier les conditions de la continuité d’un service informatique</li>
                             </ul>
                     </ul>
                 </p>
@@ -110,17 +124,15 @@
                 <h6>Projets associés</h6>
                 <p>
                     <ul>
-                        <li><b>Projet 2</b></li>
+                        <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>- Traiter des demandes concernant les services réseau et système, applicatifs</li>
                             </ul>
-                        <li><b>Projet 6</b></li>
+                        <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>- Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                                <li>- Traiter des demandes concernant les applications</li>
                             </ul>
                     </ul>
                 </p>
@@ -186,17 +198,25 @@
                 <h6>Projets associés</h6>
                 <p>
                     <ul>
-                        <li><b>Projet 1</b></li>
+                        <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>- Collecter, suivre et orienter des demandes</li>
+                                <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisatio</li>
                             </ul>
-                        <li><b>Projet 4</b></li>
+                        <li><b>Création et développement du Portfolio BTS SIO SLAM</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
+                            </ul>
+                        <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
+                            <ul>
+                                <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
+                            </ul>
+                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                            <ul>
+                                <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                             </ul>
                     </ul>
                 </p>
