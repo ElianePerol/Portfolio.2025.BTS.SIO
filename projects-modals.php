@@ -96,9 +96,9 @@
                 <!-- projet-content-pause -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -313,9 +313,9 @@
                 <!-- projet-content-end -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>

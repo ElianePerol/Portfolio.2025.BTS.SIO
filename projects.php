@@ -311,9 +311,9 @@ include_once "common/footer.php";
                 <!-- projet-content-pause -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -354,7 +354,7 @@ include_once "common/footer.php";
                                         <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux
                                         économiques</li>
                                         <li>Référencer les services en ligne de l’organisation et mesurer leur visibilité</li>
-                                        <li>Participer à l’évolution d’un site Web exploitant les données de l’organisatio</li>
+                                        <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
                                     </ul>
                                 </li>
                                 <li><b>• Travailler en mode projet :</b>
@@ -526,9 +526,9 @@ include_once "common/footer.php";
                 <!-- projet-content-pause -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -734,9 +734,9 @@ include_once "common/footer.php";
                 <!-- projet-content-pause -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -955,9 +955,9 @@ include_once "common/footer.php";
                 <!-- projet-content-pause -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -1211,9 +1211,9 @@ include_once "common/footer.php";
                 <!-- projet-content-pause -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -1434,9 +1434,9 @@ include_once "common/footer.php";
                 <!-- projet-content-pause -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -1668,9 +1668,9 @@ include_once "common/footer.php";
                 <!-- projet-content-pause -->
 
                 <!-- projet-image -->
-                <div class="h1-modal-img">
+                <!-- <div class="h1-modal-img">
                     <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div>
+                </div> -->
 
                 <!-- project content continues -->
                 <div>
