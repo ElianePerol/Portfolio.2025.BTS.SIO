@@ -50,9 +50,9 @@
                     <h5>Avec qui :</h5>
                         <p>
                         <ul>
-                            <li>• Philippe Soulard (RSI, tuteur et pilote du projet)</li>
-                            <li>• Tifen Massé (Administrateur réseau, configurations réseau)</li>
-                            <li>• Kévin Gandon (Technicien informatique, installations matérielles)</li>
+                            <li><b>• Philippe Soulard </b>- RSI, tuteur et pilote du projet</li>
+                            <li><b>• Tifen Massé</b> - Administrateur réseau, configurations réseau</li>
+                            <li><b>• Kévin Gandon</b> - Technicien informatique, installations matérielles</li>
 
                         </ul>
                         </p>                    
@@ -61,8 +61,8 @@
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li>• Microsoft Excel</li>
-                                <li>• Microsoft 365 : calendrier partagé Outlook et Teams.</li>
+                                <li><b>• Microsoft Excel</b></li>
+                                <li><b>• Microsoft 365 </b>: calendrier partagé Outlook et Teams.</li>
                             </ul>
                         </p>
                         <p>
@@ -105,10 +105,10 @@
                     <p>
                         <h5>Difficultés rencontrées</h5>
                             <ul>
-                                <li>• Délais administratifs pour l'enregistrement des laboratoires auprès de l'ARS</li>
-                                <li>• Fenêtre d'intervention limitée avant les audits COFRAC</li>
-                                <li>• Retards dans les travaux des locaux, impactant la mise en place des équipements.</li>
-                                <li>• Coordination complexe entre les différents prestataires (Orange, Dedalus, Remisol).</li>
+                                <li><b>• Délais administratifs</b> pour l'enregistrement des laboratoires auprès de l'ARS</li>
+                                <li><b>• Fenêtre d'intervention limitée</b> avant les audits COFRAC</li>
+                                <li><b>• Retards</b> dans les travaux des locaux, impactant la mise en place des équipements.</li>
+                                <li><b>• Coordination complexe</b> entre les différents prestataires (Orange, Dedalus, Remisol).</li>
                             </ul>
                     </p>
                     <p>
@@ -256,8 +256,8 @@
                     <h5>Avec qui :</h5>
                         <p>
                         <ul>
-                            <li>• Philippe Soulard (RSI, tuteur et pilote du projet)</li>
-                            <li>• Kévin Gandon (Technicien informatique, configuration OCS et GLPI)</li>
+                            <li><b>• Philippe Soulard</b> - RSI, tuteur et pilote du projet</li>
+                            <li><b>• Kévin Gandon</b> - Technicien informatique, configuration OCS et GLPI</li>
                         </ul>
                         </p>
                     
@@ -265,9 +265,9 @@
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li>• Microsoft Word : rédaction et mise en forme de la PSSI</li>
-                                <li>• SAPANET : outil qualité pour le suivi des plans d’action et la gestion des avancées.</li>
-                                <li>• OCS Inventory et GLPI : inventaire automatisé des équipements.</li>
+                                <li><b>• Microsoft Word </b>: rédaction et mise en forme de la PSSI</li>
+                                <li><b>• SAPANET </b>: outil qualité pour le suivi des plans d’action et la gestion des avancées.</li>
+                                <li><b>• OCS Inventory et GLPI </b>: inventaire automatisé des équipements.</li>
                             </ul>
                         </p>
                         <p>
@@ -291,14 +291,14 @@
                             <h6>Mise en place de mesures concrètes :</h6>
                             <ul>
                                 <li>• Coordination avec le technicien informatique pour configurer et utiliser OCS Inventory et GLPI, créant un inventaire automatisé fiable des équipements.</li>
-                                <li>• Introduction dans la PSSI de politiques de mots de passe et de mesures de sécurité adaptées au contexte de l’entreprise.</li>
+                                <li>• Introduction, dans la PSSI, de politiques de mots de passe et de mesures de sécurité adaptées au contexte de l’entreprise.</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Suivi et gestion via SAPANET :</h6>
                             <ul>
                                 <li>• Création et mise à jour d’un Plan d’Action principal pour la rédaction de la PSSI.</li>
-                                <li>• Définition de Plans d’Actions complémentaires pour les éléments mentionnés dans la PSSI mais non encore finalisés (PCA/PRA, politique de sauvegarde renforcée).</li>
+                                <li>• Définition de Plans d’Action complémentaires pour les éléments mentionnés dans la PSSI mais non encore finalisés (PCA/PRA, politique de sauvegarde renforcée).</li>
                             </ul>
                         </p>
                         <p>
@@ -320,16 +320,16 @@
                     <p>
                         <h5>Difficultés rencontrées</h5>
                             <ul>
-                                <li>• Complexité du projet : nécessité de concilier exigences de sécurité technique et pratiques réelles.</li>
-                                <li>• Version obsolète de SAPANET : gestion des Plans d’Action parfois fastidieuse.</li>
-                                <li>• Exigence d’exactitude : éviter de promettre des mesures non encore mises en œuvre tout en intégrant des engagements progressifs.</li>
+                                <li><b>• Complexité du projet </b>: nécessité de concilier exigences de sécurité technique et pratiques réelles.</li>
+                                <li><b>• Version obsolète de SAPANET </b>: gestion des Plans d’Action parfois fastidieuse.</li>
+                                <li><b>• Exigence d’exactitude </b>: éviter de promettre des mesures non encore mises en œuvre tout en intégrant des engagements progressifs.</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Solutions apportées</h5>
                             <ul>
                                 <li>• <b>Communication simplifiée : </b>rédaction en langage clair pour faciliter les échanges et validations</li>
-                                <li>• <b>Optimisation de SAPANET : </b>structuration rigoureuse des suivis pour garantir une traçabilité précise.</li>
+                                <li>• <b>Optimisation de SAPANET : </b>structuration rigoureuse des suivi pour garantir une traçabilité précise.</li>
                                 <li>• <b>PSSI pragmatique : </b>alignée sur les pratiques actuelles, avec des engagements futurs assortis de Plans d’Action définis.</li>
                             </ul>
                     </p>

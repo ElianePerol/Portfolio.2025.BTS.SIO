@@ -20,12 +20,12 @@
                 <h6>Sous-Compétences</h6>
                 <p>
                     <ul>
-                        <li>- Recenser et identifier les ressources numériques</li>
-                        <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                        <li>- Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
-                        <li>- Vérifier les conditions de la continuité d’un service informatique</li>
-                        <li>- Gérer des sauvegardes</li>
-                        <li>- Vérifier le respect des règles d’utilisation des ressources</li>
+                        <li>• Recenser et identifier les ressources numériques</li>
+                        <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                        <li>• Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                        <li>• Vérifier les conditions de la continuité d’un service informatique</li>
+                        <li>• Gérer des sauvegardes</li>
+                        <li>• Vérifier le respect des règles d’utilisation des ressources</li>
                     </ul>
                 </p>
                 <!-- skill-1-sous-compétences-end -->
@@ -36,52 +36,52 @@
                     <ul>
                         <li><b>MYXLAB : Déploiement et Ouverture de Laboratoires</b></li>
                             <ul>
-                                <li>- Recenser et identifier les ressources numériques</li>
-                                <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                <li>- Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
-                                <li>- Vérifier les conditions de la continuité d’un service informatique</li>
+                                <li>• Recenser et identifier les ressources numériques</li>
+                                <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>• Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                                <li>• Vérifier les conditions de la continuité d’un service informatique</li>
                             </ul>
                         <li><b>Rédaction de la Politique de Sécurité des Systèmes d'Information (PSSI)</b></li>
                             <ul>
-                                <li>- Recenser et identifier les ressources numériques</li>
-                                <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                <li>- Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
-                                <li>- Gérer des sauvegardes</li>
-                                <li>- Vérifier les conditions de la continuité d’un service informatique</li>
+                                <li>• Recenser et identifier les ressources numériques</li>
+                                <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>• Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                                <li>• Gérer des sauvegardes</li>
+                                <li>• Vérifier les conditions de la continuité d’un service informatique</li>
                             </ul>
                         <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>- Recenser et identifier les ressources numériques</li>
-                                <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                <li>- Vérifier les conditions de la continuité d’un service informatique</li>
+                                <li>• Recenser et identifier les ressources numériques</li>
+                                <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>• Vérifier les conditions de la continuité d’un service informatique</li>
                             </ul>
                         <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
                             <ul>
-                                <li>- Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                <li>- Vérifier les conditions de la continuité d’un service informatique</li>
+                                <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>• Vérifier les conditions de la continuité d’un service informatique</li>
                             </ul>
                     </ul>
                 </p>
                 <!-- skill-1-projets-end -->
 
                 <!-- skill-1-work-start -->
-                <h6>Missions associées</h6>
+                <!-- <h6>Missions associées</h6>
                 <p>
                     <ul>
                         <li><b>Mission 1</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                         <li><b>Mission 3</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                     </ul>
-                </p>
+                </p> -->
                 <!-- skill-1-work-end -->
 
             </div>
@@ -113,9 +113,9 @@
                 <h6>Sous-Compétences</h6>
                 <p>
                     <ul>
-                        <li>- Collecter, suivre et orienter des demandes</li>
-                        <li>- Traiter des demandes concernant les services réseau et système, applicatifs</li>
-                        <li>- Traiter des demandes concernant les applications</li>
+                        <li>• Collecter, suivre et orienter des demandes</li>
+                        <li>• Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                        <li>• Traiter des demandes concernant les applications</li>
                     </ul>
                 </p>
                 <!-- skill-2-sous-compétences-end -->
@@ -126,36 +126,36 @@
                     <ul>
                         <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                <li>- Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                                <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>• Traiter des demandes concernant les services réseau et système, applicatifs</li>
                             </ul>
                         <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
                             <ul>
-                                <li>- Traiter des demandes concernant les services réseau et système, applicatifs</li>
-                                <li>- Traiter des demandes concernant les applications</li>
+                                <li>• Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                                <li>• Traiter des demandes concernant les applications</li>
                             </ul>
                     </ul>
                 </p>
                 <!-- skill-2-projets-end -->
 
                 <!-- skill-2-work-start -->
-                <h6>Missions associées</h6>
+                <!-- <h6>Missions associées</h6>
                 <p>
                     <ul>
                         <li><b>Mission 2</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                         <li><b>Mission 6</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                     </ul>
-                </p>
+                </p> -->
                 <!-- skill-2-work-end -->
 
             </div>
@@ -187,10 +187,10 @@
                 <h6>Sous-Compétences</h6>
                 <p>
                     <ul>
-                        <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux
+                        <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux
                             économiques</li>
-                        <li>- Référencer les services en ligne de l’organisation et mesurer leur visibilité</li>
-                        <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
+                        <li>• Référencer les services en ligne de l’organisation et mesurer leur visibilité</li>
+                        <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
                 </p>
                 <!-- skill-3-sous-compétences-end -->
                 
@@ -200,46 +200,46 @@
                     <ul>
                         <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>- Collecter, suivre et orienter des demandes</li>
-                                <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisatio</li>
+                                <li>• Collecter, suivre et orienter des demandes</li>
+                                <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisatio</li>
                             </ul>
                         <li><b>Création et développement du Portfolio BTS SIO SLAM</b></li>
                             <ul>
-                                <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
+                                <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                             </ul>
                         <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
                             <ul>
-                                <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
+                                <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                             </ul>
                         <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
                             <ul>
-                                <li>- Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                <li>- Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
+                                <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                             </ul>
                     </ul>
                 </p>
                 <!-- skill-3-projets-end -->
 
                 <!-- skill-3-work-start -->
-                <h6>Missions associées</h6>
+                <!-- <h6>Missions associées</h6>
                 <p>
                     <ul>
                         <li><b>Mission 1</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                         <li><b>Mission 4</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                     </ul>
-                </p>
+                </p> -->
                 <!-- skill-3-work-end -->
 
             </div>
@@ -271,9 +271,9 @@
                 <h6>Sous-Compétences</h6>
                 <p>
                     <ul>
-                        <li>- Analyser les objectifs et les modalités d’organisation d’un projet</li>
-                        <li>- Planifier les activités</li>
-                        <li>- Évaluer les indicateurs de suivi d’un projet et analyser les écarts</li>
+                        <li>• Analyser les objectifs et les modalités d’organisation d’un projet</li>
+                        <li>• Planifier les activités</li>
+                        <li>• Évaluer les indicateurs de suivi d’un projet et analyser les écarts</li>
                     </ul>
                 </p>
                 <!-- skill-4-sous-compétences-end -->
@@ -282,40 +282,64 @@
                 <h6>Projets associés</h6>
                 <p>
                     <ul>
-                        <li><b>Projet 3</b></li>
+                        <li><b>MYXLAB : Déploiement et Ouverture de Laboratoires</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                <li>• Planifier les activités</li>
+                                <li>• Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                             </ul>
-                        <li><b>Projet 5</b></li>
+                        <li><b>Rédaction de la Politique de Sécurité des Systèmes d'Information (PSSI)</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                <li>• Planifier les activités</li>
+                                <li>• Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                            </ul>
+                        <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
+                            <ul>
+                                <li>• Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                <li>• Planifier les activités</li>
+                                <li>• Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                            </ul>
+                        <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
+                            <ul>
+                                <li>• Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                <li>• Planifier les activités</li>
+                                <li>• Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                            </ul>
+                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                            <ul>
+                                <li>• Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                <li>• Planifier les activités</li>
+                                <li>• Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                            </ul>
+                        <li><b>Création et développement du Portfolio BTS SIO SLAM</b></li>
+                            <ul>
+                                <li>• Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                <li>• Planifier les activités</li>
+                                <li>• Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                             </ul>
                     </ul>
                 </p>
                 <!-- skill-4-projets-end -->
 
                 <!-- skill-4-work-start -->
-                <h6>Missions associées</h6>
+                <!-- <h6>Missions associées</h6>
                 <p>
                     <ul>
                         <li><b>Mission 3</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                         <li><b>Mission 5</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                     </ul>
-                </p>
+                </p> -->
                 <!-- skill-4-work-end -->
 
             </div>
@@ -347,9 +371,9 @@
                 <h6>Sous-Compétences</h6>
                 <p>
                     <ul>
-                        <li>- Réaliser les tests d’intégration et d’acceptation d’un service</li>
-                        <li>- Déployer un service</li>
-                        <li>- Accompagner les utilisateurs dans la mise en place d’un service</li>
+                        <li>• Réaliser les tests d’intégration et d’acceptation d’un service</li>
+                        <li>• Déployer un service</li>
+                        <li>• Accompagner les utilisateurs dans la mise en place d’un service</li>
                     </ul>
                 </p>
                 <!-- skill-5-sous-compétences-end -->
@@ -358,40 +382,53 @@
                 <h6>Projets associés</h6>
                 <p>
                     <ul>
-                        <li><b>Projet 5</b></li>
+                        <li><b>MYXLAB : Déploiement et Ouverture de Laboratoires</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                <li>• Déployer un service</li>
+                                <li>• Accompagner les utilisateurs dans la mise en place d'un service</li>
                             </ul>
-                        <li><b>Projet 6</b></li>
+                        <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Déployer un service</li>
+                                <li>• Accompagner les utilisateurs dans la mise en place d'un service</li>
+                            </ul>
+                            <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
+                            <ul>
+                                <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                <li>• Déployer un service</li>
+                                <li>• Accompagner les utilisateurs dans la mise en place d'un service</li>
+                            </ul>
+                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                            <ul>
+                                <li>• Déployer un service</li>
+                            </ul>
+                            <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
+                            <ul>
+                                <li>• Déployer un service</li>
                             </ul>
                     </ul>
                 </p>
                 <!-- skill-5-projets-end -->
 
                 <!-- skill-5-work-start -->
-                <h6>Missions associées</h6>
+                <!-- <h6>Missions associées</h6>
                 <p>
                     <ul>
                         <li><b>Mission 5</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                         <li><b>Mission 6</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                     </ul>
-                </p>
+                </p> -->
                 <!-- skill-5-work-end -->
 
             </div>
@@ -423,10 +460,10 @@
                 <h6>Sous-Compétences</h6>
                 <p>
                     <ul>
-                        <li>- Mettre en place son environnement d’apprentissage personnel</li>
-                        <li>- Mettre en œuvre des outils et stratégies de veille informationnelle</li>
-                        <li>- Gérer son identité professionnelle</li>
-                        <li>- Développer son projet professionnel</li>
+                        <li>• Mettre en place son environnement d’apprentissage personnel</li>
+                        <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                        <li>• Gérer son identité professionnelle</li>
+                        <li>• Développer son projet professionnel</li>
                     </ul>
                 </p>
                 <!-- skill-6-sous-compétences-end -->
@@ -435,40 +472,57 @@
                 <h6>Projets associés</h6>
                 <p>
                     <ul>
-                        <li><b>Projet 4</b></li>
+                        <li><b>Rédaction de la Politique de Sécurité des Systèmes d'Information (PSSI)</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
                             </ul>
-                        <li><b>Projet 6</b></li>
+                        <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                                <li>• Gérer son identité professionnelle</li>
+                            </ul>
+                        <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
+                            <ul>
+                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                            </ul>
+                        <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
+                            <ul>
+                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                            </ul>
+                        <li><b>Création et développement du Portfolio BTS SIO SLAM</b></li>
+                            <ul>
+                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                                <li>• Gérer son identité professionnelle</li>
+                                <li>• Développer son projet professionnel</li>
+                            </ul>
+                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                            <ul>
+                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                                <li>• Gérer son identité professionnelle</li>
+                                <li>• Développer son projet professionnel</li>
                             </ul>
                     </ul>
                 </p>
                 <!-- skill-6-projets-end -->
 
                 <!-- skill-6-work-start -->
-                <h6>Missions associées</h6>
+                <!-- <h6>Missions associées</h6>
                 <p>
                     <ul>
                         <li><b>Mission 4</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                         <li><b>Mission 6</b></li>
                             <ul>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
-                                <li>- Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
+                                <li>• Sous-compétence associée</li>
                             </ul>
                     </ul>
-                </p>
+                </p> -->
                 <!-- skill-6-work-end -->
 
             </div>

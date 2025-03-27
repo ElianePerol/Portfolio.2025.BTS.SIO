@@ -24,7 +24,7 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-location-dot"></i>
-                                Lieu : <span>MyDigitalSchool, Angers</span>
+                                Lieu : <span>ESPL, Angers</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
@@ -371,7 +371,7 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-location-dot"></i>
-                                Lieu : <span>MyDigitalSchool, Angers</span>
+                                Lieu : <span>ESPL, Angers</span>
                             </h3>
                         </div>
                         <div class="col-md-6">

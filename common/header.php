@@ -41,10 +41,10 @@
                                             </li>
                                             <li id="projects">
                                                 <a href="projects.php"><span><i class="fa-light fa-briefcase"></i></span> Projets</a>
-                                            </li>
+                                            <!-- </li>
                                             <li id="missions">
                                                 <a href="missions.php"><span><i class="fa-light fa-newspaper"></i></span> Missions</a>
-                                            </li>
+                                            </li> -->
                                             <li id="skills">
                                                 <a href="skills.php"><span><i class="fa-light fa-file-user"></i></span> Compétences</a>
                                             </li>

@@ -46,7 +46,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#mission-1">
                                         <img src="assets/img/missions/netflix.jpg" alt="Logo Netflix">
                                     </a>
-                                    <span class="item-subtitle">MyDigitalSchool, Janvier 2024</span>
+                                    <span class="item-subtitle">ESPL, Janvier 2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#mission-1">Intégration statique Netflix</a>
                                     </h6>
@@ -60,7 +60,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#mission-5">
                                         <img src="assets/img/missions/bar.jpg" alt="Bar">
                                     </a>
-                                    <span class="item-subtitle">MyDigitalSchool, Mai 2024</span>
+                                    <span class="item-subtitle">ESPL, Mai 2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#mission-5">Application de gestion d'un bar</a>
                                     </h6>
@@ -74,7 +74,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#mission-2">
                                         <img src="assets/img/missions/database.jpg" alt="Bibliothèque">
                                     </a>
-                                    <span class="item-subtitle">MyDigitalSchool, Mars 2024</span>
+                                    <span class="item-subtitle">ESPL, Mars 2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#mission-2">Création d'une base de données</a>
                                     </h6>
@@ -102,7 +102,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#mission-6">
                                         <img src="assets/img/missions/porfolio.jpg" alt="">
                                     </a>
-                                    <span class="item-subtitle">MyDigitalSchool, Avril 2024 à Mai 2025</span>
+                                    <span class="item-subtitle">ESPL, Avril 2024 à Mai 2025</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#mission-6">Création d'un portfolio</a>
                                     </h6>
@@ -116,7 +116,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#mission-4">
                                         <img src="assets/img/missions/docker.jpg" alt="Logo Docker">
                                     </a>
-                                    <span class="item-subtitle">MyDigitalSchool, Novembre 2024</span>
+                                    <span class="item-subtitle">ESPL, Novembre 2024</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#mission-4">Création d'un container Docker</a>
                                     </h6>

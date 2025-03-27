@@ -38,15 +38,12 @@ include_once "common/header.php";
                             <p class="bostami-parsonal-info-bio-text">Xlabs a ouvert son premier laboratoire à Cholet en 1974. En 2023, l'entreprise 
                                 comptait 13 sites répartis sur trois départements : le Maine-et-Loire (49), la Vendée (85) et les Deux-Sèvres (79).
                             </p>
-                            <p class="bostami-parsonal-info-bio-text">Face à la réglementation imposée par l'ARS, qui limite l'implantation des laboratoires 
-                                sous une même entité juridique à trois départements, le GIE MyXlab a été créé en 2023 pour accompagner le développement de 
-                                l'entreprise. Cette structure permet à Xlabs de s'associer avec d'autres entités telles que MyXlab 44, MyXlab 86 et MyXlab 72.
-                            </p>
-                            <p class="bostami-parsonal-info-bio-text">Désormais, quatre laboratoires sont implantés en Loire-Atlantique (44), deux en Sarthe (72) 
-                                et deux dans la Vienne (86).
-                            </p>
-                            <p>Le GIE MyXlab permet de mutualiser plusieurs services stratégiques, notamment la gestion de la Qualité, les Ressources Humaines, 
-                                la Facturation, ainsi que l'Informatique.</p>
+                            <p class="bostami-parsonal-info-bio-text">Pour répondre à la réglementation de l'ARS, qui limite l'implantation des laboratoires 
+                                sous une même entité juridique à trois départements, le GIE MyXlab a été créé en 2023 pour soutenir le développement de 
+                                l'entreprise. <br>Cette structure permet à Xlabs de s'associer avec MyXlab 44, MyXlab 86 et MyXlab 72, portant le parc à 21 laboratoires.</p>
+                            <p class="bostami-parsonal-info-bio-text">Le GIE MyXlab mutualise plusieurs services stratégiques, dont la Qualité, 
+                                les Ressources Humaines, la Facturation ainsi que l'Informatique. <br>Ce dernier est assuré par une équipe de cinq personnes basées 
+                                au siège social, à Cholet : un DSI, un RSI, un administrateur réseau, un technicien support et moi-même.</p>
                         </div> 
                     </div>
                     <!-- GIE-MyXlab-end -->
