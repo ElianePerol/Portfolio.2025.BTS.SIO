@@ -19,12 +19,12 @@
                     à se protéger des risques de disruption liés à l'obsolescence des technologies.</p>
                 <p>Pour les organisations et les professionnels, elle permet d'identifier de nouvelles opportunités, de surveiller la concurrence et 
                     d'orienter les stratégies d'innovation. En optimisant les processus internes, en réduisant les coûts et en encourageant la formation 
-                    continue, elle garantit une adaptation constante aux nouvelles exigences du secteur et reforce ainsi la compétitivité sur le marché.</p>
+                    continue, elle garantit une adaptation constante aux nouvelles exigences du secteur et renforce ainsi la compétitivité sur le marché.</p>
 
                 <div class="h1-modal-paragraph">
                     <h4 class="title">Outils</h4>
                     <p><b>Newsletter :</b> TLDR</p>
-                    <b>Google Alertes :</b>
+                    <b>Google Alert :</b>
                     <ul>
                         <li>Space programs IT developments</li>
                         <li>NASA software</li>
@@ -38,7 +38,7 @@
                         <li>IT-Connect - Actualités</li>
                         <li>CERT-FR</li>
                     </ul><br>
-                    <b>Comptes X :</b>
+                    <b>Comptes X (ex-Twitter):</b>
                     <ul>
                         <li>@NASA, @ESA, @SpaceX</li>
                         <li>@rustlang, @golang, @fsharporg</li>
@@ -567,13 +567,13 @@
                                 la mission en interrompant les processus en excés, déclenchés lors de l'alunissage par un trop plein de données 
                                 dû à une erreur de configuration.</li>
                         </ul><br>
-                        <ul><b>L'importance de l'échec :  </b>deux évènement marquants : 
+                        <ul><b>L'importance de l'échec :  </b>deux évènements marquants : 
                             <li> - La perte de Mars Climate Orbiter en 1999, qui s'est écrasé sur la surface martienne lors de son entrée dans l'atmosphère, 
                                 à cause d'un facteur de conversion incorrect pour une valeur de changement de vitesse. Les logiciels embarqués et au sol 
                                 utilisaient des systèmes de mesure différents (impérial et métrique).</li>
                             <li> - L'explosion de la fusée Ariane V en 1996, 30 secondes après son lancement. Le module logiciel responsable avait été repris 
                                 d'Ariane IV, une des données n'était pas adaptée et a causé une erreur d'interprétation par l'ordinateur de bord. Dans un 
-                                soucis d'économie dans la phase de test, ce choix a entraîné la perte de millions de dollars.</li>
+                                souci d'économie dans la phase de test, ce choix a entraîné la perte de millions de dollars.</li>
                             Ceci démontre la criticité de la conception logicielle, et la difficulté à l'exploiter correctement. Les erreurs sont toutefois 
                             inévitables, comme l'illustre SpaceX, dont les échecs passés ont contribué au succès du Falcon Heavy en 2018.
                         </ul></p>

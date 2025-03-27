@@ -40,6 +40,8 @@
                                 <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
                                 <li>• Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
                                 <li>• Vérifier les conditions de la continuité d’un service informatique</li>
+                                <li>• Gérer des sauvegardes</li>
+                                <li>• Vérifier le respect des règles d’utilisation des ressources numériques</li>
                             </ul>
                         <li><b>Rédaction de la Politique de Sécurité des Systèmes d'Information (PSSI)</b></li>
                             <ul>
@@ -47,7 +49,7 @@
                                 <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
                                 <li>• Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
                                 <li>• Gérer des sauvegardes</li>
-                                <li>• Vérifier les conditions de la continuité d’un service informatique</li>
+                                <li>• Vérifier le respect des règles d’utilisation des ressources numériques</li>
                             </ul>
                         <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
@@ -59,6 +61,12 @@
                             <ul>
                                 <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
                                 <li>• Vérifier les conditions de la continuité d’un service informatique</li>
+                            </ul>
+                        <li><b>Mise en place d’une adresse MSSanté organisationnelle</b></li>
+                            <ul>
+                                <li>• Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                <li>• Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                                <li>• Vérifier le respect des règles d’utilisation des ressources numériques</li>
                             </ul>
                     </ul>
                 </p>
@@ -126,11 +134,23 @@
                     <ul>
                         <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>• Collecter, suivre et orienter des demandes</li>
                                 <li>• Traiter des demandes concernant les services réseau et système, applicatifs</li>
                             </ul>
                         <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
                             <ul>
+                                <li>• Collecter, suivre et orienter des demandes</li>
+                                <li>• Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                            </ul>
+                        <li><b>Résolution des Tickets GLPI et Gestion des Problèmes Techniques</b></li>
+                            <ul>
+                                <li>• Collecter, suivre et orienter des demandes</li>
+                                <li>• Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                                <li>• Traiter des demandes concernant les applications</li>
+                            </ul>
+                        <li><b>Mise en place d’une adresse MSSanté organisationnelle</b></li>
+                            <ul>
+                                <li>• Collecter, suivre et orienter des demandes</li>
                                 <li>• Traiter des demandes concernant les services réseau et système, applicatifs</li>
                                 <li>• Traiter des demandes concernant les applications</li>
                             </ul>
@@ -200,7 +220,9 @@
                     <ul>
                         <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
-                                <li>• Collecter, suivre et orienter des demandes</li>
+                                <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux
+                                économiques</li>
+                                <li>• Référencer les services en ligne de l’organisation et mesurer leur visibilité</li>
                                 <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisatio</li>
                             </ul>
                         <li><b>Création et développement du Portfolio BTS SIO SLAM</b></li>
@@ -214,6 +236,11 @@
                                 <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                             </ul>
                         <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                            <ul>
+                                <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
+                            </ul>
+                        <li><b>Résolution des Tickets GLPI et Gestion des Problèmes Techniques</b></li>
                             <ul>
                                 <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
                                 <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
@@ -393,19 +420,32 @@
                                 <li>• Déployer un service</li>
                                 <li>• Accompagner les utilisateurs dans la mise en place d'un service</li>
                             </ul>
-                            <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
+                        <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
                             <ul>
                                 <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                 <li>• Déployer un service</li>
                                 <li>• Accompagner les utilisateurs dans la mise en place d'un service</li>
                             </ul>
-                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                        <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
                             <ul>
+                                <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                 <li>• Déployer un service</li>
                             </ul>
-                            <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
+                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
                             <ul>
+                                <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                 <li>• Déployer un service</li>
+                            </ul>
+                        <li><b>Résolution des Tickets GLPI et Gestion des Problèmes Techniques</b></li>
+                            <ul>
+                                <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                <li>• Déployer un service</li>
+                            </ul>
+                        <li><b>Mise en place d’une adresse MSSanté organisationnelle</b></li>
+                            <ul>
+                                <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                <li>• Déployer un service</li>
+                                <li>• Accompagner les utilisateurs dans la mise en place d'un service</li>
                             </ul>
                     </ul>
                 </p>
@@ -474,30 +514,41 @@
                     <ul>
                         <li><b>Rédaction de la Politique de Sécurité des Systèmes d'Information (PSSI)</b></li>
                             <ul>
+                                <li>• Mettre en place son environnement d’apprentissage personnel</li>
                                 <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
                             </ul>
                         <li><b>Mise à jour et administration des sites web Xlabs & MyXlab</b></li>
                             <ul>
+                                <li>• Mettre en place son environnement d’apprentissage personnel</li>
                                 <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
                                 <li>• Gérer son identité professionnelle</li>
                             </ul>
                         <li><b>Configuration et optimisation de FCC pour la gestion des appels</b></li>
                             <ul>
-                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
-                            </ul>
-                        <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
-                            <ul>
-                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                                <li>• Mettre en place son environnement d’apprentissage personnel</li>
                             </ul>
                         <li><b>Création et développement du Portfolio BTS SIO SLAM</b></li>
                             <ul>
+                                <li>• Mettre en place son environnement d’apprentissage personnel</li>
                                 <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
                                 <li>• Gérer son identité professionnelle</li>
                                 <li>• Développer son projet professionnel</li>
                             </ul>
+                        <li><b>Welcome Training : Application PHP de gestion des classes et des présences</b></li>
+                                <ul>
+                                    <li>• Mettre en place son environnement d’apprentissage personnel</li>
+                                    <li>• Gérer son identité professionnelle</li>
+                                    <li>• Développer son projet professionnel</li>
+                                </ul>
                         <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
                             <ul>
-                                <li>• Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                                <li>• Mettre en place son environnement d’apprentissage personnel</li>
+                                <li>• Gérer son identité professionnelle</li>
+                                <li>• Développer son projet professionnel</li>
+                            </ul>
+                        <li><b>Résolution des Tickets GLPI et Gestion des Problèmes Techniques</b></li>
+                            <ul>
+                                <li>• Mettre en place son environnement d’apprentissage personnel</li>
                                 <li>• Gérer son identité professionnelle</li>
                                 <li>• Développer son projet professionnel</li>
                             </ul>

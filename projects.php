@@ -345,13 +345,15 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Répondre aux incidents et aux demandes d’assistance et d’évolution :</b>
                                     <ul>
-                                        <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                        <li>Collecter, suivre et orienter des demandes</li>
                                         <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
                                     </ul>
                                 </li>
                                 <li><b>• Développer la présence en ligne de l’organisation :</b>
                                     <ul>
-                                        <li>Collecter, suivre et orienter des demandes</li>
+                                        <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux
+                                        économiques</li>
+                                        <li>Référencer les services en ligne de l’organisation et mesurer leur visibilité</li>
                                         <li>Participer à l’évolution d’un site Web exploitant les données de l’organisatio</li>
                                     </ul>
                                 </li>
@@ -370,8 +372,9 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Organiser son développement professionnel :</b>
                                     <ul>
+                                        <li>Mettre en place son environnement d’apprentissage personnel</li>
                                         <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
-                                        <li> Gérer son identité professionnelle</li>
+                                        <li>Gérer son identité professionnelle</li>
                                     </ul>
                                 </li>
                             </ul>
@@ -557,8 +560,8 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Répondre aux incidents et aux demandes d’assistance et d’évolution :</b>
                                     <ul>
+                                        <li>Collecter, suivre et orienter des demandes</li>
                                         <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
-                                        <li>Traiter des demandes concernant les applications</li>
                                     </ul>
                                 </li>
                                 <li><b>• Mettre à disposition des utilisateurs un service informatique :</b>
@@ -993,6 +996,7 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Mettre à disposition des utilisateurs un service informatique :</b>
                                     <ul>
+                                        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                         <li>Déployer un service</li>
                                     </ul>
                                 </li>
@@ -1247,6 +1251,7 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Mettre à disposition des utilisateurs un service informatique :</b>
                                     <ul>
+                                        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                         <li>Déployer un service</li>
                                     </ul>
                                 </li>
@@ -1485,6 +1490,7 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Mettre à disposition des utilisateurs un service informatique :</b>
                                     <ul>
+                                        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                         <li>Déployer un service</li>
                                     </ul>
                                 </li>
@@ -1556,7 +1562,7 @@ include_once "common/footer.php";
 </div>
 <!-- glpi-modal-end -->
 
-<!-- glpi-modal-start -->
+<!-- mssante-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-9" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
@@ -1576,7 +1582,7 @@ include_once "common/footer.php";
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Dates : <span>Novembre 2024</span>
+                                Dates : <span>Mai 2024</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
@@ -1622,7 +1628,6 @@ include_once "common/footer.php";
                             <ul>
                                 <li><b>• Messagerie MSSanté</b> : création de l'addresse organisationnelle</li>
                                 <li><b>• Microsoft Exchange</b> et <b>Office 365</b> : Gestion de la double authentification</li>
-                                li
                             </ul>
                         </p>
                         <p>
@@ -1701,6 +1706,7 @@ include_once "common/footer.php";
                                 </li>
                                 <li><b>• Mettre à disposition des utilisateurs un service informatique :</b>
                                     <ul>
+                                        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                         <li>Déployer un service</li>
                                         <li>Accompagner les utilisateurs dans la mise en place d’un service</li>
                                     </ul>
@@ -1757,4 +1763,4 @@ include_once "common/footer.php";
         </div>
     </div>
 </div>
-<!-- glpi-modal-end -->
+<!-- mssante-modal-end -->

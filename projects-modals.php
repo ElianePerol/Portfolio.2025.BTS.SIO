@@ -128,6 +128,8 @@
                                         <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
                                         <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
                                         <li>Vérifier les conditions de la continuité d’un service informatique</li>
+                                        <li>Gérer des sauvegardes</li>
+                                        <li>Vérifier le respect des règles d’utilisation des ressources numériques</li>
                                     </ul>
                                 </li>
                                 <li><b>• Travailler en mode projet :</b>
@@ -226,7 +228,7 @@
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Dates : <span>Août 2023 - Septembre 2024</span>
+                                Dates : <span>Août 2023 - Octobre 2023</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
@@ -354,6 +356,7 @@
                                 </li>
                                 <li><b>•  Organiser son développement professionnel :</b>
                                     <ul>
+                                        <li>Mettre en place son environnement d’apprentissage personnel</li>
                                         <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
                                     </ul>
                                 </li>
