@@ -1,6 +1,6 @@
 <!-- skill-1-assets-modal-start -->
 <div class="modal h1-modal-box fade" id="assets" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -101,7 +101,7 @@
 
 <!-- skill-2-support-modal-start -->
 <div class="modal h1-modal-box fade" id="support" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -187,7 +187,7 @@
 
 <!-- skill-3-online-modal-start -->
 <div class="modal h1-modal-box fade" id="online" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -278,7 +278,7 @@
 
 <!-- skill-4-project-mode-modal-start -->
 <div class="modal h1-modal-box fade" id="project-mode" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -378,7 +378,7 @@
 
 <!-- skill-5-availability-modal-start -->
 <div class="modal h1-modal-box fade" id="availability" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -480,7 +480,7 @@
 
 <!-- skill-6-pro-growth-modal-start -->
 <div class="modal h1-modal-box fade" id="pro-growth" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">

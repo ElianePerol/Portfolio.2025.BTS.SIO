@@ -15,7 +15,7 @@ include_once "common/header.php";
 
                             <!-- tableau-synthèse-button -->
                             <div class="bostami-parsonal-info-btn d-flex align-items-center">
-                                <a class="btn-2 circle d-flex align-items-center justify-content-center" data-bs-toggle="modal" data-bs-target="#def-and-tools">
+                                <a class="btn-2 circle d-flex align-items-center justify-content-center" data-bs-toggle="modal" data-bs-target="#def-and-tools" style="cursor: pointer;">
                                     <h5 class="bostami-parsonal-info-title text-white m-0">Définition et outils</h5>
                                 </a>
                             </div>
@@ -45,25 +45,10 @@ include_once "common/header.php";
                         <div id="fillter-item-active" class="fillter-item-wrap">
                             <div class="grid-sizer"></div>
 
-                            <!-- def-and-tools- start -->
-                            <!-- <div class="isotop-item quantum-it space-it dev-languages">
-                                <div class="fillter-item bg-yellow">
-                                    <a class="img" href="" data-bs-toggle="modal" data-bs-target="#def-and-tools
-                                    ">
-                                        <img src="assets/img/work/def1.jpg" alt="">
-                                    </a>
-                                    <h6 class="item-title">
-                                        <a href="" data-bs-toggle="modal" data-bs-target="#def-and-tools">Définition et outils</a>
-                                    </h6>
-                                </div>
-                            </div> -->
-                            <!-- def-and-tools-end -->
-
                             <!-- source-1- start -->
                             <div class="isotop-item space-it">
                                 <div class="fillter-item bg-catkrill">
-                                    <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-1
-                                    ">
+                                    <a class="img" href="" data-bs-toggle="modal" data-bs-target="#source-1">
                                         <img src="assets/img/tech-watch/source1.png" alt="">
                                     </a>
                                     <span class="item-subtitle">Medium, 23/04/2023</span>
@@ -200,7 +185,7 @@ include_once "common/header.php";
 
 <!-- source-8-modal-start -->
 <div class="modal portfolio-modal-box fade" id="source-8" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -277,7 +262,7 @@ include_once "common/header.php";
 
 <!-- source-9-modal-start -->
 <div class="modal portfolio-modal-box fade" id="source-9" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">

@@ -198,7 +198,7 @@ include_once "common/footer.php";
 
 <!-- websites-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-3" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -438,7 +438,7 @@ include_once "common/footer.php";
 
 <!-- FCC-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-4" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -639,7 +639,7 @@ include_once "common/footer.php";
 
 <!-- portfolio-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-5" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -839,7 +839,7 @@ include_once "common/footer.php";
 
 <!-- welcome-training-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-6" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -1085,7 +1085,7 @@ include_once "common/footer.php";
 
 <!-- click n eat-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-7" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -1340,7 +1340,7 @@ include_once "common/footer.php";
 
 <!-- glpi-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-8" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -1559,7 +1559,7 @@ include_once "common/footer.php";
 
 <!-- mssante-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-9" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">

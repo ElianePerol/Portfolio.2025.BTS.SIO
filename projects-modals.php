@@ -1,6 +1,6 @@
 <!-- myxlab opening modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-1" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -210,7 +210,7 @@
 
 <!-- PSSI -modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-2" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-bs-dismiss="modal">
