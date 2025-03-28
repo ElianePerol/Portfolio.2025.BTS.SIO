@@ -2,6 +2,7 @@
 include_once "common/header.php";
 ?>
 
+
 <div class="bostami-page-area z-index-3">
     <div class="container">
         <div class="bostami-page-wrap pt-60 pl-80 pr-80">
@@ -189,13 +190,11 @@ include_once "common/header.php";
     </div>
 </div>
 
-<?php 
-include_once "projects-modals.php";
-?>
 
 <?php 
 include_once "common/footer.php";
 ?>
+
 
 <!-- websites-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-3" tabindex="-1" role="dialog">
@@ -1418,10 +1417,6 @@ include_once "common/footer.php";
                     
                     <h5>Tâches</h5>
                         <p>
-                            <h6>Rédaction du cahier des charges</h6>
-                        </p>
-                        <p>
-                            <h6>Modélisation de la base de données selon la méthode Merise :</h6>
                             <ol>
                                 <li>Attribution des tickets GLPI en fonction des compétences de chacun</li>
                                 <li>Analyse des incidents et demandes pour identifier leur origine</li>
@@ -1764,3 +1759,10 @@ include_once "common/footer.php";
     </div>
 </div>
 <!-- mssante-modal-end -->
+
+
+
+
+<?php 
+include_once "projects-modals.php";
+?>

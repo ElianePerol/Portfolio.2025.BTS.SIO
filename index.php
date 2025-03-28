@@ -109,7 +109,7 @@ include_once "common/header.php";
                                                         <i class="fa-solid fa-vial"></i></a>
                                                     </div>
                                                     <div class="text">
-                                                        <p><a href="xlabs.php">Entreprise</a></p>
+                                                        <p><a href="xlabs.php">Entreprise d'alternance</a></p>
                                                         <span class="mt-2"><a href="xlabs.php">XLABS Laboratoires</a></span>
                                                     </div>
                                                 </div>

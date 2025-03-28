@@ -14,9 +14,10 @@ include_once "common/header.php";
                             <h2 class="page-title">Veille technologique</h2>
 
                             <!-- tableau-synthèse-button -->
-                            <div class="bostami-parsonal-info-btn">
-                                <a class="btn-2 circle" href="assets/docs/veille-tech-eliane-perol-.pdf" target="_blank">
-                                    <span class="icon"><i class="fa-regular fa-download"></i></span>Tableau récapitulatif</a>
+                            <div class="bostami-parsonal-info-btn d-flex align-items-center">
+                                <a class="btn-2 circle d-flex align-items-center justify-content-center" data-bs-toggle="modal" data-bs-target="#def-and-tools">
+                                    <h5 class="bostami-parsonal-info-title text-white m-0">Définition et outils</h5>
+                                </a>
                             </div>
 
                         </div>
@@ -45,18 +46,17 @@ include_once "common/header.php";
                             <div class="grid-sizer"></div>
 
                             <!-- def-and-tools- start -->
-                            <div class="isotop-item quantum-it space-it dev-languages">
+                            <!-- <div class="isotop-item quantum-it space-it dev-languages">
                                 <div class="fillter-item bg-yellow">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#def-and-tools
                                     ">
                                         <img src="assets/img/work/def1.jpg" alt="">
                                     </a>
-                                    <!-- <span class="item-subtitle">Type de source, 01/01/1970</span> -->
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#def-and-tools">Définition et outils</a>
                                     </h6>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- def-and-tools-end -->
 
                             <!-- source-1- start -->
@@ -362,9 +362,9 @@ include_once "common/header.php";
 <!-- source-9-modal-end -->
 
 <?php 
-include_once "tech-watch-modals.php";
+include_once "common/footer.php";
 ?>
 
 <?php 
-include_once "common/footer.php";
+include_once "tech-watch-modals.php";
 ?>
