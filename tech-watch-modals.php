@@ -104,8 +104,8 @@
                     <p>La programmation est essentielle dans le cadre de la recherche et de l'exploration spatiale. Elle nécessite non 
                         seulement des connaissances très pointues en physique spatiale, en protocoles de communications des satellites 
                         ou encore en vol spatial, mais aussi une observation rigoureuse des standards de sécurité et de qualité, étant 
-                        donné les coûts humains et financiers importants en cas d'echec d'une mission.</p>
-                    <p>Les phases de la programmation logicielle pour les programmes spaciaux sont : la collecte des exigences, la conception, l'implémentation, 
+                        donné les coûts humains et financiers importants en cas d'échec d'une mission.</p>
+                    <p>Les phases de la programmation logicielle pour les programmes spatiaux sont : la collecte des exigences, la conception, l'implémentation, 
                         les tests (unitaires, d'intégration, environnementaux) et la maintenance.</p>
                     <p><ul>Les défis principaux sont : 
                             <li><b>La tolérance aux pannes :</b> les logiciels doivent pouvoir fonctionner malgré de probables pannes matérielles dû aux conditions 
@@ -262,7 +262,7 @@
                         architecture dépassée comparée à Kotlin.</li>
                     </ul>
                     </p>
-                    <p>Languages concurrents :<br>
+                    <p>Langages concurrents :<br>
                     <b>Rust, Kotlin, Swift, Go, TypeScript</b> gagnent du terrain grâce à leurs 
                     spécificités dans des domaines comme la sécurité mémoire, l'optimisation 
                     des performances et la scalabilité.</p>
@@ -405,7 +405,7 @@
                     <h5>Résumé</h5>
                     <p><ul>Pour ses projets spatiaux, l' ISRO (Organisation Indienne pour la Recherche Spatiale) 
                         choisi rigoureusement ses langages de programmations :
-                            <li><b>C++ :</b>  pour le design des systemes de contrôle de satellites, la simulation 
+                            <li><b>C++ :</b>  pour le design des systèmes de contrôle de satellites, la simulation 
                             de trajectoires complexes, grâce à son efficacité et ses capacités proche du hardware.</li>
                             <li><b>Python :</b> pour l'analyse des données, le planning de mission ou les test, grâce 
                             à versatilité et sa capacité à s'intégrer à d'autres langages.</li>
@@ -419,7 +419,7 @@
                             correspondance directe avec le code machine.</li>
                             <li><b>Swift :</b> pour le contrôle et la surveillance des équipements embarqués, il est adapté aux 
                             applications de traitement de données en temps réel.</li>
-                            <li><b>Lua :</b> pour la création de scripts d'automatisation de tâches, améliorant l'éfficacité 
+                            <li><b>Lua :</b> pour la création de scripts d'automatisation de tâches, améliorant l'efficacité 
                             opérationnelle des satellite et engins spatiaux.</li>
                     </ul>
                     </p>
@@ -563,8 +563,8 @@
                         <ul><b>De l'ordinateur aux étoiles :  </b>le succès du premier alunissage du programme Apollo est dû à deux éléments
                              cruciaux, ayant prévenu l'abandon de la mission :
                             <li> - L'ordinateur de guidage Apollo</li>
-                            <li> - Le logiciel de gestion des processus conçu par Margaret Hamilton. Il a permis à l'aterriseur de poursuivre 
-                                la mission en interrompant les processus en excés, déclenchés lors de l'alunissage par un trop plein de données 
+                            <li> - Le logiciel de gestion des processus conçu par Margaret Hamilton. Il a permis à l'atterrisseur de poursuivre 
+                                la mission en interrompant les processus en èés, déclenchés lors de l'alunissage par un trop plein de données 
                                 dû à une erreur de configuration.</li>
                         </ul><br>
                         <ul><b>L'importance de l'échec :  </b>deux évènements marquants : 
@@ -581,7 +581,7 @@
                         
                         <div class="col-md-10">
                             <p><b>Un futur open source : </b>à plusieurs occasions, des projets menés par des passionnés ont été choisis comme bases  pour 
-                            construire le cœur d'un système de guidage ou de vol d'un rover ou d'un nanosatellite (par exemple pour l'atterissage de 
+                            construire le cœur d'un système de guidage ou de vol d'un rover ou d'un nanosatellite (par exemple pour l'atterrissage de 
                             Perseverance et Ingenuity sur Mars début 2020, dont le framework logiciel F Prime avait été rendu open source par JPL). 
                             Depuis avril 2021, GitHub a créé un badge spécial dédié à la mission, attribué aux utilisateurs dont les contributions ont 
                             été utilisées pour le logiciel embarqué d'Ingenuity.</p>

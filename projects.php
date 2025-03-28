@@ -534,7 +534,7 @@ include_once "common/footer.php";
                     <p>
                         <h5>Difficultés rencontrées</h5>
                             <ul>
-                                <li><b>• Absence de standardistes</b> : nécessicité d'une solution autonome pour gérer les messages vocaux</li>
+                                <li><b>• Absence de standardistes</b> : nécessité d'une solution autonome pour gérer les messages vocaux</li>
                                 <li><b>• Intégration de nouveaux sites</b> tout en respectant les configurations des sites existants</li>
                                 <li><b>• Complexité technique du FCC</b> : Outil FCC assez peu intuitif pour gérer plusieurs sites et configurations simultanées, rendant certaines opérations chronophages</li>
                             </ul>
@@ -1462,7 +1462,7 @@ include_once "common/footer.php";
                             <li>• Prise en main de WordPress et Joomla → Consultation de la documentation officielle et expérimentation 
                                 sur un environnement de test</li>
                             <li>• Vérification de la compatibilité du plugin avec la version du site → Test du plugin en local avant 
-                                installation sur le site en productiont</li>
+                                installation sur le site en production</li>
                             <li>• Coordination avec plusieurs biologistes pour anticiper les besoins similaires → Communication proactive 
                                 par e-mail et centralisation des retours dans un document partagé</li>
                             </ul>
@@ -1621,7 +1621,7 @@ include_once "common/footer.php";
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li><b>• Messagerie MSSanté</b> : création de l'addresse organisationnelle</li>
+                                <li><b>• Messagerie MSSanté</b> : création de l'adresse organisationnelle</li>
                                 <li><b>• Microsoft Exchange</b> et <b>Office 365</b> : Gestion de la double authentification</li>
                             </ul>
                         </p>
