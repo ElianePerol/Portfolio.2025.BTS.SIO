@@ -12,10 +12,18 @@ include_once "common/header.php";
                     <div class="col-12">
                         <div class="bostami-page-title-wrap mb-40">
                             <h2 class="page-title">Compétences</h2>
+
+                            <!-- tableau-synthèse-button -->
+                            <div class="bostami-parsonal-info-btn">
+                                <a class="btn-2 circle" href="assets/docs/tableau-synthese-competences.pdf" target="_blank">
+                                    <span class="icon"><i class="fa-regular fa-download"></i>Tableau de Synthèse (Annexe 8-1)</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            
 
             <!-- main-content-div-start -->
             <div class="bostami-blog-2 mb-30">

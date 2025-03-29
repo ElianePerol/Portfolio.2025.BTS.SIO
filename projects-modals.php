@@ -95,11 +95,6 @@
                 </div>
                 <!-- projet-content-pause -->
 
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
-
                 <!-- project content continues -->
                 <div>
                     <p>
@@ -179,7 +174,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Fichier Excel de suivi</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Extrait du document de suivi</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -189,12 +184,7 @@
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Configuration réseau</a>
-                            </span>
-                        </div>
-                        <div class="col-md-6">
-                            <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Rapports de test ou COFRAC</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Configuration réseau ?</a>
                             </span>
                         </div>
                     </div>
@@ -311,11 +301,6 @@
                         </p>
 
                 <!-- projet-content-end -->
-
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
 
                 <!-- project content continues -->
                 <div>

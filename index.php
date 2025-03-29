@@ -80,7 +80,7 @@ include_once "common/header.php";
                             <p class="bostami-parsonal-info-bio-text">Après sept ans en tant qu'opticienne à Londres, j'ai entamé une reconversion
                                 dans le développement informatique. Mon expérience professionnelle m'a appris que j'avais besoin de faire de ma curiosité, 
                                 mon esprit d'analyse et ma rigueur le socle de ma nouvelle carrière.</p>
-                            <p class="bostami-parsonal-info-bio-text">Ce portfolio est réalisé dans le cadre de ma formation au BTS SIO option SLAM à l'ESPL d'Angers.</p>
+                            <p class="bostami-parsonal-info-bio-text">Ce portfolio est réalisé dans le cadre de ma formation au BTS SIO option SLAM à l'ESPL d'Angers, en alternance.</p>
 
                             
                             <div class="row">
@@ -109,7 +109,7 @@ include_once "common/header.php";
                                                         <i class="fa-solid fa-vial"></i></a>
                                                     </div>
                                                     <div class="text">
-                                                        <p><a href="xlabs.php">Entreprise d'alternance</a></p>
+                                                        <p><a href="xlabs.php">Mon entreprise</a></p>
                                                         <span class="mt-2"><a href="xlabs.php">XLABS Laboratoires</a></span>
                                                     </div>
                                                 </div>

@@ -13,6 +13,12 @@ include_once "common/header.php";
                     <div class="col-12">
                         <div class="bostami-page-title-wrap mb-40">
                             <h2 class="page-title">Projets</h2>
+
+                            <!-- tableau-synthèse-button -->
+                            <div class="bostami-parsonal-info-btn">
+                                <a class="btn-2 circle" href="assets/docs/tableau-synthese-competences.pdf" target="_blank">
+                                    <span class="icon"><i class="fa-regular fa-download"></i>Tableau de Synthèse (Annexe 8-1)</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -107,7 +113,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-5">
                                         <img src="assets/img/projects/bts-portfolio.png" alt="">
                                     </a>
-                                    <span class="item-subtitle">ESPL Angers, Septembre 2023 - Avril 2025</span>
+                                    <span class="item-subtitle">ESPL Angers, Mai 2024 - Avril 2025</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#projet-5">
                                             Création et développement du Portfolio BTS SIO SLAM</a>
@@ -309,11 +315,6 @@ include_once "common/footer.php";
                 </div>
                 <!-- projet-content-pause -->
 
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
-
                 <!-- project content continues -->
                 <div>
                     <p>
@@ -418,12 +419,12 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Exemple de procédure</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran des mentions légales mises à jour</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Capture d'écran GLPI</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran des sauvegardes réalisées</a>
                             </span>
                         </div>
                     </div>
@@ -524,11 +525,6 @@ include_once "common/footer.php";
                 </div>
                 <!-- projet-content-pause -->
 
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
-
                 <!-- project content continues -->
                 <div>
                     <p>
@@ -613,7 +609,7 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagrammes de GANTT</a>
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran du tableau de bord FCC</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -657,7 +653,7 @@ include_once "common/footer.php";
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Dates : <span>Septembre 2023 - Avril 2025</span>
+                                Dates : <span>Mai 2024 - Avril 2025</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
@@ -731,11 +727,6 @@ include_once "common/footer.php";
                         </p>
                 </div>
                 <!-- projet-content-pause -->
-
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -811,6 +802,11 @@ include_once "common/footer.php";
 
                 <div class="portfolio-modal-table">
                     <div class="row">
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
+                            </span>
+                        </div>
                         <div class="col-md-6">
                             <span class="">
                                 <a href="https://portfolio.elianeperol.com" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Portofolio</a>
@@ -953,11 +949,6 @@ include_once "common/footer.php";
                 </div>
                 <!-- projet-content-pause -->
 
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
-
                 <!-- project content continues -->
                 <div>
                     <p>
@@ -1051,6 +1042,11 @@ include_once "common/footer.php";
                         <div class="col-md-6">
                             <span class="">
                                 <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme GANT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -1209,11 +1205,6 @@ include_once "common/footer.php";
                 </div>
                 <!-- projet-content-pause -->
 
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
-
                 <!-- project content continues -->
                 <div>
                     <p>
@@ -1301,6 +1292,11 @@ include_once "common/footer.php";
                         <div class="col-md-6">
                             <span class="">
                                 <a href="https://github.com/ElianePerol/Click.n.Eat" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme GANT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -1427,11 +1423,6 @@ include_once "common/footer.php";
                         </p>
                 </div>
                 <!-- projet-content-pause -->
-
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
 
                 <!-- project content continues -->
                 <div>
@@ -1662,11 +1653,6 @@ include_once "common/footer.php";
                 </div>
                 <!-- projet-content-pause -->
 
-                <!-- projet-image -->
-                <!-- <div class="h1-modal-img">
-                    <img src="assets/img/work/portfolio-modal-img-1.jpg" alt="">
-                </div> -->
-
                 <!-- project content continues -->
                 <div>
                     <p>
@@ -1747,6 +1733,11 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
+                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Schéma de configuration de la double authentification</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
                                 <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran</a>
                             </span>
                         </div>
@@ -1759,8 +1750,6 @@ include_once "common/footer.php";
     </div>
 </div>
 <!-- mssante-modal-end -->
-
-
 
 
 <?php 
