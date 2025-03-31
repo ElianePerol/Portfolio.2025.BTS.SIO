@@ -244,11 +244,9 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>J'ai pris en charge la maintenance et la mise à jour des sites internet de l'entreprise :
-                            <ul>
-                                <li>- le site Xlabs, créé avec le CMS Joomla, en activité depuis plus de dix ans sans mise à jour majeure</li>
-                                <li>- le site MyXlab, créé avec le CMS WordPress et l'éditeur Colibri</li>
-                            </ul>
+                        <p>J'ai pris en charge la maintenance et la mise à jour des sites internet de l'entreprise :<br>
+                               - le site Xlabs, créé avec le CMS Joomla, en activité depuis plus de dix ans<br>
+                               - le site MyXlab, créé avec le CMS WordPress et l'éditeur Colibri<br>
                             En tenant compte des limites techniques et économiques, j'ai assuré la gestion des pages stratégiques, 
                             la conformité RGPD et la mise en œuvre de solutions économiquement viables.</p>
                         <p>J'ai porté une attention particulière à la traçabilité des évolutions et à la rédaction de procédures internes 
@@ -322,17 +320,17 @@ include_once "common/footer.php";
                     <p>
                         <h5>Difficultés rencontrées</h5>
                             <ul>
-                                <li><b>• Outils techniques peu intuitifs</b> : CMS en versions restreintes, compliquant les modifications.</li>
-                                <li><b>• Contraintes budgétaires</b> : impossibilité de financer des solutions payantes.</li>
-                                <li><b>• Complexité RGPD</b> : exigences strictes nécessitant une collaboration avec la DPO et des recherches de solutions gratuites.</li>
+                                <li><b>• Outils techniques restreints</b> : utilisation de versions gratuites de CMS, dont Joomla dans une version obsolète, rendant les modifications complexes</li>
+                                <li><b>• Contraintes budgétaires</b> : impossibilité de financer des solutions payantes</li>
+                                <li><b>• Complexité RGPD</b> : exigences strictes nécessitant une collaboration avec la DPO et la recherche de solutions gratuites</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Solutions apportées</h5>
                             <ul>
-                                <li><b>• Rédaction de procédures internes</b> : création de guides pour simplifier les modifications par d'autres utilisateurs.</li>
-                                <li><b>• Utilisation de plugins gratuits</b> :  utilisation de plugins WordPress gratuits pour assurer la conformité RGPD.</li>
-                                <li><b>• Centralisation via GLPI</b> :  optimisation du suivi et de la traçabilité des demandes.</li>
+                                <li><b>• Rédaction de procédures internes</b> : création de guides pour simplifier les modifications par d'autres utilisateurs</li>
+                                <li><b>• Utilisation de plugins gratuits</b> :  utilisation de plugins WordPress gratuits pour assurer la conformité RGPD</li>
+                                <li><b>• Centralisation via GLPI</b> :  optimisation du suivi et de la traçabilité des demandes</li>
                             </ul>
                     </p>
                     <p>
@@ -1524,6 +1522,7 @@ include_once "common/footer.php";
                     <h5>Annexes</h5>
                 </div>
                 <div class="portfolio-modal-table">
+                    <div class="row">
                         <div class="col-md-6">
                             <span class="">
                                 <a href="assets/docs/projects/Ticket_GLPI_1424.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Ticket GLPI #1424</a>
@@ -1727,6 +1726,7 @@ include_once "common/footer.php";
                 </div>
 
                 <div class="portfolio-modal-table">
+                    <div class="row">
                         <div class="col-md-6">
                             <span class="">
                                 <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site MSSanté</a>
