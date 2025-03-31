@@ -244,13 +244,15 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>J'ai pris en charge la maintenance et la mise à jour des sites internet de l'entreprise, notamment le site Xlabs 
-                            sous Joomla, en activité depuis plus de dix ans sans mise à jour majeure, et le site MyXlab sous WordPress avec 
-                            l'éditeur Colibri. Malgré les limites techniques et économiques, j'ai assuré la gestion des pages stratégiques, 
+                        <p>J'ai pris en charge la maintenance et la mise à jour des sites internet de l'entreprise :
+                            <ul>
+                                <li>- le site Xlabs, créé avec le CMS Joomla, en activité depuis plus de dix ans sans mise à jour majeure</li>
+                                <li>- le site MyXlab, créé avec le CMS WordPress et l'éditeur Colibri</li>
+                            </ul>
+                            En tenant compte des limites techniques et économiques, j'ai assuré la gestion des pages stratégiques, 
                             la conformité RGPD et la mise en œuvre de solutions économiquement viables.</p>
-                        <p>Les modifications ont été entièrement réalisées par mes soins, avec une attention particulière portée à la traçabilité 
-                            des évolutions et à la rédaction de procédures internes pour faciliter la prise en main des sites par les collaborateurs.
-                        </p>
+                        <p>J'ai porté une attention particulière à la traçabilité des évolutions et à la rédaction de procédures internes 
+                            pour faciliter la prise en main des sites par les collaborateurs.</p>
                         <p><strong>Contrainte principale : </strong> garantir la traçabilité des modifications grâce à une transition vers 
                             l’outil GLPI en octobre 2024, en remplacement du précédent système SAPANET.
                         </p>
@@ -268,48 +270,48 @@ include_once "common/footer.php";
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li><b>• Joomla</b> (v3.10.11 au lieu de v5.2.5, dernière version disponible) pour le site Xlabs.</li>
-                                <li><b>• WordPress</b> avec Colibri pour le site MyXlab.</li>
-                                <li><b>• Add-ons</b> gratuits pour la conformité RGPD.</li>
-                                <li><b>• FileZilla</b> pour la gestion des fichiers.</li>
-                                <li><b>• Akeeba Backup</b> et <b>BackWPup</b> pour les sauvegardes.</li>
-                                <li><b>• GLPI</b> pour le suivi des demandes de modifications.</li>
-                                <li><b>• SAPANET</b> pour la gestion des demandes avant octobre 2024.</li>
+                                <li><b>• Joomla</b> (v3.10.11 au lieu de v5.2.5, dernière version disponible) pour le site Xlabs</li>
+                                <li><b>• WordPress</b> avec Colibri pour le site MyXlab</li>
+                                <li><b>• Add-ons</b> gratuits pour la conformité RGPD</li>
+                                <li><b>• FileZilla</b> pour la gestion des fichiers</li>
+                                <li><b>• Akeeba Backup</b> et <b>BackWPup</b> pour les sauvegardes</li>
+                                <li><b>• GLPI</b> pour le suivi des demandes de modifications</li>
+                                <li><b>• SAPANET</b> pour la gestion des demandes avant octobre 2024</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Sources d’apprentissage :</h6>
                             <ul>
-                                <li>• Documentation officielle Joomla et WordPress.</li>
-                                <li>• Forums et communautés en ligne pour trouver des solutions économiques.</li>
+                                <li>• Documentation officielle Joomla et WordPress</li>
+                                <li>• Forums et communautés en ligne pour trouver des solutions économiques</li>
                         </p>
                     
                     <h5>Tâches</h5>
                         <p>
                             <h6>Gestion des sites internet :</h6>
                             <ul>
-                                <li>• Mise à jour du contenu sur Xlabs (horaires, analyses, documents).</li>
-                                <li>• Mise en conformité RGPD sur MyXlab (formulaire sécurisé, pages légales).</li>
-                                <li>• Modifications régulières des deux sites selon les demandes du service Qualité.</li>
+                                <li>• Mise à jour du contenu sur Xlabs (horaires, analyses, documents)</li>
+                                <li>• Mise en conformité RGPD sur MyXlab (formulaire sécurisé, pages légales)</li>
+                                <li>• Modifications régulières des deux sites selon les demandes du service Qualité</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Rédaction de procédures internes :</h6>
                             <ul>
-                                <li>• Création de documents pour gérer les tâches récurrentes (ajout de pages, pop-ups).</li>
+                                <li>• Création de documents pour gérer les tâches récurrentes (ajout de pages, pop-ups)</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Amélioration du processus de gestion des demandes :</h6>
                             <ul>
-                                <li>• Migration de SAPANET vers GLPI pour centraliser les demandes.</li>
-                                <li>• Coordination avec le service Qualité pour un traitement rapide des tickets.</li>
+                                <li>• Migration de SAPANET vers GLPI pour centraliser les demandes</li>
+                                <li>• Coordination avec le service Qualité pour un traitement rapide des tickets</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Mise en place de sauvegardes :</h6>
                             <ul>
-                                <li>• Réalisation de backups avant chaque modification pour garantir une reprise rapide.</li>
+                                <li>• Réalisation de backups avant chaque modification pour garantir une reprise rapide</li>
                             </ul>
                         </p>
                 </div>
