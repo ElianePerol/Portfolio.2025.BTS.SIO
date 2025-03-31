@@ -1405,8 +1405,8 @@ include_once "common/footer.php";
                             <ul>
                                 <li><b>• GLPI</b> : Suivi et gestion des tickets</li>
                                 <li><b>• Kalisil</b> : Logiciel métier utilisé pour générer et transmettre les résultats médicaux</li>
-                                <li><b>• Bioserveur</b> :  Outil assurant la transmission sécurisée des résultats médicaux aux professionnels de santé</li>
-                                <li><b>• Messageries sécurisées de santé (MSSanté, Apicrypt)</b> : Envoi sécurisé des résultats aux destinataires</li>
+                                <li><b>• Bioserveur</b> :  Service de gestion des envois sécurisés de résultats d'analyses</li>
+                                <li><b>• Messageries sécurisées de santé (MSSanté, Apicrypt)</b> : Messageries sécurisées de santé</li>
                                 <li><b>• WordPress & Joomla</b> : Gestion et mises à jour des sites internet</li>
                             </ul>
                         </p>
@@ -1426,7 +1426,7 @@ include_once "common/footer.php";
 
                 <!-- project content continues -->
                 <div>
-                    <h4>Exemple concret : Ticket GLPI #1424 – Mise à jour du site internet</h4>
+                    <h4>Exemple concret : Ticket GLPI #1424 – Modification horaire du site internet</h4>
                     <p>
                         <h5>Contexte du ticket</h5>
                         <p>Un biologiste a formulé une demande d’amélioration du site internet, nécessitant l’ajout 
@@ -1448,14 +1448,19 @@ include_once "common/footer.php";
                             </ul>
                     </p>
                     <p>
-                        <h5>Difficultés rencontrées & solutions apportées</h5>
+                        <h5>Difficultés rencontrées</h5>
                             <ul>
-                            <li>• Prise en main de WordPress et Joomla → Consultation de la documentation officielle et expérimentation 
-                                sur un environnement de test</li>
-                            <li>• Vérification de la compatibilité du plugin avec la version du site → Test du plugin en local avant 
-                                installation sur le site en production</li>
-                            <li>• Coordination avec plusieurs biologistes pour anticiper les besoins similaires → Communication proactive 
-                                par e-mail et centralisation des retours dans un document partagé</li>
+                            <li>• Prise en main de WordPress et Joomla</li>
+                            <li>• Vérification de la compatibilité du plugin avec la version du site</li>
+                            <li>• Coordination avec plusieurs biologistes pour anticiper les besoins similaires</li>
+                            </ul>
+                    </p>
+                    <p>
+                        <h5>Solutions apportées</h5>
+                            <ul>
+                            <li>• Consultation de la documentation officielle et expérimentation sur un environnement de test</li>
+                            <li>• Test du plugin en local avant installation sur le site en production</li>
+                            <li>• Communication proactive par e-mail et centralisation des retours dans un document partagé</li>
                             </ul>
                     </p>
                     <p>
@@ -1520,22 +1525,22 @@ include_once "common/footer.php";
                 <div class="portfolio-modal-table">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Ticket</a>
+                                <a href="assets/docs/projects/Ticket 1424.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Ticket GLPI #1424</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Échanges d'emails</a>
+                                <a href="assets/docs/projects/Mail bios 86.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Échanges d'emails</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran des modifications des sites</a>
+                                <a href="assets/docs/projects/Modifications du site.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran des modifications du site</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation technique rédigée</a>
+                                <a href="assets/docs/projects/Procédure popup WP site web MyXlab.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Procédure pop-up rédigée</a>
                             </span>
                         </div>
                     </div>

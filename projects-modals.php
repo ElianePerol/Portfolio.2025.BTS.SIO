@@ -62,27 +62,27 @@
                             <h6>Outils utilisés :</h6>
                             <ul>
                                 <li><b>• Microsoft Excel</b></li>
-                                <li><b>• Microsoft 365 </b>: calendrier partagé Outlook et Teams.</li>
+                                <li><b>• Microsoft 365 </b>: calendrier partagé Outlook et Teams</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Création d’un tableau Excel structuré permettant :</h6>
                             <ul>
-                                <li>• La planification des tâches.</li>
-                                <li>• Le suivi des deadlines.</li>
-                                <li>• La coordination avec les intervenants externes et internes.</li>
+                                <li>• La planification des tâches</li>
+                                <li>• Le suivi des deadlines</li>
+                                <li>• La coordination avec les intervenants externes et internes</li>
                         </p>
                     
                     <h5>Tâches</h5>
                         <p>
                             <h6>Création d’un fichier Excel pour le suivi des étapes clés de l’ouverture des laboratoires :</h6>
                             <ul>
-                                <li>• Sélection des contrats Orange pour internet et téléphonie IP.</li>
-                                <li>• Planification et supervision des raccordements à la fibre optique.</li>
-                                <li>• Installation des routeurs et mise en place des réseaux locaux.</li>
-                                <li>• Organisation de l’achat, réception et installation du matériel (PC, imprimantes, équipements réseau).</li>
-                                <li>• Mise en place et tests de la téléphonie IP.</li>
-                                <li>• Suivi de l’avancement des travaux pour coordonner les interventions selon les prérequis techniques.</li>
+                                <li>• Sélection des contrats Orange pour internet et téléphonie IP</li>
+                                <li>• Planification et supervision des raccordements à la fibre optique</li>
+                                <li>• Installation des routeurs et mise en place des réseaux locaux</li>
+                                <li>• Organisation de l’achat, réception et installation du matériel (PC, imprimantes, équipements réseau)</li>
+                                <li>• Mise en place et tests de la téléphonie IP</li>
+                                <li>• Suivi de l’avancement des travaux pour coordonner les interventions selon les prérequis techniques</li>
                             </ul>
                         </p>
                         <p>
@@ -102,16 +102,16 @@
                             <ul>
                                 <li><b>• Délais administratifs</b> pour l'enregistrement des laboratoires auprès de l'ARS</li>
                                 <li><b>• Fenêtre d'intervention limitée</b> avant les audits COFRAC</li>
-                                <li><b>• Retards</b> dans les travaux des locaux, impactant la mise en place des équipements.</li>
-                                <li><b>• Coordination complexe</b> entre les différents prestataires (Orange, Dedalus, Remisol).</li>
+                                <li><b>• Retards</b> dans les travaux des locaux, impactant la mise en place des équipements</li>
+                                <li><b>• Coordination complexe</b> entre les différents prestataires (Orange, Dedalus, Remisol)</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Solutions apportées</h5>
                             <ul>
-                                <li>• <b>Planification proactive : </b>ajustement régulier du fichier Excel pour prioriser les tâches critiques en cas de retard.</li>
-                                <li>• <b>Coordination renforcée : </b>échanges fréquents avec les prestataires et les responsables des travaux pour synchroniser les interventions clés.</li>
-                                <li>• <b>Tests techniques : </b> vérification anticipée de la connectivité, des postes de travail, des logiciels professionnels et de la téléphonie IP.</li>
+                                <li>• <b>Planification proactive : </b>ajustement régulier du fichier Excel pour prioriser les tâches critiques en cas de retard</li>
+                                <li>• <b>Coordination renforcée : </b>échanges fréquents avec les prestataires et les responsables des travaux pour synchroniser les interventions clés</li>
+                                <li>• <b>Tests techniques : </b> vérification anticipée de la connectivité, des postes de travail, des logiciels professionnels et de la téléphonie IP</li>
                             </ul>
                     </p>
                     <p>
@@ -157,8 +157,8 @@
                         <p>
                             <h6>Axes d'amélioration :</h6>
                                 <ul>
-                                    <li>• Adopter un outil de gestion de projet avancé (Microsoft Project, Trello, Notion).</li>
-                                    <li>• Automatiser le suivi des tâches pour gagner en efficacité.</li>
+                                    <li>• Adopter un outil de gestion de projet avancé (Microsoft Project, Trello, Notion)</li>
+                                    <li>• Automatiser le suivi des tâches pour gagner en efficacité</li>
                                 </ul>
                         </p>
                     </p>
