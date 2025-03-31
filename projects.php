@@ -1524,22 +1524,22 @@ include_once "common/footer.php";
                 <div class="portfolio-modal-table">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Ticket 1424.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Ticket GLPI #1424</a>
+                                <a href="assets/docs/projects/Ticket_GLPI_1424.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Ticket GLPI #1424</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Mail bios 86.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Email de proposition proactive</a>
+                                <a href="assets/docs/projects/email_proposition_proactive.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Email de proposition proactive</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Modifications du site.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modifications apportées (captures)</a>
+                                <a href="assets/docs/projects/modifications_apportees_captures.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modifications apportées (captures)</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Procédure popup WP site web MyXlab.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation pop-up rédigée</a>
+                                <a href="assets/docs/projects//documentation_popup_redigee.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation pop-up rédigée</a>
                             </span>
                         </div>
                     </div>
