@@ -1529,12 +1529,12 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Mail bios 86.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Email de </a>
+                                <a href="assets/docs/projects/Mail bios 86.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Email de proposition proactive</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Modifications du site.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Email de proposition proactive</a>
+                                <a href="assets/docs/projects/Modifications du site.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modifications apportées (captures)</a>
                             </span>
                         </div>
                         <div class="col-md-6">
