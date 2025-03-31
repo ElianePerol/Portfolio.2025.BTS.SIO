@@ -273,7 +273,8 @@ include_once "common/footer.php";
                                 <li><b>• WordPress</b> avec Colibri pour le site MyXlab</li>
                                 <li><b>• Add-ons</b> gratuits pour la conformité RGPD</li>
                                 <li><b>• FileZilla</b> pour la gestion des fichiers</li>
-                                <li><b>• Akeeba Backup</b> et <b>BackWPup</b> pour les sauvegardes</li>
+                                <li><b>• Akeeba Backup</b> pour les sauvegardes complètes du site sous Joomla</li>
+                                <li><b>• BackWPup</b> pour les sauvegardes complètes du site sous WordPress</li>
                                 <li><b>• GLPI</b> pour le suivi des demandes de modifications</li>
                                 <li><b>• SAPANET</b> pour la gestion des demandes avant octobre 2024</li>
                             </ul>
