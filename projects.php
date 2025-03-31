@@ -260,7 +260,8 @@ include_once "common/footer.php";
                         <ul>
                             <li><b>• Philippe Soulard</b> - RSI et tuteur, transfert de connaissances</li>
                             <li><b>• Kévin Gandon</b> - Technicien informatique, transfert de connaissances</li>
-
+                            <li><b>• Sylvie Dehoux</b> - Responsable Qualité, transmission des demandes</li>
+                            <li><b>• Aline Hucteau</b> - Assistante Qualité, transmission des demandes</li>
                         </ul>
                         </p>                    
                     
@@ -419,12 +420,12 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran des mentions légales mises à jour</a>
+                                <a href="assets/docs/projects/demande_maj_sapanet_glpi.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Demandes de mises à jour : de SAPANET à GLPI</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran des sauvegardes réalisées</a>
+                                <a href="assets/docs/projects/sauvegarde_akeebabackup_backwpup.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Tableaux de bord des sauvegardes (capture)</a>
                             </span>
                         </div>
                     </div>
