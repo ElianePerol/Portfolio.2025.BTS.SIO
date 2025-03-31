@@ -409,12 +409,12 @@ include_once "common/footer.php";
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="www.xlabs.fr" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site Xlabs</a>
+                                <a href="https://www.xlabs.fr" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site Xlabs</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="www.myxlab.fr" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site MyXlab</a>
+                                <a href="https://www.myxlab.fr" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site MyXlab</a>
                             </span>
                         </div>
                         <div class="col-md-6">
