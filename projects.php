@@ -1451,16 +1451,16 @@ include_once "common/footer.php";
                         <h5>Difficultés rencontrées</h5>
                             <ul>
                             <li>• Prise en main de WordPress et Joomla</li>
-                            <li>• Vérification de la compatibilité du plugin avec la version du site</li>
+                            <li>• Choix du plugin le plus adapté</li>
                             <li>• Coordination avec plusieurs biologistes pour anticiper les besoins similaires</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Solutions apportées</h5>
                             <ul>
-                            <li>• Consultation de la documentation officielle et expérimentation sur un environnement de test</li>
-                            <li>• Test du plugin en local avant installation sur le site en production</li>
-                            <li>• Communication proactive par e-mail et centralisation des retours dans un document partagé</li>
+                            <li>• Consultation de la documentation officielle</li>
+                            <li>• Test du plugin avant installation sur le site déployé</li>
+                            <li>• Communication proactive par e-mail</li>
                             </ul>
                     </p>
                     <p>
@@ -1521,7 +1521,6 @@ include_once "common/footer.php";
                 <div class="h1-modal-paragraph">
                     <h5>Annexes</h5>
                 </div>
-
                 <div class="portfolio-modal-table">
                         <div class="col-md-6">
                             <span class="">
@@ -1530,17 +1529,17 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Mail bios 86.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Échanges d'emails</a>
+                                <a href="assets/docs/projects/Mail bios 86.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Email de </a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Modifications du site.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran des modifications du site</a>
+                                <a href="assets/docs/projects/Modifications du site.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Email de proposition proactive</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/Procédure popup WP site web MyXlab.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Procédure pop-up rédigée</a>
+                                <a href="assets/docs/projects/Procédure popup WP site web MyXlab.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation pop-up rédigée</a>
                             </span>
                         </div>
                     </div>
