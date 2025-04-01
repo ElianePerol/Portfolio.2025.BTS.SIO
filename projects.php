@@ -269,14 +269,14 @@ include_once "common/footer.php";
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li><b>• Joomla</b> (v3.10.11 au lieu de v5.2.5, dernière version disponible) pour le site Xlabs</li>
-                                <li><b>• WordPress</b> avec Colibri pour le site MyXlab</li>
-                                <li><b>• Add-ons</b> gratuits pour la conformité RGPD</li>
-                                <li><b>• FileZilla</b> pour la gestion des fichiers</li>
-                                <li><b>• Akeeba Backup</b> pour les sauvegardes complètes du site sous Joomla</li>
-                                <li><b>• BackWPup</b> pour les sauvegardes complètes du site sous WordPress</li>
                                 <li><b>• GLPI</b> pour le suivi des demandes de modifications</li>
                                 <li><b>• SAPANET</b> pour la gestion des demandes avant octobre 2024</li>
+                                <li><b>• Joomla</b> (v3.10.11 au lieu de v5.2.5, dernière version disponible) pour le site Xlabs</li>
+                                <li><b>• WordPress</b> avec Colibri pour le site MyXlab</li>
+                                <li><b>• Akeeba Backup</b> pour les sauvegardes complètes du site sous Joomla</li>
+                                <li><b>• BackWPup</b> pour les sauvegardes complètes du site sous WordPress</li>
+                                <li><b>• Add-ons</b> gratuits pour la conformité RGPD</li>
+                                <li><b>• FileZilla</b> pour la gestion des fichiers</li>
                             </ul>
                         </p>
                         <p>

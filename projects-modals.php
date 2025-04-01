@@ -65,24 +65,19 @@
                                 <li><b>• Microsoft 365 </b>: calendrier partagé Outlook et Teams</li>
                             </ul>
                         </p>
-                        <p>
-                            <h6>Création d’un tableau Excel structuré permettant :</h6>
-                            <ul>
-                                <li>• La planification des tâches</li>
-                                <li>• Le suivi des deadlines</li>
-                                <li>• La coordination avec les intervenants externes et internes</li>
-                        </p>
-                    
+
                     <h5>Tâches</h5>
                         <p>
-                            <h6>Création d’un fichier Excel pour le suivi des étapes clés de l’ouverture des laboratoires :</h6>
+                            <h6>Création d’un fichier Excel structuré pour le suivi des étapes clés de l’ouverture des laboratoires :</h6>
                             <ul>
-                                <li>• Sélection des contrats Orange pour internet et téléphonie IP</li>
+                                <li>• Sélection et commande des contrats Orange Business internet et téléphonie IP</li>
                                 <li>• Planification et supervision des raccordements à la fibre optique</li>
-                                <li>• Installation des routeurs et mise en place des réseaux locaux</li>
+                                <li>• Planification des installations de routeurs</li>
+                                <li>• Mise en place des réseaux locaux</li>
+                                <li>• Planification des installations de téléphonie IP</li>
                                 <li>• Organisation de l’achat, réception et installation du matériel (PC, imprimantes, équipements réseau)</li>
-                                <li>• Mise en place et tests de la téléphonie IP</li>
                                 <li>• Suivi de l’avancement des travaux pour coordonner les interventions selon les prérequis techniques</li>
+                                <li>• Suivi des deadlines</li>
                             </ul>
                         </p>
                         <p>
