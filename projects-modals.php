@@ -377,7 +377,7 @@
                     <h5>Annexes</h5>
                 </div>
                 <div class="portfolio-modal-table">
-                    <div class="row">
+                    <!-- <div class="row"> -->
                         <div class="col-md-6">
                             <span class="">
                                 <a href="assets/docs/projects/gantt_pssi.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
@@ -399,7 +399,7 @@
                                     <i class="fa-solid fa-arrow-up-right-from-square"></i>   ANSSI : Guide d'élaboration de PSSI</a>
                             </span>
                         </div>
-                    </div>
+                    <!-- </div> -->
                 </div>
                 <!-- annexe-list-end  -->
 

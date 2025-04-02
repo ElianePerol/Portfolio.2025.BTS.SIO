@@ -603,20 +603,20 @@ include_once "common/footer.php";
                 </div>
 
                 <div class="portfolio-modal-table">
-                    <div class="row">
+                    <!-- <div class="row"> -->
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Procédure de configuration FCC</a>
+                                <a href="assets/docs/projects/procedure_configuration_fcc.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Procédure de configuration FCC</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran du tableau de bord FCC</a>
+                                <a href="assets/docs/projects/dashboard_fcc.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Tableau de bord FCC Orange Business (capture)</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Annuaire FCC</a>
+                                <a href="assets/docs/projects/annuaire_fcc_csv.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Annuaire FCC (extrait)</a>
                             </span>
                         </div>
                         <!-- <div class="col-md-6">
@@ -624,7 +624,7 @@ include_once "common/footer.php";
                                 <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Rapports de test ou COFRAC</a>
                             </span>
                         </div> -->
-                    </div>
+                    <!-- </div> -->
                 </div>
                 <!-- annexe-list-start  -->
 
