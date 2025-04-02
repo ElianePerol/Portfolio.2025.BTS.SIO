@@ -244,7 +244,7 @@
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
                         <p>Au GIE MYXLAB, j'ai participé à la rédaction de la Politique de Sécurité des Systèmes d'Information (PSSI) pour remplacer la charte informatique, dans le but de répondre aux exigences de l'audit COFRAC.</p>
-                        <p>Ce projet visait à élaborer une PSSI adaptée aux pratiques de l'entreprise et à structurer des plans d'action pour des projets futurs, comme le PCA/PRA.
+                        <p>Ce projet visait à élaborer une PSSI adaptée aux pratiques de l'entreprise et à structurer des plans d'action pour des projets futurs, comme le PCA (Plan de Continuité d'Activité)/PRA (Plan de Reprise d'Activité).
                         </p>
                         <p><strong>Contrainte principale : </strong>finaliser la PSSI avant l’audit, en utilisant SAPANET pour le suivi et la gestion des plans d’action.</p>
                     
@@ -376,17 +376,21 @@
                 <div class="h1-modal-paragraph">
                     <h5>Annexes</h5>
                 </div>
-
                 <div class="portfolio-modal-table">
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Extrait PSSI finalisée (ex. table des matières ou capture d’écran d’une section clé).</a>
+                                <a href="assets/docs/projects/gantt_pssi.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
+                                <a href="assets/docs/projects/pssi_extrait.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   PSSI finalisée (extrait)</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="assets/docs/projects/plan_action_sapanet.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Plans d’Action SAPANET liés (extrait)</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -395,19 +399,9 @@
                                     <i class="fa-solid fa-arrow-up-right-from-square"></i>   ANSSI : Guide d'élaboration de PSSI</a>
                             </span>
                         </div>
-                        <div class="col-md-6">
-                            <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Cahier des charges initial ou exigences du COFRAC.</a>
-                            </span>
-                        </div>
-                        <div class="col-md-6">
-                            <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Exemples de Plans d’Action dans SAPANET liés au projet.</a>
-                            </span>
-                        </div>
                     </div>
                 </div>
-                <!-- annexe-list-start  -->
+                <!-- annexe-list-end  -->
 
             </div>
 

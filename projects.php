@@ -1553,7 +1553,7 @@ include_once "common/footer.php";
                         </div>
                     </div>
                 </div>
-                <!-- annexe-list-start  -->
+                <!-- annexe-list-end  -->
             </div>
 
         </div>
