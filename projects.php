@@ -671,12 +671,13 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>Dans le cadre du BTS SIO SLAM, ce projet consistait à créer un portfolio pour présenter mes compétences et projets 
-                            réalisés pendant la formation, tant au niveau scolaire qu'en entreprise.</p>
-                        <p>L'objectif principal était de concevoir un site dynamique et structuré en utilisant des technologies web comme HTML, 
-                            CSS, PHP, JavaScript, et Bootstrap.</p>
-                        <p><strong>Contrainte principale : </strong>Utilisation d’un template adapté et création d’un site responsive, incluant des 
-                        sections pour les projets, les compétences, la veille technologique et la documentation obligatoire.</p>
+                        <p>Dans le cadre du BTS SIO option SLAM, ce projet avait pour objectif de créer un portfolio en ligne servant de vitrine 
+                            pour présenter les projets réalisés en entreprise et durant la formation.</p>
+                        <p>L’objectif principal était de structurer ce portfolio de manière à répondre aux compétences et sous-compétences 
+                            prédéfinies, tout en intégrant une section dédiée à la veille technologique, afin de présenter les outils et stratégies 
+                            mis en place.</p>
+                        <p><strong>Contrainte principale : </strong>Utilisation d’un template adapté pour garantir une mise en page claire et 
+                        professionnelle, intégrant différentes sections : projets, compétences, veille technologique et documentation obligatoire.</p>
                     
                     <h5>Avec qui :</h5>
                         <p>
@@ -806,22 +807,22 @@ include_once "common/footer.php";
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
+                                <a href="assets/docs/projects/gantt_portfolio.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" target="_blank"></i>   Diagramme de GANTT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="https://portfolio.elianeperol.com" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Portofolio</a>
+                                <a href="assets/docs/projects/notion_portfolio.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" target="_blank"></i>   Page Notion</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="https://github.com/ElianePerol/Portfolio.2025.BTS.SIO"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
+                                <a href="https://portfolio.elianeperol.com" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Portfolio</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Page Notion</a>
+                                <a href="https://github.com/ElianePerol/Portfolio.2025.BTS.SIO" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
                             </span>
                         </div>
                     </div>
@@ -1043,32 +1044,37 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Cahier des charges</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme GANT</a>
+                                <a href="assets/docs/projects/welcome_training_merise_bdd.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme GANT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur (guide rapide d’utilisation de l’application)</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur (guide rapide d’utilisation de l’application)</a>
                             </span>
                         </div>
                     </div>
