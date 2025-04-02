@@ -1054,7 +1054,7 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme GANT</a>
+                                <a href="assets/docs/projects/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
                             </span>
                         </div>
                         <div class="col-md-6">

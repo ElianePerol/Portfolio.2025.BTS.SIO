@@ -169,18 +169,26 @@
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Extrait du document de suivi</a>
+                                <a href="assets/docs/projects/gantt_my86_poitiers.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagrammes de GANTT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagrammes de GANTT</a>
+                                <a href="assets/docs/projects/synthese_visite_preliminaire_cofrac.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Synthèse visite préliminaire COFRAC (labo anonymisé)</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Configuration réseau ?</a>
+                                <a href="assets/docs/projects/suivi_my86.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Excel de suivi (extrait MyXlab 86)</a>
                             </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="assets/docs/projects/infrastructure_my86_poitiers.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Infrastructure (labo MyXlab 86 Poitiers)
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="assets/docs/projects/email_coordination_prestataires.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Email de coordination entre prestataire (extrait)
                         </div>
                     </div>
                 </div>
