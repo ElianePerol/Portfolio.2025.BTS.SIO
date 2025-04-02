@@ -408,7 +408,7 @@ include_once "common/footer.php";
                 </div>
 
                 <div class="portfolio-modal-table">
-                    <div class="row">
+                    <!-- <div class="row"> -->
                         <div class="col-md-6">
                             <span class="">
                                 <a href="https://www.xlabs.fr" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site Xlabs</a>
@@ -429,7 +429,7 @@ include_once "common/footer.php";
                                 <a href="assets/docs/projects/sauvegarde_akeebabackup_backwpup.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Tableaux de bord des sauvegardes (capture)</a>
                             </span>
                         </div>
-                    </div>
+                    <!-- </div> -->
                 </div>
                 <!-- annexe-list-start  -->
             </div>
@@ -804,7 +804,7 @@ include_once "common/footer.php";
                 </div>
 
                 <div class="portfolio-modal-table">
-                    <div class="row">
+                    <!-- <div class="row"> -->
                         <div class="col-md-6">
                             <span class="">
                                 <a href="assets/docs/projects/gantt_portfolio.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" target="_blank"></i>   Diagramme de GANTT</a>
@@ -825,7 +825,7 @@ include_once "common/footer.php";
                                 <a href="https://github.com/ElianePerol/Portfolio.2025.BTS.SIO" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
                             </span>
                         </div>
-                    </div>
+                    <!-- </div> -->
                 </div>
                 <!-- annexe-list-start  -->
 
@@ -1530,7 +1530,7 @@ include_once "common/footer.php";
                     <h5>Annexes</h5>
                 </div>
                 <div class="portfolio-modal-table">
-                    <div class="row">
+                    <!-- <div class="row"> -->
                         <div class="col-md-6">
                             <span class="">
                                 <a href="assets/docs/projects/Ticket_GLPI_1424.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Ticket GLPI #1424</a>
@@ -1551,7 +1551,7 @@ include_once "common/footer.php";
                                 <a href="assets/docs/projects//documentation_popup_redigee.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation pop-up rédigée</a>
                             </span>
                         </div>
-                    </div>
+                    <!-- </div> -->
                 </div>
                 <!-- annexe-list-end  -->
             </div>
@@ -1734,7 +1734,7 @@ include_once "common/footer.php";
                 </div>
 
                 <div class="portfolio-modal-table">
-                    <div class="row">
+                    <!-- <div class="row"> -->
                         <div class="col-md-6">
                             <span class="">
                                 <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site MSSanté</a>
@@ -1755,7 +1755,7 @@ include_once "common/footer.php";
                                 <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran</a>
                             </span>
                         </div>
-                    </div>
+                    <!-- </div> -->
                 </div>
                 <!-- annexe-list-start  -->
             </div>
