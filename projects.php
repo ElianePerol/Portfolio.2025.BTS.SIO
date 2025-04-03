@@ -1448,11 +1448,12 @@ include_once "common/footer.php";
                                     d’autres laboratoires pour proposer une mise à jour similaire si nécessaire</li>
                                 <li>• Communication des modifications par e-mail aux biologistes concernés, avec une explication sur les 
                                     nouvelles fonctionnalités disponibles</li>
+                                <li>• Rédaction d'une procédure interne afin de faciliter la mise en œuvre de modifications similaires à l’avenir</li>
                             </ul>
                             <ul><strong>Résultat :</strong>
                                 <li>• Le site internet a été mis à jour conformément aux attentes du biologiste</li>
                                 <li>• Les autres laboratoires ont été consultés et ont également opté pour cette modification</li>
-                                <li>• Une documentation interne a été réalisée pour faciliter la mise en œuvre de modifications similaires à l’avenir</li>
+                                <li>• La passation de connaissance est assurée grâce à la rédaction d'une procédure</li>
                             </ul>
                     </p>
                     <p>
@@ -1548,7 +1549,7 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects//documentation_popup_redigee.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation pop-up rédigée</a>
+                                <a href="assets/docs/projects//documentation_popup_redigee.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Procédure "création de pop-up WordPress"</a>
                             </span>
                         </div>
                     <!-- </div> -->
