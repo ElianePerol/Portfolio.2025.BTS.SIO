@@ -244,9 +244,9 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>J'ai pris en charge la maintenance et la mise à jour des sites internet de l'entreprise :<br>
+                        <p>Dans le cadre de mon alternance au GIE MYXLAB, j'ai pris en charge la maintenance et la mise à jour des sites internet de l'entreprise :<br>
                                - le site Xlabs, créé avec le CMS Joomla, en activité depuis plus de dix ans<br>
-                               - le site MyXlab, créé avec le CMS WordPress et l'éditeur Colibri<br>
+                               - le site MyXlab, créé avec le CMS WordPress et l'éditeur Colibri, en activité depuis décembre 2023<br>
                             En tenant compte des limites techniques et économiques, j'ai assuré la gestion des pages stratégiques, 
                             la conformité RGPD et la mise en œuvre de solutions économiquement viables.</p>
                         <p>J'ai porté une attention particulière à la traçabilité des évolutions et à la rédaction de procédures internes 
@@ -1384,7 +1384,7 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>Le service informatique de l’entreprise est composé de cinq personnes :
+                        <p>Le service informatique du GIE MYXLAB est composé de cinq personnes :
                             <ul>
                                 <li><b>• Eric Comy</b> – Directeur des Systèmes d’Information (DSI)</li>
                                 <li><b>• Philippe Soulard</b> – Responsable des Systèmes d’Information (RSI)</li>
