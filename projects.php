@@ -1647,20 +1647,17 @@ include_once "common/footer.php";
                         <p>
                             <h6>Gestion des accès et de la double authentification :</h6>
                             <ul>
-                                <li>Création d'une boîte mail partagée interne via Microsoft Exchange, destinée à recevoir le code de double authentification</li>
-                                <li>Attribution des accès au utilisateurs concernés</li>
-                            </ul>
-                        </p>
-                        <p>
-                            <h6>Rédaction de la procédure d’utilisation :</h6>
-                            <ul>
-                                <li>Création d’une procédure détaillée expliquant les étapes nécessaires à l'utilisation de la messagerie MSSanté</li>
+                                <li>• Création d'une boîte mail partagée interne via Microsoft Exchange, destinée à recevoir le code de double authentification</li>
+                                <li>• Attribution des accès au utilisateurs concernés</li>
+                                <li>• Création d'un groupe utilisateur "Gr_MSSante" dans l'Active Directory (AD) afin de cibler les utilisateurs concernés</li>
+                                <li>• Création d'un objet de stratégie de groupe (GPO) pour ajouter les raccourcis bureau des boîtes mails interne et MSSanté sur les sessions des utilisateurs concernés</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Formation des utilisateurs :</h6>
                             <ul>
-                                <li>Réalisation de sessions de formation pour s’assurer que chaque utilisateur soit à l’aise avec le système</li>
+                                <li>• Création d’une procédure détaillée expliquant les étapes nécessaires à l'utilisation de la messagerie MSSanté</li>
+                                <li>• Réalisation de sessions de formation pour s’assurer que chaque utilisateur soit à l’aise avec le système</li>
                             </ul>
                         </p>
                 </div>
@@ -1737,22 +1734,27 @@ include_once "common/footer.php";
                     <!-- <div class="row"> -->
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site MSSanté</a>
+                                <a href="https://esante.gouv.fr/produits-services/mssante" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site de l'Agence du Numérique en Santé (ANS) : MSSanté</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Guide d’utilisation et procédure détaillée</a>
+                                <a href="assets/docs/projects/mssante_guide_utilisateur.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Guide de connexion à l'adresse MSSanté Organisationnelle</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Schéma de configuration de la double authentification</a>
+                                <a href="assets/docs/projects/mssante_gpo.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Création d'une GPO pour afficher les raccourcis bureau</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d'écran</a>
+                                <a href="assets/docs/projects/mssante_exchange.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Console Exchange, boîte mail partagée pour réception du code de double authentification (capture) </a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="assets/docs/projects/mssante_dashboard.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Boîte mail MSSanté (capture)</a>
                             </span>
                         </div>
                     <!-- </div> -->
