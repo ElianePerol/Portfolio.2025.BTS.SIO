@@ -1604,10 +1604,11 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>Dans le cadre de mon alternance, j'ai participé à un projet de mise en conformité pour la communication des données sensibles 
+                        <p>Dans le cadre de mon alternance au GIE MYXLAB, j'ai participé au projet de mise en conformité de la communication des données sensibles 
                             dans le secteur de la santé.</p>
-                        <p>L'objectif était de créer une adresse MSSanté organisationnelle pour sécuriser les échanges entre les professionnels de santé 
-                            (médecins, laboratoires, hôpitaux, etc.) et de mettre en place une procédure d'utilisation.</p>
+                        <p>L'objectif était de créer une adresse MSSanté organisationnelle afin de sécuriser les échanges entre les professionnels de santé 
+                            (médecins, laboratoires, hôpitaux, etc.), tout en définissant une procédure d'utilisation et en assurant la formation des utilisateurs 
+                            amenés à exploiter ce service.</p>
                         <p><ul><strong>Contrainte principale : </strong>
                                 <li>• Assurer la conformité avec les exigences légales pour les échanges de données de santé</li>
                                 <li>• Implémenter une messagerie sécurisée MSSanté et une double authentification pour garantir la sécurité des accès</li>
@@ -1628,6 +1629,7 @@ include_once "common/footer.php";
                             <ul>
                                 <li><b>• Messagerie MSSanté</b> : création de l'adresse organisationnelle</li>
                                 <li><b>• Microsoft Exchange</b> et <b>Office 365</b> : Gestion de la double authentification</li>
+                                <li><b>• Console MMC</b> : gestion des groupes Active Directory et des objets de stratégie de groupe</li>
                             </ul>
                         </p>
                         <p>
@@ -1732,7 +1734,7 @@ include_once "common/footer.php";
                 </div>
 
                 <div class="portfolio-modal-table">
-                    <!-- <div class="row"> -->
+                    <div class="row">
                         <div class="col-md-6">
                             <span class="">
                                 <a href="https://esante.gouv.fr/produits-services/mssante" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site de l'Agence du Numérique en Santé (ANS) : MSSanté</a>
@@ -1750,7 +1752,7 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/mssante_exchange.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Console Exchange, boîte mail partagée pour réception du code de double authentification (capture) </a>
+                                <a href="assets/docs/projects/mssante_exchange.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Console Exchange, boîte mail interne partagée (capture) </a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -1758,7 +1760,7 @@ include_once "common/footer.php";
                                 <a href="assets/docs/projects/mssante_dashboard.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Boîte mail MSSanté (capture)</a>
                             </span>
                         </div>
-                    <!-- </div> -->
+                    </div>
                 </div>
                 <!-- annexe-list-start  -->
             </div>
