@@ -94,7 +94,7 @@ include_once "common/header.php";
 
                             <!-- FCC-start -->
                             <div class=" isotop-item assets support availability pro-growth">
-                                <div class="fillter-item bg-prink">
+                                <div class="fillter-item bg-yellow">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-4">
                                         <img src="assets/img/projects/fcc.jpg" alt="">
                                     </a>
@@ -109,7 +109,7 @@ include_once "common/header.php";
 
                             <!-- portfolio-start -->
                             <div class="isotop-item online project-mode pro-growth">
-                                <div class="fillter-item bg-catkrill">
+                                <div class="fillter-item bg-prink">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-5">
                                         <img src="assets/img/projects/bts-portfolio.png" alt="">
                                     </a>
@@ -124,7 +124,7 @@ include_once "common/header.php";
 
                             <!-- welcome-training-start -->
                             <div class="isotop-item online project-mode availability pro-growth">
-                                <div class="fillter-item bg-yellow">
+                                <div class="fillter-item bg-catkrill">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-6">
                                         <img src="assets/img/projects/welcome-training.png" alt="">
                                     </a>
@@ -139,7 +139,7 @@ include_once "common/header.php";
 
                             <!-- click n eat-start -->
                             <div class="isotop-item online project-mode availability pro-growth">
-                                <div class="fillter-item bg-catkrill">
+                                <div class="fillter-item bg-yellow">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-7">
                                         <img src="assets/img/projects/clickneat.png" alt="">
                                     </a>
@@ -171,7 +171,7 @@ include_once "common/header.php";
 
                             <!-- mssante-start -->
                             <div class="isotop-item assets support availability">
-                                <div class="fillter-item bg-yellow">
+                                <div class="fillter-item bg-catkrill">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-9">
                                         <img src="assets/img/projects/mssante.png" alt="">
                                     </a>
