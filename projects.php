@@ -128,7 +128,7 @@ include_once "common/header.php";
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-6">
                                         <img src="assets/img/projects/welcome-training.png" alt="">
                                     </a>
-                                    <span class="item-subtitle">ESPL Angers, Septembre 2024 - Décembre 2024</span>
+                                    <span class="item-subtitle">ESPL Angers, Septembre 2024 - Mars 2025</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#projet-6">
                                             Welcome Training : Application PHP de gestion des classes et des présences</a>
@@ -856,7 +856,7 @@ include_once "common/footer.php";
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Dates : <span>Septembre 2024 - Décembre 2024</span>
+                                Dates : <span>Septembre 2024 - Mars 2025</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
@@ -1044,17 +1044,12 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Cahier des charges</a>
+                                <a href="assets/docs/projects/gantt_welcome_training.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/welcome_training_merise_bdd.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
-                            </span>
-                        </div>
-                        <div class="col-md-6">
-                            <span class="">
-                                <a href="assets/docs/projects/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
+                                <a href="assets/docs/projects/welcome_training_cahier_des_charges.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Cahier des charges</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -1064,17 +1059,22 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
+                                <a href="assets/docs/projects/welcome_training_merise_bdd.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
                                 <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                                <a href="assets/docs/projects/welcome_training_interfaces.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur (guide rapide d’utilisation de l’application)</a>
+                                <a href=#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur</a>
                             </span>
                         </div>
                     </div>
