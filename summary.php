@@ -25,11 +25,11 @@ include_once "common/header.php";
             </div>
 
             <!-- skills-table-start -->
-            <table>
+            <table class="w-100">
                 <thead>
                     <tr>
-                        <th class="bostami-contact-item"><h5 class="section-title">Nom</h5></th>
-                        <th class="bostami-contact-item left"><h5 class="section-title">Compétences</h5></th>
+                        <th class="w-50 bostami-contact-item"><h5 class="section-title">Nom</h5></th>
+                        <th class="w-50 bostami-contact-item left"><h5 class="section-title">Compétences</h5></th>
                     </tr>
                 </thead>
                 <tbody>
@@ -39,25 +39,25 @@ include_once "common/header.php";
                             <details>
                                 <summary>Développer la présence en ligne de l’organisation</summary>
                                 <ul>
-                                    <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                    <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
+                                    <li>&nbsp - Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                    <li>&nbsp - Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
                                 </ul>
                             </details>
                             <details>
                                 <summary>Travailler en mode projet</summary>
                                 <ul>
-                                    <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                                    <li>Planifier les activités</li>
-                                    <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                                    <li>&nbsp - Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                    <li>&nbsp - Planifier les activités</li>
+                                    <li>&nbsp - Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                                 </ul>
                             </details>
                             <details>
                                 <summary>Organiser son développement professionnel</summary>
                                 <ul>
-                                    <li>Mettre en place son environnement d’apprentissage personnel</li>
-                                    <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
-                                    <li>Gérer son identité professionnelle</li>
-                                    <li>Développer son projet professionnel</li>
+                                    <li>&nbsp - Mettre en place son environnement d’apprentissage personnel</li>
+                                    <li>&nbsp - Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                                    <li>&nbsp - Gérer son identité professionnelle</li>
+                                    <li>&nbsp - Développer son projet professionnel</li>
                                 </ul>
                             </details>
                         </td>
@@ -68,31 +68,31 @@ include_once "common/header.php";
                             <details>
                                 <summary>Développer la présence en ligne de l’organisation</summary>
                                     <ul>
-                                        <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                        <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
+                                        <li>&nbsp - Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                        <li>&nbsp - Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
                                     </ul>
                                 </details>
                             <details>
                                 <summary>Travailler en mode projet</summary>
                                     <ul>
-                                        <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                                        <li>Planifier les activités</li>
-                                        <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                                        <li>&nbsp - Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                        <li>&nbsp - Planifier les activités</li>
+                                        <li>&nbsp - Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                                     </ul>
                                 </details>
                             <details>
                                 <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                                     <ul>
-                                        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                                        <li>Déployer un service</li>
+                                        <li>&nbsp - Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                        <li>&nbsp - Déployer un service</li>
                                     </ul>
                                 </details>
                             <details>
                                 <summary>Organiser son développement professionnel</summary>
                                     <ul>
-                                        <li>Mettre en place son environnement d’apprentissage personnel</li>
-                                        <li>Gérer son identité professionnelle</li>
-                                        <li>Développer son projet professionnel</li>
+                                        <li>&nbsp - Mettre en place son environnement d’apprentissage personnel</li>
+                                        <li>&nbsp - Gérer son identité professionnelle</li>
+                                        <li>&nbsp - Développer son projet professionnel</li>
                                     </ul>
                             </details>
                         </td>
@@ -103,31 +103,31 @@ include_once "common/header.php";
                             <details>
                                 <summary>Développer la présence en ligne de l’organisation</summary>
                                 <ul>
-                                    <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                    <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
+                                    <li>&nbsp - Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                    <li>&nbsp - Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
                                 </ul>
                             </details>
                             <details>
                                 <summary>Travailler en mode projet</summary>
                                 <ul>
-                                    <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                                    <li>Planifier les activités</li>
-                                    <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                                    <li>&nbsp - Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                    <li>&nbsp - Planifier les activités</li>
+                                    <li>&nbsp - Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                                 </ul>
                             </details>
                             <details>
                                 <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                                 <ul>
-                                    <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                                    <li>Déployer un service</li>
+                                    <li>&nbsp - Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                    <li>&nbsp - Déployer un service</li>
                                 </ul>
                             </details>
                             <details>
                                 <summary>Organiser son développement professionnel</summary>
                                 <ul>
-                                    <li>Mettre en place son environnement d’apprentissage personnel</li>
-                                    <li>Gérer son identité professionnelle</li>
-                                    <li>Développer son projet professionnel</li>
+                                    <li>&nbsp - Mettre en place son environnement d’apprentissage personnel</li>
+                                    <li>&nbsp - Gérer son identité professionnelle</li>
+                                    <li>&nbsp - Développer son projet professionnel</li>
                                 </ul>
                             </details>
                         </td>
@@ -138,28 +138,28 @@ include_once "common/header.php";
                         <details>
                             <summary>Gérer le patrimoine informatique</summary>
                                 <ul>
-                                    <li>Recenser et identifier les ressources numériques</li>
-                                    <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                    <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
-                                    <li>Vérifier les conditions de la continuité d’un service informatique</li>
-                                    <li>Gérer des sauvegardes</li>
-                                    <li>Vérifier le respect des règles d’utilisation des ressources numériques</li>
+                                    <li>&nbsp - Recenser et identifier les ressources numériques</li>
+                                    <li>&nbsp - Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                    <li>&nbsp - Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                                    <li>&nbsp - Vérifier les conditions de la continuité d’un service informatique</li>
+                                    <li>&nbsp - Gérer des sauvegardes</li>
+                                    <li>&nbsp - Vérifier le respect des règles d’utilisation des ressources numériques</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Travailler en mode projet</summary>
                                 <ul>
-                                    <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                                    <li>Planifier les activités</li>
-                                    <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                                    <li>&nbsp - Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                    <li>&nbsp - Planifier les activités</li>
+                                    <li>&nbsp - Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                                 <ul>
-                                    <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                                    <li>Déployer un service</li>
-                                    <li>Accompagner les utilisateurs dans la mise en place d'un service</li>
+                                    <li>&nbsp - Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                    <li>&nbsp - Déployer un service</li>
+                                    <li>&nbsp - Accompagner les utilisateurs dans la mise en place d'un service</li>
                                 </ul>
                             </details>
                         </td>
@@ -170,25 +170,25 @@ include_once "common/header.php";
                         <details>
                             <summary>Gérer le patrimoine informatique</summary>
                                 <ul>
-                                    <li>Recenser et identifier les ressources numériques</li>
-                                    <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                    <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
-                                    <li>Gérer des sauvegardes</li>
-                                    <li>Vérifier le respect des règles d’utilisation des ressources numériques</li>
+                                    <li>&nbsp - Recenser et identifier les ressources numériques</li>
+                                    <li>&nbsp - Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                    <li>&nbsp - Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                                    <li>&nbsp - Gérer des sauvegardes</li>
+                                    <li>&nbsp - Vérifier le respect des règles d’utilisation des ressources numériques</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Travailler en mode projet</summary>
-                                <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                                <li>Planifier les activités</li>
-                                <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                                <li>&nbsp - Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                <li>&nbsp - Planifier les activités</li>
+                                <li>&nbsp - Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Organiser son développement professionnel</summary>
                                 <ul>
-                                    <li>Mettre en place son environnement d’apprentissage personnel</li>
-                                    <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                                    <li>&nbsp - Mettre en place son environnement d’apprentissage personnel</li>
+                                    <li>&nbsp - Mettre en œuvre des outils et stratégies de veille informationnelle</li>
                                 </ul>
                             </details>
                         </td>
@@ -199,25 +199,25 @@ include_once "common/header.php";
                         <details>
                             <summary>Gérer le patrimoine informatique</summary>
                                 <ul>
-                                    <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                    <li>Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
-                                    <li>Vérifier le respect des règles d’utilisation des ressources numériques</li>
+                                    <li>&nbsp - Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                    <li>&nbsp - Mettre en place et vérifier les niveaux d’habilitation associés à un service</li>
+                                    <li>&nbsp - Vérifier le respect des règles d’utilisation des ressources numériques</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Répondre aux incidents et aux demandes d’assistance et d’évolution</summary>
                                 <ul>
-                                    <li>Collecter, suivre et orienter des demandes</li>
-                                    <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
-                                    <li>Traiter des demandes concernant les applications</li>
+                                    <li>&nbsp - Collecter, suivre et orienter des demandes</li>
+                                    <li>&nbsp - Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                                    <li>&nbsp - Traiter des demandes concernant les applications</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                                 <ul>
-                                    <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                                    <li>Déployer un service</li>
-                                    <li>Accompagner les utilisateurs dans la mise en place d’un service</li>
+                                    <li>&nbsp - Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                    <li>&nbsp - Déployer un service</li>
+                                    <li>&nbsp - Accompagner les utilisateurs dans la mise en place d’un service</li>
                                 </ul>
                             </details>
                         </td>
@@ -228,47 +228,47 @@ include_once "common/header.php";
                         <details>
                             <summary>Gérer le patrimoine informatique</summary>
                                 <ul>
-                                    <li>Recenser et identifier les ressources numériques</li>
-                                    <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                    <li>Vérifier les conditions de la continuité d’un service informatique</li>
+                                    <li>&nbsp - Recenser et identifier les ressources numériques</li>
+                                    <li>&nbsp - Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                    <li>&nbsp - Vérifier les conditions de la continuité d’un service informatique</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Répondre aux incidents et aux demandes d’assistance et d’évolution</summary>
                                 <ul>
-                                    <li>Collecter, suivre et orienter des demandes</li>
-                                    <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                                    <li>&nbsp - Collecter, suivre et orienter des demandes</li>
+                                    <li>&nbsp - Traiter des demandes concernant les services réseau et système, applicatifs</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Développer la présence en ligne de l’organisation</summary>
                                 <ul>
-                                    <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                    <li>Référencer les services en ligne de l’organisation et mesurer leur visibilité</li>
-                                    <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
+                                    <li>&nbsp - Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                    <li>&nbsp - Référencer les services en ligne de l’organisation et mesurer leur visibilité</li>
+                                    <li>&nbsp - Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Travailler en mode projet</summary>
                                 <ul>
-                                    <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                                    <li>Planifier les activités</li>
-                                    <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                                    <li>&nbsp - Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                                    <li>&nbsp - Planifier les activités</li>
+                                    <li>&nbsp - Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                                 <ul>
-                                    <li>Déployer un service</li>
-                                    <li>Accompagner les utilisateurs dans la mise en place d’un service</li>
+                                    <li>&nbsp - Déployer un service</li>
+                                    <li>&nbsp - Accompagner les utilisateurs dans la mise en place d’un service</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Organiser son développement professionnel</summary>
                                 <ul>
-                                    <li>Mettre en place son environnement d’apprentissage personnel</li>
-                                    <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
-                                    <li>Gérer son identité professionnelle</li>
+                                    <li>&nbsp - Mettre en place son environnement d’apprentissage personnel</li>
+                                    <li>&nbsp - Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                                    <li>&nbsp - Gérer son identité professionnelle</li>
                                 </ul>
                             </details>
                         </td>
@@ -279,31 +279,31 @@ include_once "common/header.php";
                         <details>
                             <summary>Répondre aux incidents et aux demandes d’assistance et d’évolution</summary>
                                 <ul>
-                                    <li>Collecter, suivre et orienter des demandes</li>
-                                    <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
-                                    <li>Traiter des demandes concernant les applications</li>
+                                    <li>&nbsp - Collecter, suivre et orienter des demandes</li>
+                                    <li>&nbsp - Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                                    <li>&nbsp - Traiter des demandes concernant les applications</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Développer la présence en ligne de l’organisation</summary>
                                 <ul>
-                                    <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                    <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
+                                    <li>&nbsp - Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
+                                    <li>&nbsp - Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                                 <ul>
-                                    <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                                    <li>Déployer un service</li>
+                                    <li>&nbsp - Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                    <li>&nbsp - Déployer un service</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Organiser son développement professionnel</summary>
                                 <ul>
-                                    <li>Mettre en place son environnement d’apprentissage personnel</li>
-                                    <li>Gérer son identité professionnelle</li>
-                                    <li>Développer son projet professionnel</li>
+                                    <li>&nbsp - Mettre en place son environnement d’apprentissage personnel</li>
+                                    <li>&nbsp - Gérer son identité professionnelle</li>
+                                    <li>&nbsp - Développer son projet professionnel</li>
                                 </ul>
                             </details>
                         </td>
@@ -314,29 +314,29 @@ include_once "common/header.php";
                         <details>
                             <summary>Gérer le patrimoine informatique</summary>
                                 <ul>
-                                    <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                                    <li>Vérifier les conditions de la continuité d’un service informatique</li> 
+                                    <li>&nbsp - Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                                    <li>&nbsp - Vérifier les conditions de la continuité d’un service informatique</li> 
                                 </ul>
                             </details>
                         <details>
                             <summary>Répondre aux incidents et aux demandes d’assistance et d’évolution</summary>
                                 <ul>
-                                    <li>Collecter, suivre et orienter des demandes</li>
-                                    <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                                    <li>&nbsp - Collecter, suivre et orienter des demandes</li>
+                                    <li>&nbsp - Traiter des demandes concernant les services réseau et système, applicatifs</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                                 <ul>
-                                    <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                                    <li>Déployer un service</li>
-                                    <li>Accompagner les utilisateurs dans la mise en place d’un service</li>
+                                    <li>&nbsp - Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                                    <li>&nbsp - Déployer un service</li>
+                                    <li>&nbsp - Accompagner les utilisateurs dans la mise en place d’un service</li>
                                 </ul>
                             </details>
                         <details>
                             <summary>Organiser son développement professionnel</summary>
                                 <ul>
-                                    <li>Mettre en place son environnement d’apprentissage personnel</li>
+                                    <li>&nbsp - Mettre en place son environnement d’apprentissage personnel</li>
                                 </ul>
                             </details>
                         </td>
