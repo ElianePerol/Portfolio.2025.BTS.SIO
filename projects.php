@@ -1309,27 +1309,37 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Cahier des charges</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur (guide rapide d’utilisation de l’application)</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
+                                <a href=#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur</a>
                             </span>
                         </div>
                     </div>
