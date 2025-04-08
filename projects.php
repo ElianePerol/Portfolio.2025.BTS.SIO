@@ -889,9 +889,11 @@ include_once "common/footer.php";
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li><b>• PHP, MySQL, HTML, CSS (Bootstrap)</b></li>
                                 <li><b>• VSCode</b> pour le développement</li>
+                                <li><b>• HTML, CSS (Bootstrap), PHP, MySQL</b></li>
+                                <li><b>• Composer, PHPMailer</b> pour l'envoi de demande de support</li>
                                 <li><b>• PHPMyAdmin</b> pour la gestion de la base de données</li>
+                                <li><b>• MySQLDump, Crontab</b> pour la gestion et l'automatisation des sauvegardes de la base de données</li>
                             </ul>
                         </p>
                         <p>
@@ -904,6 +906,16 @@ include_once "common/footer.php";
                     <h5>Tâches</h5>
                         <p>
                             <h6>Rédaction du cahier des charges</h6>
+                        </p>
+                        <p>
+                            <h6>Modélisation UML :</h6>
+                            <ul>
+                                <li><b>• Diagramme de contexte</b></li>
+                                <li><b>• Diagramme de paquetages</b></li>
+                                <li><b>• Diagramme de cas d'utilisation</b></li>
+                                <li><b>• Diagramme de classes</b></li>
+                                <li><b>• Cartographie technique</b></li>
+                            </ul>
                         </p>
                         <p>
                             <h6>Modélisation de la base de données MySQL selon la méthode Merise :</h6>
@@ -947,6 +959,18 @@ include_once "common/footer.php";
                             <ul>
                                 <li>• Création manuelle des entités pour chaque table</li>
                                 <li>• Vérification du bon fonctionnement de chaque fonctionnalité sur les trois tableaux de bord différents</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Sauvegarde :</h6>
+                            <ul>
+                                <li>• Création d'un script de sauvegarde automatique depuis le VPS (MySQLDump et Crontab)</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Documentation :</h6>
+                            <ul>
+                                <li>• Rédaction d'un guide utilisateur</li>
                             </ul>
                         </p>
                 </div>
@@ -1059,6 +1083,11 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Extraits de code commentés</a>
+                            </span>
+                        </div>
+                        <div class="col-md-6">
+                            <span class="">
                                 <a href="assets/docs/projects/welcome_training_modelisation_bdd.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
                             </span>
                         </div>
@@ -1069,12 +1098,12 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/welcome_training_interfaces.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                                <a href="assets/docs/projects/welcome_training_captures_interfaces.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href=#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur</a>
                             </span>
                         </div>
                     </div>
