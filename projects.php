@@ -1054,12 +1054,12 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
+                                <a href="assets/docs/projects/welcome_training_UML.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="assets/docs/projects/welcome_training_merise_bdd.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
+                                <a href="assets/docs/projects/welcome_training_modelisation_bdd.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
                             </span>
                         </div>
                         <div class="col-md-6">
