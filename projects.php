@@ -1064,7 +1064,7 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
+                                <a href="assets/docs/projects/welcome_training_test.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Plan de test qualité</a>
                             </span>
                         </div>
                         <div class="col-md-6">
