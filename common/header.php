@@ -40,7 +40,7 @@
                                                 <a href="index.php"><span><i class="fa-light fa-house"></i></span> Accueil</a>
                                             </li>
                                             <li id="projects">
-                                                <a href="projects.php"><span><i class="fa-light fa-briefcase"></i></span> Projets</a>
+                                                <a href="projects.php"><span><i class="fa-light fa-briefcase"></i></span> Réalisations</a>
                                             <!-- </li>
                                             <li id="missions">
                                                 <a href="missions.php"><span><i class="fa-light fa-newspaper"></i></span> Missions</a>
