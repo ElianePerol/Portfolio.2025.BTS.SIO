@@ -137,21 +137,21 @@ include_once "common/header.php";
                             </div>
                             <!-- welcome-training-end -->
 
-                            <!-- click n eat-start -->
+                            <!-- invoice master-start -->
                             <div class="isotop-item online project-mode availability pro-growth">
                                 <div class="fillter-item bg-yellow">
                                     <a class="img" href="" data-bs-toggle="modal" data-bs-target="#projet-7">
-                                        <img src="assets/img/projects/clickneat.png" alt="">
+                                        <img src="assets/img/projects/invoicemaster.png" alt="">
                                     </a>
-                                    <span class="item-subtitle">ESPL Angers, Février 2025 - Mars 2025</span>
+                                    <span class="item-subtitle">ESPL Angers, Février 2025 - Avril 2025</span>
                                     <h6 class="item-title">
                                         <a href="" data-bs-toggle="modal" data-bs-target="#projet-7">
-                                            Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée
+                                            Invoice Master : Solution client lourd pour facturation et suivi de stocks
                                         </a>
                                     </h6>
                                 </div>
                             </div>
-                            <!-- click n eat-end -->
+                            <!-- invoice master-end -->
 
                             <!-- glpi-start -->
                             <div class="isotop-item support online availability pro-growth">
@@ -962,6 +962,13 @@ include_once "common/footer.php";
                             </ul>
                         </p>
                         <p>
+                            <h6>Déploiement :</h6>
+                            <ul>
+                                <li>• Configuration Nginx sur le VPS OVH</li>
+                                <li>• Mise en production avec script YAML d'automatisation des mises à jour</li>
+                            </ul>
+                        </p>
+                        <p>
                             <h6>Sauvegarde :</h6>
                             <ul>
                                 <li>• Création d'un script de sauvegarde automatique depuis le VPS (MySQLDump et Crontab)</li>
@@ -1116,7 +1123,7 @@ include_once "common/footer.php";
 </div>
 <!-- welcome-training-modal-end -->
 
-<!-- click n eat-modal-start -->
+<!-- invoice master-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-7" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-dialog-centered" style="max-width: 60%;" role="document">
         <div class="modal-content">
@@ -1128,7 +1135,7 @@ include_once "common/footer.php";
 
             <div class="modal-body">
 
-                <h6 class="blog-title">Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</h6>
+                <h6 class="blog-title">Invoice Master : Solution client lourd pour facturation et suivi de stocks</h6>
                 
                 <!-- projet-context-start -->
                 <div class="portfolio-modal-table">
@@ -1136,7 +1143,7 @@ include_once "common/footer.php";
                         <div class="col-md-6">
                             <h3 class="portfolio-modal-table-text">
                                 <i class="fa-light fa-calendar-days"></i>
-                                Dates : <span>Février 2025 - Mars 2025</span>
+                                Dates : <span>Février 2025 - Avril 2025</span>
                             </h3>
                         </div>
                         <div class="col-md-6">
@@ -1152,13 +1159,12 @@ include_once "common/footer.php";
                 <!-- projet-content-start -->
                 <div class="h1-modal-paragraph">
                     <h5>Contexte</h5>
-                        <p>Dans le cadre de ma formation en BTS SIO SLAM, ce projet fictif a pour objectif de développer une application 
-                            web permettant la gestion des restaurants, la réservation des repas et la prise de commande à l'avance.</p>
-                        <p>L'objectif est de créer une solution permettant aux clients de récupérer leurs repas dès leur arrivée, sans attente.</p>
-                        <p>Le projet vise à optimiser les échanges entre les différents acteurs du restaurant (administration, service, cuisine, 
-                            clients) grâce à une gestion fluide et synchronisée des menus, commandes et réservations.</p>
-                        <p><strong>Contrainte principale : </strong>Utilisation du framework Laravel pour le développement de l’application et 
-                            intégration d’un système de paiement en ligne via l'API Stripe</p>
+                        <p>Dans le cadre du BTS SIO SLAM, ce projet consistait à créer une application desktop clé-en-main pour centraliser 
+                            la gestion de la facturation et de l'inventaire.</p>
+                        <p>Le logiciel permet de gérer les utilisateurs, produits, catégories et stocks ainsi que d'enregistrer les transactions 
+                            (achats et ventes) avec mise à jour automatique des quantités en stock.</p>
+                        <p><strong>Contrainte principale : </strong>C# orienté objet avec .NET Framework 4.7.2 et Windows Forms, persistance 
+                            sous MS SQL Server.</p>
                     
                     <h5>Avec qui :</h5>
                         <p>
@@ -1171,18 +1177,19 @@ include_once "common/footer.php";
                         <p>
                             <h6>Outils utilisés :</h6>
                             <ul>
-                                <li><b>• VSCode</b> pour le développement</li>
-                                <li><b>• Laravel</b> : framework PHP</li>
-                                <li><b>• Quixlab</b> : template Bootstrap</li>
-                                <li><b>• SQLite</b> en préproduction et <b>MySQL</b> en production pour la gestion des données</li>
-                                <li><b>• Pest</b> : framework pour les tests unitaires</li>
+                                <li><b>• Visual Studio 2022</b> : environnement de développement intégré (IDE)</li>
+                                <li><b>• .NET 4.7.2</b> : framework Microsoft managé C#</li>
+                                <li><b>• Windows Forms</b> : framework User Interface (UI)</li>
+                                <li><b>• ADO.NET</b> : bibliothèque native d'accès aux données</li>
+                                <li><b>• SQL Server Management Studio (SSMS)</b> : système de gestion de bases de données Microsoft</li>
+                                <li><b>• draw.io</b> : pour la création de diagramme (modélisation BDD et UML)</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Sources d'apprentissage :</h6>
                             <ul>
-                                <li>• StackOverflow pour résoudre des problèmes techniques</li>
-                                <li>• Documentation officielle des technologies utilisées (Laravel, Stripe)</li>
+                                <li>• Sites W3Schools, StackOverflow</li>
+                                <li>• Documentation officielle des technologies utilisées (Microsoft : .NET, Windows Forms, ADO.NET, C#)</li>
                         </p>
                     
                     <h5>Tâches</h5>
@@ -1190,53 +1197,72 @@ include_once "common/footer.php";
                             <h6>Rédaction du cahier des charges</h6>
                         </p>
                         <p>
+                            <h6>Modélisation UML :</h6>
+                            <ul>
+                                <li><b>• Diagramme de contexte</b></li>
+                                <li><b>• Diagramme de paquetages</b></li>
+                                <li><b>• Diagramme de cas d'utilisation</b></li>
+                                <li><b>• Diagramme de classes</b></li>
+                                <li><b>• Cartographie technique</b></li>
+                            </ul>
+                        </p>
+                        <p>
                             <h6>Modélisation de la base de données selon la méthode Merise :</h6>
                             <ul>
                                 <li><b>• Rédaction d'un dictionnaire de données</b></li>
-                                <li><b>• MLD (Modèle Conceptuel de Données)</b> : Identification des entités (utilisateurs, restaurants, menus, commandes) et relations</li>
+                                <li><b>• MCD (Modèle Conceptuel de Données)</b> : Identification des entités (utilisateur, catégorie, produit, fournisseurs, 
+                                    clients, transactions, détails de transactions) et relations</li>
                                 <li><b>• MLD (Modèle Logique de Données)</b> : Transformation en tables relationnelles avec clés primaires et étrangères</li>
                                 <li><b>• MPD (Modèle Physique de Données)</b> : Création des tables et contraintes en SQL</li>
                             </ul>
                         </p>
                         <p>
+                            <h6>Interface utilisateur avec templace Quixlab :</h6>
+                            <ul>
+                                <li><b>• Création du tableau de bord administrateur</b> : permet de gérer les utilisateurs, les catégories, les produits, les 
+                                    fournisseurs et les clients, ainsi que de consulter l'inventaire et l'historique des transactions</li>
+                                <li><b>• Création du tableau de bord utilisateur standard</b> : permet de gérer les transactions (achats et vente) ainsi que
+                                    de consulter l'inventaire et l'historique des transactions</li>
+                                <li><b>• Création d'une fenêtre de connexion</b> : afin que les utilisateurs accèdent à l'interface dediée à leur rôle</li>
+                                <li><b>• Création des fenêtres de gestion de chaque entité</b> : utilisateur, catégorie, produits, achats, ventes, inventaire, transactions</li>
+                            </ul>
+                        </p>
+                        <p>
                             <h6>Implémentation de l'authentification et gestion des rôles :</h6>
                             <ul>
-                                <li>• Mise en place d'un système de connexion et d'authentification sécurisée avec Breeze</li>
+                                <li>• Mise en place d'une page de connexion et d'authentification</li>
                                 <li>• Ajout de la gestion des rôles pour restreindre les accès aux fonctionnalités 
-                                    spécifiques (tableau de bord restaurant, tableau de bord client, etc.)</li>
+                                    spécifiques (tableau de bord administrateur et utilisateur standard)</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Création des fonctionnalités principales :</h6>
                             <ul>
-                                <li><b>• Gestion des utilisateurs</b> : Authentification des utilisateurs (clients et administrateurs) avec gestion des rôles (restaurant, client)</li>
-                                <li><b>• Gestion des restaurants</b> : Création, modification, suppression et consultation des restaurants</li>
-                                <li><b>• Gestion des menus</b> : Classification des articles au menu par catégorie et ajout des options spécifiques</li>
-                                <li><b>• Gestion des commandes</b> : Prise en charge des commandes avec options de suivi</li>
-                                <li><b>• Gestion des réservations </b> : Permet aux clients de réserver des tables en ligne et de recevoir un code QR pour accéder à leur commande</li>
-                            </ul>
-                        </p>
-                        <p>
-                            <h6>Interface utilisateur avec templace Quixlab :</h6>
-                            <ul>
-                                <li><b>• Création du tableau de bord administrateur</b> : permet d'ajouter de nouveaux restaurants</li>
-                                <li><b>• Création du tableau de bord restaurant</b> : permet de créer ses menus et gérer ses commandes et réservations</li>
-                                <li><b>• Création du tableau de bord client</b> : permet de consulter les menus, réserver, commander et payer en ligne</li>
-                            </ul>
-                        </p>
-                        <p>
-                            <h6>Fonctionnalités avancées (MLP) :</h6>
-                            <ul>
-                                <li>Génération d’un lien d’accès à la commande de chaque carte de restaurant via un QR code</li>
-                                <li>Interface responsive pour une consultation facile sur tous les appareils</li>
-                                <li>Paiement en ligne via API Stripe, avec gestion de la sécurité et de la confidentialité des transactions</li>
+                                <li><b>• Gestion des utilisateurs, des fournisseurs et des clients</b> : création, modification, suppression et consultation</li>
+                                <li><b>• Gestion des catégories et des produits</b> : ajout, suppression, modification et consultation</li>
+                                <li><b>• Transactions</b> : saisie des achats et ventes, calcul des remises, de la TVA, des totaux, historique</li>
+                                <li><b>• Inventaire</b> : mise à jour du stock automatique</li>
+                                <li><b>• Option de recherche</b> : pour filtrer les entité au moment de la consultation</li>
                             </ul>
                         </p>
                         <p>
                             <h6>Tests :</h6>
                             <ul>
-                                <li>• Mise en place de tests unitaires via Pest pour valider le bon fonctionnement des différentes fonctionnalités</li>
-                                <li>• Tests d’ergonomie pour l'interface utilisateur sur différentes plateformes (mobile, tablette, desktop)</li>
+                                <li>• Création manuelle des entités pour chaque table</li>
+                                <li>• Vérification du bon fonctionnement de chaque fonctionnalité sur les deux tableaux de bord différents</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Déploiement :</h6>
+                            <ul>
+                                <li>• Mise en place d'un script SQL d'initialisation</li>
+                                <li>• Copie du dossier bin/Release et lancement du .exe</li>
+                            </ul>
+                        </p>
+                        <p>
+                            <h6>Documentation :</h6>
+                            <ul>
+                                <li>• Rédaction d'un guide utilisateur</li>
                             </ul>
                         </p>
                 </div>
@@ -1247,28 +1273,22 @@ include_once "common/footer.php";
                     <p>
                         <h5>Difficultés rencontrées</h5>
                             <ul>
-                                <li>• Prise en main du framework Laravel</li>
-                                <li>• Synchronisation des menus et des réservations en temps réel pour chaque restaurant</li>
-                                <li>• Intégration du paiement en ligne avec Stripe et gestion des erreurs de paiement</li>
+                                <li>• Assurer l’atomicité des transactions et la cohérence du stock</li>
+                                <li>• Conception WinForms et rafraîchissement dynamique des grilles</li>
+                                <li>• Gestion des transactions ADO.NET</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Solutions apportées</h5>
                             <ul>
-                            <li>• Consultation de la documentation officielle de Laravel pour faciliter la prise en main du framework et maîtriser ses concepts clés</li>
-                            <li>• Utilisation de Laravel Echo et WebSockets pour assurer la synchronisation en temps réel des menus et des réservations pour chaque restaurant</li>
-                            <li>• Intégration de Laravel Cashier avec l'API Stripe pour gérer les paiements en ligne et les éventuelles erreurs de paiement</li>
+                            <li>• Utilisation de TransactionScope pour regrouper insertions et les mises à jour</li>
+                            <li>• Architecture Business Logic Layer / Data Access Layer (BLL/DAL) pour séparer logique métier et accès données</li>
+                            <li>• Rechargement automatique des DataGridView après chaque action</li>
                             </ul>
                     </p>
                     <p>
                         <h5>Compétences couvertes</h5>
                             <ul>
-                                <li><b>• Développer la présence en ligne de l’organisation :</b>
-                                    <ul>
-                                        <li>Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                        <li>Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
-                                    </ul>
-                                </li>
                                 <li><b>• Travailler en mode projet :</b>
                                     <ul>
                                         <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
@@ -1297,17 +1317,17 @@ include_once "common/footer.php";
                         <h5>Bilan Personnel</h5>
                             <h6>Aptitudes renforcées :</h6>
                                 <ul>
-                                    <li>• Maîtrise de Laravel et de son écosystème</li>
-                                    <li>• Optimisation du code backend avec des pratiques de développement moderne</li>
-                                    <li>• Gestion de la sécurité et de l'intégration de systèmes tiers (Stripe)</li>
-                                    <li>• Tests unitaires et gestion de l’intégration continue avec Pest</li>
+                                    <li>• Programmation C# orientée objet ADO.NET</li>
+                                    <li>• Structuration BLL/DLL et gestion des transactions</li>
+                                    <li>• Création d'interfaces Windows Forms</li>
                                 </ul>
                         </p>
                         <p>
                             <h6>Axes d'amélioration :</h6>
                                 <ul>
-                                    <li>• Ajouter une fonctionnalité de gestion des stocks pour les restaurants</li>
-                                    <li>• Explorer des fonctionnalités supplémentaires comme l'intégration de la charte graphique de chaque restaurant</li>
+                                    <li>• Ajouter une fonctionnalité d'impression de factures</li>
+                                    <li>• Explorer WPF ou .NET Core pour UI moderne</li>
+                                    <li>• Automatiser les tests unitaires et d’intégration</li>
                                 </ul>
                         </p>
                     </p>
@@ -1323,37 +1343,37 @@ include_once "common/footer.php";
                     <div class="row">
                         <div class="col-md-6">
                             <span class="">
-                                <a href="https://clickneat.elianeperol.com/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Site Click'n Eat</a>
+                                <a href="https://github.com/ElianePerol/InvoiceMaster" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="https://github.com/ElianePerol/Click.n.Eat" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Repository GitHub</a>
+                                <a href="assets/docs/projects/invoice_master_gantt.png" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme de GANTT</a>
+                                <a href="assets/docs/projects/invoice_master_cahier_des_charges.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Cahier des charges</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Cahier des charges</a>
+                                <a href="assets/docs/projects/invoice_master_UML.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagrammes UML</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Diagramme UML</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>      Extraits de code commentés</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
+                                <a href="assets/docs/projects/invoice_master_modelisation_bdd.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Modélisation de la BDD</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Code source (extraits commentés)</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Plan de test qualité</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -1374,7 +1394,7 @@ include_once "common/footer.php";
         </div>
     </div>
 </div>
-<!-- click n eat-modal-end -->
+<!-- invoice master-modal-end -->
 
 <!-- glpi-modal-start -->
 <div class="modal portfolio-modal-box fade" id="projet-8" tabindex="-1" role="dialog">
