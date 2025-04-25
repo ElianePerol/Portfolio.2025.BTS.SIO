@@ -98,15 +98,8 @@ include_once "common/header.php";
                         </td>
                     </tr>
                     <tr>
-                        <th class = "catkrill-table bostami-contact-item text-start text-wrap"><span>&nbsp Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</span></th>
+                        <th class = "catkrill-table bostami-contact-item text-start text-wrap"><span>&nbsp Invoice Master : Solution client lourd pour facturation et suivi de stocks</span></th>
                         <td class = "catkrill-table bostami-contact-item">
-                            <details>
-                                <summary>Développer la présence en ligne de l’organisation</summary>
-                                <ul>
-                                    <li>&nbsp - Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                    <li>&nbsp - Participer à l’évolution d’un site Web exploitant les données de l’organisation</li>
-                                </ul>
-                            </details>
                             <details>
                                 <summary>Travailler en mode projet</summary>
                                 <ul>

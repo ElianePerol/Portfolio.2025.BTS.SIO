@@ -19,7 +19,7 @@
                         </div>
                     </div>
                 <br>
-                <span>2024 © Eliane Perol</span>
+                <span><?php echo date('Y'); ?>  © Eliane Perol</span>
                 </div>
             </div>
         </div>

@@ -235,11 +235,6 @@
                                 <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
                                 <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
                             </ul>
-                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
-                            <ul>
-                                <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
-                                <li>• Participer à l’évolution d’un site Web exploitant les données de l’organisation.</li>
-                            </ul>
                         <li><b>Résolution des Tickets GLPI et Gestion des Problèmes Techniques</b></li>
                             <ul>
                                 <li>• Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</li>
@@ -333,7 +328,7 @@
                                 <li>• Planifier les activités</li>
                                 <li>• Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                             </ul>
-                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                        <li><b>Invoice Master : Solution client lourd pour facturation et suivi de stocks</b></li>
                             <ul>
                                 <li>• Analyser les objectifs et les modalités d'organisation d'un projet</li>
                                 <li>• Planifier les activités</li>
@@ -431,7 +426,7 @@
                                 <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                 <li>• Déployer un service</li>
                             </ul>
-                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                        <li><b>Invoice Master : Solution client lourd pour facturation et suivi de stocks</b></li>
                             <ul>
                                 <li>• Réaliser les tests d'intégration et d'acceptation d'un service</li>
                                 <li>• Déployer un service</li>
@@ -540,7 +535,7 @@
                                     <li>• Gérer son identité professionnelle</li>
                                     <li>• Développer son projet professionnel</li>
                                 </ul>
-                        <li><b>Click'n Eat : Application Laravel pour une Expérience de Restaurant Simplifiée</b></li>
+                        <li><b>Invoice Master : Solution client lourd pour facturation et suivi de stocks</b></li>
                             <ul>
                                 <li>• Mettre en place son environnement d’apprentissage personnel</li>
                                 <li>• Gérer son identité professionnelle</li>
