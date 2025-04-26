@@ -1217,13 +1217,13 @@ include_once "common/footer.php";
                             </ul>
                         </p>
                         <p>
-                            <h6>Interface utilisateur avec templace Quixlab :</h6>
+                            <h6>Interface utilisateur avec Windows Forms :</h6>
                             <ul>
                                 <li><b>• Création du tableau de bord administrateur</b> : permet de gérer les utilisateurs, les catégories, les produits, les 
                                     fournisseurs et les clients, ainsi que de consulter l'inventaire et l'historique des transactions</li>
                                 <li><b>• Création du tableau de bord utilisateur standard</b> : permet de gérer les transactions (achats et vente) ainsi que
                                     de consulter l'inventaire et l'historique des transactions</li>
-                                <li><b>• Création d'une fenêtre de connexion</b> : afin que les utilisateurs accèdent à l'interface dediée à leur rôle</li>
+                                <li><b>• Création d'une fenêtre de connexion</b> : afin que les utilisateurs accèdent à l'interface dédiée à leur rôle</li>
                                 <li><b>• Création des fenêtres de gestion de chaque entité</b> : utilisateur, catégorie, produits, achats, ventes, inventaire, transactions</li>
                             </ul>
                         </p>
@@ -1378,12 +1378,12 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
+                                <a href="assets/docs/projects/invoice_master_captures_interfaces.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Captures d’écran des interfaces</a>
                             </span>
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur</a>
+                                <a href="assets/docs/projects/invoice_master_documentation_utilisateur.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur</a>
                             </span>
                         </div>
                     </div>
