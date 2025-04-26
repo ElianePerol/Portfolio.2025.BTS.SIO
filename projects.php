@@ -1363,7 +1363,7 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>      Extraits de code commentés</a>
+                                <a href="assets/docs/projects/invoice_master_extraits_code_commentes.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>      Extraits de code commentés</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -1373,7 +1373,7 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Plan de test qualité</a>
+                                <a href="assets/docs/projects/invoice_master_test.pdf" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Plan de test qualité</a>
                             </span>
                         </div>
                         <div class="col-md-6">
@@ -1383,7 +1383,7 @@ include_once "common/footer.php";
                         </div>
                         <div class="col-md-6">
                             <span class="">
-                                <a href=#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur</a>
+                                <a href="#" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i>   Documentation utilisateur</a>
                             </span>
                         </div>
                     </div>
