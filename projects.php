@@ -947,7 +947,7 @@ include_once "common/footer.php";
                             </ul>
                         </p>
                         <p>
-                            <h6>Interface utilisateur avec Bootstrap :</h6>
+                            <h6>Interfaces utilisateurs avec Bootstrap :</h6>
                             <ul>
                                 <li><b>• Création du tableau de bord administrateur</b> : permet de gérer les utilisateurs, les classes et les matières</li>
                                 <li><b>• Création du tableau de bord enseignant</b> : permet de  gérer les présences et de consulter l'emploi du temps</li>
@@ -1210,14 +1210,14 @@ include_once "common/footer.php";
                             <h6>Modélisation de la base de données selon la méthode Merise :</h6>
                             <ul>
                                 <li><b>• Rédaction d'un dictionnaire de données</b></li>
-                                <li><b>• MCD (Modèle Conceptuel de Données)</b> : Identification des entités (utilisateur, catégorie, produit, fournisseurs, 
+                                <li><b>• MCD (Modèle Conceptuel de Données)</b> : Identification des entités (utilisateurs, catégories, produits, fournisseurs, 
                                     clients, transactions, détails de transactions) et relations</li>
                                 <li><b>• MLD (Modèle Logique de Données)</b> : Transformation en tables relationnelles avec clés primaires et étrangères</li>
                                 <li><b>• MPD (Modèle Physique de Données)</b> : Création des tables et contraintes en SQL</li>
                             </ul>
                         </p>
                         <p>
-                            <h6>Interface utilisateur avec Windows Forms :</h6>
+                            <h6>Interfaces utilisateurs avec Windows Forms :</h6>
                             <ul>
                                 <li><b>• Création du tableau de bord administrateur</b> : permet de gérer les utilisateurs, les catégories, les produits, les 
                                     fournisseurs et les clients, ainsi que de consulter l'inventaire et l'historique des transactions</li>
