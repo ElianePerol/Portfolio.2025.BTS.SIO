@@ -239,7 +239,7 @@ include_once "common/header.php";
                             </div>
                             <div class="text">
                                 <h4 class="title">Information</h4>
-                                <p>DDiffusion d'informations et sensibilisation des salariés sur divers sujets, notamment la sécurité informatique, via les 
+                                <p>Diffusion d'informations et sensibilisation des salariés sur divers sujets, notamment la sécurité informatique, via les 
                                     "Café Qualité" et le logiciel qualité SapaNet.
                                     <br><br>
                                 </p>

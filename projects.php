@@ -12,7 +12,7 @@ include_once "common/header.php";
                 <div class="row">
                     <div class="col-12">
                         <div class="bostami-page-title-wrap mb-40">
-                            <h2 class="page-title">Projets</h2>
+                            <h2 class="page-title">Réalisations</h2>
 
                             <!-- tableau-synthèse-button -->
                             <div class="bostami-parsonal-info-btn">
