@@ -1,0 +1,47 @@
+name: Deploiement GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generer le site statique depuis le PHP
+        run: |
+          mkdir -p _site
+          cp -r assets _site/
+          for f in *.php; do
+            case "$f" in *-modals.php) continue ;; esac
+            php "$f" > "_site/${f%.php}.html"
+          done
+          sed -i -E 's/(href="[^":#?]*)\.php/\1.html/g' _site/*.html
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
